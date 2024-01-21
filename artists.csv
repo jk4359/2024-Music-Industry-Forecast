@@ -1,0 +1,5001 @@
+year,month,week,rank,track title,artist name
+2021,11,1,1,,Drake
+2021,11,1,2,,Taylor Swift
+2021,11,1,3,,Kanye West
+2021,11,1,4,,Juice WRLD
+2021,11,1,5,,Ed Sheeran
+2021,11,1,6,,The Weeknd
+2021,11,1,7,,Doja Cat
+2021,11,1,8,,Bad Bunny
+2021,11,1,9,,Polo G
+2021,11,1,10,,Lil Baby
+2021,11,1,11,,Justin Bieber
+2021,11,1,12,,Lil Uzi Vert
+2021,11,1,13,,J. Cole
+2021,11,1,14,,Billie Eilish
+2021,11,1,15,,Travis Scott
+2021,11,1,16,,YoungBoy Never Broke Again
+2021,11,1,17,,Ariana Grande
+2021,11,1,18,,Young Thug
+2021,11,1,19,,Adele
+2021,11,1,20,,Future
+2021,11,1,21,,Eminem
+2021,11,1,22,,$uicideboy$
+2021,11,1,23,,21 Savage
+2021,11,1,24,,Mac Miller
+2021,11,1,25,,Morgan Wallen
+2021,11,1,26,,XXXTENTACION
+2021,11,1,27,,Post Malone
+2021,11,1,28,,Lil Durk
+2021,11,1,29,,Kendrick Lamar
+2021,11,1,30,,Lil Nas X
+2021,11,1,31,,Megan Thee Stallion
+2021,11,1,32,,Trippie Redd
+2021,11,1,33,,Playboi Carti
+2021,11,1,34,,Olivia Rodrigo
+2021,11,1,35,,"Tyler, The Creator"
+2021,11,1,36,,A$AP Rocky
+2021,11,1,37,,BTS
+2021,11,1,38,,The Kid LAROI
+2021,11,1,39,,Lil Wayne
+2021,11,1,40,,Jack Harlow
+2021,11,1,41,,Gunna
+2021,11,1,42,,DaBaby
+2021,11,1,43,,Pop Smoke
+2021,11,1,44,,J Balvin
+2021,11,1,45,,Khalid
+2021,11,1,46,,Rihanna
+2021,11,1,47,,Dua Lipa
+2021,11,1,48,,Luke Combs
+2021,11,1,49,,Lil Peep
+2021,11,1,50,,Bruno Mars
+2021,11,1,51,,Kid Cudi
+2021,11,1,52,,Coldplay
+2021,11,1,53,,SZA
+2021,11,1,54,,Chris Brown
+2021,11,1,55,,Machine Gun Kelly
+2021,11,1,56,,Nicki Minaj
+2021,11,1,57,,Lana Del Rey
+2021,11,1,58,,Lil Tjay
+2021,11,1,59,,Halsey
+2021,11,1,60,,Don Toliver
+2021,11,1,61,,Baby Keem
+2021,11,1,62,,Michael Jackson
+2021,11,1,63,,Harry Styles
+2021,11,1,64,,Rauw Alejandro
+2021,11,1,65,,Lil Tecca
+2021,11,1,66,,Imagine Dragons
+2021,11,1,67,,Marshmello
+2021,11,1,68,,Frank Ocean
+2021,11,1,69,,A Boogie Wit da Hoodie
+2021,11,1,70,,NF
+2021,11,1,71,,The Beatles
+2021,11,1,72,,Metro Boomin
+2021,11,1,73,,Glass Animals
+2021,11,1,74,,Big Sean
+2021,11,1,75,,Kodak Black
+2021,11,1,76,,Maroon 5
+2021,11,1,77,,Moneybagg Yo
+2021,11,1,78,,Rod Wave
+2021,11,1,79,,blackbear
+2021,11,1,80,,Meek Mill
+2021,11,1,81,,The Neighbourhood
+2021,11,1,82,,Eslabon Armado
+2021,11,1,83,,Ty Dolla $ign
+2021,11,1,84,,Elton John
+2021,11,1,85,,Sleepy Hallow
+2021,11,1,86,,Migos
+2021,11,1,87,,One Direction
+2021,11,1,88,,WILLOW
+2021,11,1,89,,Lady Gaga
+2021,11,1,90,,Cardi B
+2021,11,1,91,,Ozuna
+2021,11,1,92,,Beyoncé
+2021,11,1,93,,JAY-Z
+2021,11,1,94,,Joji
+2021,11,1,95,,Katy Perry
+2021,11,1,96,,Roddy Ricch
+2021,11,1,97,,Twenty One Pilots
+2021,11,1,98,,Lin-Manuel Miranda
+2021,11,1,99,,Giveon
+2021,11,1,100,,Farruko
+2021,11,1,101,,Panic! At The Disco
+2021,11,1,102,,Anuel AA
+2021,11,1,103,,Jason Aldean
+2021,11,1,104,,Miley Cyrus
+2021,11,1,105,,Grupo Firme
+2021,11,1,106,,Queen
+2021,11,1,107,,Kevin Gates
+2021,11,1,108,,Mitski
+2021,11,1,109,,Kane Brown
+2021,11,1,110,,Wiz Khalifa
+2021,11,1,111,,Ski Mask The Slump God
+2021,11,1,112,,Linkin Park
+2021,11,1,113,,Fall Out Boy
+2021,11,1,114,,Melanie Martinez
+2021,11,1,115,,Chris Stapleton
+2021,11,1,116,,KAROL G
+2021,11,1,117,,Sam Smith
+2021,11,1,118,,Hozier
+2021,11,1,119,,Florida Georgia Line
+2021,11,1,120,,Nirvana
+2021,11,1,121,,Jhayco
+2021,11,1,122,,Brent Faiyaz
+2021,11,1,123,,Shawn Mendes
+2021,11,1,124,,Fleetwood Mac
+2021,11,1,125,,Russ
+2021,11,1,126,,Conan Gray
+2021,11,1,127,,Arctic Monkeys
+2021,11,1,128,,Logic
+2021,11,1,129,,YNW Melly
+2021,11,1,130,,Myke Towers
+2021,11,1,131,,Daddy Yankee
+2021,11,1,132,,David Guetta
+2021,11,1,133,,G Herbo
+2021,11,1,134,,Childish Gambino
+2021,11,1,135,,AC/DC
+2021,11,1,136,,Joyner Lucas
+2021,11,1,137,,John Mayer
+2021,11,1,138,,iann dior
+2021,11,1,139,,Metallica
+2021,11,1,140,,Tame Impala
+2021,11,1,141,,Cody Johnson
+2021,11,1,142,,Key Glock
+2021,11,1,143,,Kali Uchis
+2021,11,1,144,,King Von
+2021,11,1,145,,Red Hot Chili Peppers
+2021,11,1,146,,Tyler Childers
+2021,11,1,147,,My Chemical Romance
+2021,11,1,148,,Green Day
+2021,11,1,149,,Gorillaz
+2021,11,1,150,,Gucci Mane
+2021,11,1,151,,Luke Bryan
+2021,11,1,152,,Camila Cabello
+2021,11,1,153,,Summer Walker
+2021,11,1,154,,Frank Sinatra
+2021,11,1,155,,Tory Lanez
+2021,11,1,156,,Jhené Aiko
+2021,11,1,157,,Pitbull
+2021,11,1,158,,Selena Gomez
+2021,11,1,159,,Tyga
+2021,11,1,160,,Mariah Carey
+2021,11,1,161,,G-Eazy
+2021,11,1,162,,Clairo
+2021,11,1,163,,Paramore
+2021,11,1,164,,Britney Spears
+2021,11,1,165,,Bryson Tiller
+2021,11,1,166,,Mac DeMarco
+2021,11,1,167,,AJR
+2021,11,1,168,,Maluma
+2021,11,1,169,,6LACK
+2021,11,1,170,,Thomas Rhett
+2021,11,1,171,,Bo Burnham
+2021,11,1,172,,USHER
+2021,11,1,173,,Lorde
+2021,11,1,174,,Calvin Harris
+2021,11,1,175,,DJ Khaled
+2021,11,1,176,,2Pac
+2021,11,1,177,,Kacey Musgraves
+2021,11,1,178,,The Rolling Stones
+2021,11,1,179,,Dan + Shay
+2021,11,1,180,,Diplo
+2021,11,1,181,,Daniel Caesar
+2021,11,1,182,,Demi Lovato
+2021,11,1,183,,Kehlani
+2021,11,1,184,,NLE Choppa
+2021,11,1,185,,$NOT
+2021,11,1,186,,Junior H
+2021,11,1,187,,Tainy
+2021,11,1,188,,H.E.R.
+2021,11,1,189,,Rex Orange County
+2021,11,1,190,,Slipknot
+2021,11,1,191,,Cavetown
+2021,11,1,192,,The Lumineers
+2021,11,1,193,,George Strait
+2021,11,1,194,,Led Zeppelin
+2021,11,1,195,,Lil Yachty
+2021,11,1,196,,Steve Lacy
+2021,11,1,197,,The Chainsmokers
+2021,11,1,198,,Sech
+2021,11,1,199,,Swae Lee
+2021,11,1,200,,Phoebe Bridgers
+2021,12,1,1,,Taylor Swift
+2021,12,1,2,,Drake
+2021,12,1,3,,Juice WRLD
+2021,12,1,4,,Kanye West
+2021,12,1,5,,Adele
+2021,12,1,6,,The Weeknd
+2021,12,1,7,,Doja Cat
+2021,12,1,8,,Polo G
+2021,12,1,9,,Bad Bunny
+2021,12,1,10,,Ariana Grande
+2021,12,1,11,,Justin Bieber
+2021,12,1,12,,Lil Baby
+2021,12,1,13,,Lil Uzi Vert
+2021,12,1,14,,J. Cole
+2021,12,1,15,,Morgan Wallen
+2021,12,1,16,,YoungBoy Never Broke Again
+2021,12,1,17,,Travis Scott
+2021,12,1,18,,Post Malone
+2021,12,1,19,,Bruno Mars
+2021,12,1,20,,$uicideboy$
+2021,12,1,21,,Future
+2021,12,1,22,,Playboi Carti
+2021,12,1,23,,Billie Eilish
+2021,12,1,24,,BTS
+2021,12,1,25,,XXXTENTACION
+2021,12,1,26,,21 Savage
+2021,12,1,27,,Eminem
+2021,12,1,28,,Kendrick Lamar
+2021,12,1,29,,Ed Sheeran
+2021,12,1,30,,Lil Durk
+2021,12,1,31,,"Tyler, The Creator"
+2021,12,1,32,,Mac Miller
+2021,12,1,33,,Trippie Redd
+2021,12,1,34,,Olivia Rodrigo
+2021,12,1,35,,The Beatles
+2021,12,1,36,,Young Thug
+2021,12,1,37,,Bing Crosby
+2021,12,1,38,,Michael Bublé
+2021,12,1,39,,Lil Nas X
+2021,12,1,40,,Pentatonix
+2021,12,1,41,,DaBaby
+2021,12,1,42,,The Kid LAROI
+2021,12,1,43,,Pop Smoke
+2021,12,1,44,,Gunna
+2021,12,1,45,,Luke Combs
+2021,12,1,46,,Jack Harlow
+2021,12,1,47,,Lil Wayne
+2021,12,1,48,,Frank Sinatra
+2021,12,1,49,,Anderson .Paak
+2021,12,1,50,,SZA
+2021,12,1,51,,Anuel AA
+2021,12,1,52,,Young Dolph
+2021,12,1,53,,Khalid
+2021,12,1,54,,Rod Wave
+2021,12,1,55,,Megan Thee Stallion
+2021,12,1,56,,Summer Walker
+2021,12,1,57,,J Balvin
+2021,12,1,58,,Lil Peep
+2021,12,1,59,,Mariah Carey
+2021,12,1,60,,Dua Lipa
+2021,12,1,61,,Kid Cudi
+2021,12,1,62,,Imagine Dragons
+2021,12,1,63,,Baby Keem
+2021,12,1,64,,Kodak Black
+2021,12,1,65,,Rihanna
+2021,12,1,66,,Machine Gun Kelly
+2021,12,1,67,,Silk Sonic
+2021,12,1,68,,Harry Styles
+2021,12,1,69,,Chris Brown
+2021,12,1,70,,Lil Tjay
+2021,12,1,71,,Nicki Minaj
+2021,12,1,72,,Coldplay
+2021,12,1,73,,Halsey
+2021,12,1,74,,Frank Ocean
+2021,12,1,75,,NF
+2021,12,1,76,,Lin-Manuel Miranda
+2021,12,1,77,,Nat King Cole
+2021,12,1,78,,A Boogie Wit da Hoodie
+2021,12,1,79,,Glass Animals
+2021,12,1,80,,The Neighbourhood
+2021,12,1,81,,Rauw Alejandro
+2021,12,1,82,,Lil Tecca
+2021,12,1,83,,Metro Boomin
+2021,12,1,84,,Key Glock
+2021,12,1,85,,blackbear
+2021,12,1,86,,Marshmello
+2021,12,1,87,,Chris Stapleton
+2021,12,1,88,,Lana Del Rey
+2021,12,1,89,,A$AP Rocky
+2021,12,1,90,,Elton John
+2021,12,1,91,,Don Toliver
+2021,12,1,92,,Maroon 5
+2021,12,1,93,,Moneybagg Yo
+2021,12,1,94,,Joji
+2021,12,1,95,,One Direction
+2021,12,1,96,,Kali Uchis
+2021,12,1,97,,Cardi B
+2021,12,1,98,,Twenty One Pilots
+2021,12,1,99,,Eslabon Armado
+2021,12,1,100,,Ozuna
+2021,12,1,101,,Jason Aldean
+2021,12,1,102,,Mitski
+2021,12,1,103,,Kelly Clarkson
+2021,12,1,104,,Meek Mill
+2021,12,1,105,,Roddy Ricch
+2021,12,1,106,,Sleepy Hallow
+2021,12,1,107,,Ty Dolla $ign
+2021,12,1,108,,JAY-Z
+2021,12,1,109,,Lady Gaga
+2021,12,1,110,,Bryson Tiller
+2021,12,1,111,,Andy Williams
+2021,12,1,112,,Giveon
+2021,12,1,113,,Brent Faiyaz
+2021,12,1,114,,Kevin Gates
+2021,12,1,115,,WILLOW
+2021,12,1,116,,Grupo Firme
+2021,12,1,117,,Katy Perry
+2021,12,1,118,,Beyoncé
+2021,12,1,119,,NLE Choppa
+2021,12,1,120,,Migos
+2021,12,1,121,,Melanie Martinez
+2021,12,1,122,,Queen
+2021,12,1,123,,Dean Martin
+2021,12,1,124,,Arctic Monkeys
+2021,12,1,125,,Panic! At The Disco
+2021,12,1,126,,Elvis Presley
+2021,12,1,127,,Miley Cyrus
+2021,12,1,128,,Farruko
+2021,12,1,129,,Shawn Mendes
+2021,12,1,130,,Big Sean
+2021,12,1,131,,Vince Guaraldi Trio
+2021,12,1,132,,Linkin Park
+2021,12,1,133,,Sam Smith
+2021,12,1,134,,Arcane
+2021,12,1,135,,Jhayco
+2021,12,1,136,,Russ
+2021,12,1,137,,Ski Mask The Slump God
+2021,12,1,138,,iann dior
+2021,12,1,139,,Sia
+2021,12,1,140,,Kane Brown
+2021,12,1,141,,KAROL G
+2021,12,1,142,,Fall Out Boy
+2021,12,1,143,,Nirvana
+2021,12,1,144,,Wiz Khalifa
+2021,12,1,145,,Logic
+2021,12,1,146,,G Herbo
+2021,12,1,147,,Myke Towers
+2021,12,1,148,,King Von
+2021,12,1,149,,Tyler Childers
+2021,12,1,150,,Florida Georgia Line
+2021,12,1,151,,Childish Gambino
+2021,12,1,152,,Hozier
+2021,12,1,153,,League of Legends
+2021,12,1,154,,Fleetwood Mac
+2021,12,1,155,,YNW Melly
+2021,12,1,156,,Tory Lanez
+2021,12,1,157,,Perry Como
+2021,12,1,158,,Mac DeMarco
+2021,12,1,159,,Cody Johnson
+2021,12,1,160,,Daddy Yankee
+2021,12,1,161,,$NOT
+2021,12,1,162,,Metallica
+2021,12,1,163,,Tame Impala
+2021,12,1,164,,Red Hot Chili Peppers
+2021,12,1,165,,The Lumineers
+2021,12,1,166,,DJ Khaled
+2021,12,1,167,,Gorillaz
+2021,12,1,168,,Lil Yachty
+2021,12,1,169,,Kacey Musgraves
+2021,12,1,170,,Green Day
+2021,12,1,171,,Jhené Aiko
+2021,12,1,172,,Michael Jackson
+2021,12,1,173,,Thomas Rhett
+2021,12,1,174,,Dan + Shay
+2021,12,1,175,,Gucci Mane
+2021,12,1,176,,6LACK
+2021,12,1,177,,GAYLE
+2021,12,1,178,,Daniel Caesar
+2021,12,1,179,,David Guetta
+2021,12,1,180,,My Chemical Romance
+2021,12,1,181,,AJR
+2021,12,1,182,,Clairo
+2021,12,1,183,,John Legend
+2021,12,1,184,,TWICE
+2021,12,1,185,,Paramore
+2021,12,1,186,,2Pac
+2021,12,1,187,,Conan Gray
+2021,12,1,188,,Tate McRae
+2021,12,1,189,,Luke Bryan
+2021,12,1,190,,Tyga
+2021,12,1,191,,Maluma
+2021,12,1,192,,Cavetown
+2021,12,1,193,,Bo Burnham
+2021,12,1,194,,Steve Lacy
+2021,12,1,195,,Carrie Underwood
+2021,12,1,196,,Phoebe Bridgers
+2021,12,1,197,,Diplo
+2021,12,1,198,,AC/DC
+2021,12,1,199,,Burl Ives
+2021,12,1,200,,Kehlani
+2022,1,1,1,,Taylor Swift
+2022,1,1,2,,Drake
+2022,1,1,3,,Juice WRLD
+2022,1,1,4,,Kanye West
+2022,1,1,5,,The Weeknd
+2022,1,1,6,,Lin-Manuel Miranda
+2022,1,1,7,,Polo G
+2022,1,1,8,,Doja Cat
+2022,1,1,9,,Bad Bunny
+2022,1,1,10,,Morgan Wallen
+2022,1,1,11,,Lil Baby
+2022,1,1,12,,YoungBoy Never Broke Again
+2022,1,1,13,,Justin Bieber
+2022,1,1,14,,J. Cole
+2022,1,1,15,,Lil Uzi Vert
+2022,1,1,16,,Post Malone
+2022,1,1,17,,Ariana Grande
+2022,1,1,18,,Playboi Carti
+2022,1,1,19,,Eminem
+2022,1,1,20,,XXXTENTACION
+2022,1,1,21,,Travis Scott
+2022,1,1,22,,Lil Durk
+2022,1,1,23,,Billie Eilish
+2022,1,1,24,,Future
+2022,1,1,25,,"Tyler, The Creator"
+2022,1,1,26,,$uicideboy$
+2022,1,1,27,,Trippie Redd
+2022,1,1,28,,Kendrick Lamar
+2022,1,1,29,,Adele
+2022,1,1,30,,Mac Miller
+2022,1,1,31,,BTS
+2022,1,1,32,,21 Savage
+2022,1,1,33,,Ed Sheeran
+2022,1,1,34,,Bruno Mars
+2022,1,1,35,,Olivia Rodrigo
+2022,1,1,36,,SZA
+2022,1,1,37,,Kodak Black
+2022,1,1,38,,Gunna
+2022,1,1,39,,Young Thug
+2022,1,1,40,,DaBaby
+2022,1,1,41,,The Kid LAROI
+2022,1,1,42,,Khalid
+2022,1,1,43,,Pop Smoke
+2022,1,1,44,,The Beatles
+2022,1,1,45,,Lil Wayne
+2022,1,1,46,,Kid Cudi
+2022,1,1,47,,Lil Nas X
+2022,1,1,48,,Dua Lipa
+2022,1,1,49,,Roddy Ricch
+2022,1,1,50,,Lil Peep
+2022,1,1,51,,Jack Harlow
+2022,1,1,52,,Imagine Dragons
+2022,1,1,53,,A Boogie Wit da Hoodie
+2022,1,1,54,,Rod Wave
+2022,1,1,55,,Rihanna
+2022,1,1,56,,Luke Combs
+2022,1,1,57,,Stephanie Beatriz
+2022,1,1,58,,J Balvin
+2022,1,1,59,,The Neighbourhood
+2022,1,1,60,,Megan Thee Stallion
+2022,1,1,61,,Nicki Minaj
+2022,1,1,62,,Halsey
+2022,1,1,63,,Frank Ocean
+2022,1,1,64,,Lil Tjay
+2022,1,1,65,,Coldplay
+2022,1,1,66,,Chris Brown
+2022,1,1,67,,NF
+2022,1,1,68,,Machine Gun Kelly
+2022,1,1,69,,Baby Keem
+2022,1,1,70,,Glass Animals
+2022,1,1,71,,Summer Walker
+2022,1,1,72,,Rauw Alejandro
+2022,1,1,73,,Young Dolph
+2022,1,1,74,,Marshmello
+2022,1,1,75,,Metro Boomin
+2022,1,1,76,,Lana Del Rey
+2022,1,1,77,,Katy Perry
+2022,1,1,78,,Harry Styles
+2022,1,1,79,,Maroon 5
+2022,1,1,80,,Mitski
+2022,1,1,81,,Anderson .Paak
+2022,1,1,82,,Moneybagg Yo
+2022,1,1,83,,Elton John
+2022,1,1,84,,Anuel AA
+2022,1,1,85,,blackbear
+2022,1,1,86,,Cardi B
+2022,1,1,87,,A$AP Rocky
+2022,1,1,88,,One Direction
+2022,1,1,89,,Encanto - Cast
+2022,1,1,90,,Lil Tecca
+2022,1,1,91,,Joji
+2022,1,1,92,,Chris Stapleton
+2022,1,1,93,,JAY-Z
+2022,1,1,94,,Beyoncé
+2022,1,1,95,,Brent Faiyaz
+2022,1,1,96,,Melanie Martinez
+2022,1,1,97,,Ski Mask The Slump God
+2022,1,1,98,,Sleepy Hallow
+2022,1,1,99,,Lady Gaga
+2022,1,1,100,,Don Toliver
+2022,1,1,101,,Shawn Mendes
+2022,1,1,102,,Tory Lanez
+2022,1,1,103,,NLE Choppa
+2022,1,1,104,,Giveon
+2022,1,1,105,,Migos
+2022,1,1,106,,Ty Dolla $ign
+2022,1,1,107,,Jason Aldean
+2022,1,1,108,,Twenty One Pilots
+2022,1,1,109,,Arctic Monkeys
+2022,1,1,110,,Kali Uchis
+2022,1,1,111,,Wiz Khalifa
+2022,1,1,112,,Miley Cyrus
+2022,1,1,113,,Kevin Gates
+2022,1,1,114,,Diane Guerrero
+2022,1,1,115,,Steve Lacy
+2022,1,1,116,,Panic! At The Disco
+2022,1,1,117,,Big Sean
+2022,1,1,118,,Ozuna
+2022,1,1,119,,Queen
+2022,1,1,120,,Key Glock
+2022,1,1,121,,Grupo Firme
+2022,1,1,122,,Eslabon Armado
+2022,1,1,123,,Farruko
+2022,1,1,124,,Tyler Childers
+2022,1,1,125,,Linkin Park
+2022,1,1,126,,Meek Mill
+2022,1,1,127,,Kane Brown
+2022,1,1,128,,Childish Gambino
+2022,1,1,129,,Fleetwood Mac
+2022,1,1,130,,Fall Out Boy
+2022,1,1,131,,Silk Sonic
+2022,1,1,132,,Russ
+2022,1,1,133,,Mac DeMarco
+2022,1,1,134,,Adassa
+2022,1,1,135,,Florida Georgia Line
+2022,1,1,136,,Nirvana
+2022,1,1,137,,WILLOW
+2022,1,1,138,,Maluma
+2022,1,1,139,,King Von
+2022,1,1,140,,Jhayco
+2022,1,1,141,,League of Legends
+2022,1,1,142,,Logic
+2022,1,1,143,,6LACK
+2022,1,1,144,,YNW Melly
+2022,1,1,145,,Arcane
+2022,1,1,146,,Tame Impala
+2022,1,1,147,,Bryson Tiller
+2022,1,1,148,,Daddy Yankee
+2022,1,1,149,,Michael Jackson
+2022,1,1,150,,David Guetta
+2022,1,1,151,,G Herbo
+2022,1,1,152,,Hozier
+2022,1,1,153,,Red Hot Chili Peppers
+2022,1,1,154,,Myke Towers
+2022,1,1,155,,KAROL G
+2022,1,1,156,,Jhené Aiko
+2022,1,1,157,,OneRepublic
+2022,1,1,158,,Thomas Rhett
+2022,1,1,159,,Gucci Mane
+2022,1,1,160,,Luke Bryan
+2022,1,1,161,,The Lumineers
+2022,1,1,162,,Cody Johnson
+2022,1,1,163,,Clairo
+2022,1,1,164,,Sam Smith
+2022,1,1,165,,Pitbull
+2022,1,1,166,,Metallica
+2022,1,1,167,,AJR
+2022,1,1,168,,Chief Keef
+2022,1,1,169,,Green Day
+2022,1,1,170,,DJ Khaled
+2022,1,1,171,,Cavetown
+2022,1,1,172,,Gorillaz
+2022,1,1,173,,Carolina Gaitán - La Gaita
+2022,1,1,174,,Mauro Castillo
+2022,1,1,175,,Chase Atlantic
+2022,1,1,176,,Paramore
+2022,1,1,177,,Daniel Caesar
+2022,1,1,178,,AC/DC
+2022,1,1,179,,2Pac
+2022,1,1,180,,JID
+2022,1,1,181,,Diplo
+2022,1,1,182,,USHER
+2022,1,1,183,,Lil Yachty
+2022,1,1,184,,Calvin Harris
+2022,1,1,185,,Conan Gray
+2022,1,1,186,,My Chemical Romance
+2022,1,1,187,,John Mayer
+2022,1,1,188,,Swae Lee
+2022,1,1,189,,GAYLE
+2022,1,1,190,,Rex Orange County
+2022,1,1,191,,Led Zeppelin
+2022,1,1,192,,TWICE
+2022,1,1,193,,Tyga
+2022,1,1,194,,$NOT
+2022,1,1,195,,Tate McRae
+2022,1,1,196,,Demi Lovato
+2022,1,1,197,,George Strait
+2022,1,1,198,,Lorde
+2022,1,1,199,,Kehlani
+2022,1,1,200,,Tiësto
+2022,2,1,1,,Drake
+2022,2,1,2,,Taylor Swift
+2022,2,1,3,,Juice WRLD
+2022,2,1,4,,The Weeknd
+2022,2,1,5,,Lin-Manuel Miranda
+2022,2,1,6,,Kanye West
+2022,2,1,7,,Bad Bunny
+2022,2,1,8,,YoungBoy Never Broke Again
+2022,2,1,9,,Gunna
+2022,2,1,10,,Polo G
+2022,2,1,11,,Doja Cat
+2022,2,1,12,,Lil Baby
+2022,2,1,13,,J. Cole
+2022,2,1,14,,Future
+2022,2,1,15,,XXXTENTACION
+2022,2,1,16,,Morgan Wallen
+2022,2,1,17,,Eminem
+2022,2,1,18,,Lil Uzi Vert
+2022,2,1,19,,"Tyler, The Creator"
+2022,2,1,20,,Justin Bieber
+2022,2,1,21,,Kendrick Lamar
+2022,2,1,22,,21 Savage
+2022,2,1,23,,$uicideboy$
+2022,2,1,24,,Mac Miller
+2022,2,1,25,,Post Malone
+2022,2,1,26,,Travis Scott
+2022,2,1,27,,Playboi Carti
+2022,2,1,28,,Ariana Grande
+2022,2,1,29,,Lil Durk
+2022,2,1,30,,Billie Eilish
+2022,2,1,31,,Trippie Redd
+2022,2,1,32,,BTS
+2022,2,1,33,,Stephanie Beatriz
+2022,2,1,34,,Kodak Black
+2022,2,1,35,,Ed Sheeran
+2022,2,1,36,,Bruno Mars
+2022,2,1,37,,Young Thug
+2022,2,1,38,,SZA
+2022,2,1,39,,Lil Wayne
+2022,2,1,40,,Frank Ocean
+2022,2,1,41,,Olivia Rodrigo
+2022,2,1,42,,Adele
+2022,2,1,43,,DaBaby
+2022,2,1,44,,Khalid
+2022,2,1,45,,The Neighbourhood
+2022,2,1,46,,Rihanna
+2022,2,1,47,,Pop Smoke
+2022,2,1,48,,Kid Cudi
+2022,2,1,49,,Rod Wave
+2022,2,1,50,,NLE Choppa
+2022,2,1,51,,J Balvin
+2022,2,1,52,,Lil Peep
+2022,2,1,53,,The Beatles
+2022,2,1,54,,Imagine Dragons
+2022,2,1,55,,The Kid LAROI
+2022,2,1,56,,A Boogie Wit da Hoodie
+2022,2,1,57,,Jack Harlow
+2022,2,1,58,,Lil Nas X
+2022,2,1,59,,Dua Lipa
+2022,2,1,60,,Encanto - Cast
+2022,2,1,61,,Nicki Minaj
+2022,2,1,62,,Megan Thee Stallion
+2022,2,1,63,,Luke Combs
+2022,2,1,64,,Lana Del Rey
+2022,2,1,65,,Chris Brown
+2022,2,1,66,,Halsey
+2022,2,1,67,,Roddy Ricch
+2022,2,1,68,,A$AP Rocky
+2022,2,1,69,,Machine Gun Kelly
+2022,2,1,70,,Baby Keem
+2022,2,1,71,,Coldplay
+2022,2,1,72,,NF
+2022,2,1,73,,Lil Tjay
+2022,2,1,74,,Rauw Alejandro
+2022,2,1,75,,Metro Boomin
+2022,2,1,76,,Glass Animals
+2022,2,1,77,,Diane Guerrero
+2022,2,1,78,,Maroon 5
+2022,2,1,79,,Lil Tecca
+2022,2,1,80,,Anuel AA
+2022,2,1,81,,Harry Styles
+2022,2,1,82,,Mitski
+2022,2,1,83,,One Direction
+2022,2,1,84,,Moneybagg Yo
+2022,2,1,85,,Labrinth
+2022,2,1,86,,Marshmello
+2022,2,1,87,,Yeat
+2022,2,1,88,,Young Dolph
+2022,2,1,89,,Summer Walker
+2022,2,1,90,,Adassa
+2022,2,1,91,,blackbear
+2022,2,1,92,,Elton John
+2022,2,1,93,,JAY-Z
+2022,2,1,94,,Katy Perry
+2022,2,1,95,,Beyoncé
+2022,2,1,96,,Arctic Monkeys
+2022,2,1,97,,iann dior
+2022,2,1,98,,Joji
+2022,2,1,99,,Brent Faiyaz
+2022,2,1,100,,Cardi B
+2022,2,1,101,,Melanie Martinez
+2022,2,1,102,,Childish Gambino
+2022,2,1,103,,Lady Gaga
+2022,2,1,104,,Ski Mask The Slump God
+2022,2,1,105,,Ozuna
+2022,2,1,106,,Wiz Khalifa
+2022,2,1,107,,Ty Dolla $ign
+2022,2,1,108,,Don Toliver
+2022,2,1,109,,Chris Stapleton
+2022,2,1,110,,Key Glock
+2022,2,1,111,,Mac DeMarco
+2022,2,1,112,,Shawn Mendes
+2022,2,1,113,,Kali Uchis
+2022,2,1,114,,Rex Orange County
+2022,2,1,115,,Jason Aldean
+2022,2,1,116,,Steve Lacy
+2022,2,1,117,,Carolina Gaitán - La Gaita
+2022,2,1,118,,Migos
+2022,2,1,119,,Mauro Castillo
+2022,2,1,120,,Eslabon Armado
+2022,2,1,121,,Twenty One Pilots
+2022,2,1,122,,Maluma
+2022,2,1,123,,Panic! At The Disco
+2022,2,1,124,,Big Sean
+2022,2,1,125,,Gucci Mane
+2022,2,1,126,,Giveon
+2022,2,1,127,,The Chainsmokers
+2022,2,1,128,,Linkin Park
+2022,2,1,129,,Kevin Gates
+2022,2,1,130,,Sleepy Hallow
+2022,2,1,131,,Tory Lanez
+2022,2,1,132,,Anderson .Paak
+2022,2,1,133,,Fall Out Boy
+2022,2,1,134,,Queen
+2022,2,1,135,,KAROL G
+2022,2,1,136,,Miley Cyrus
+2022,2,1,137,,Tame Impala
+2022,2,1,138,,Kane Brown
+2022,2,1,139,,The Lumineers
+2022,2,1,140,,Grupo Firme
+2022,2,1,141,,JID
+2022,2,1,142,,Tyler Childers
+2022,2,1,143,,Nirvana
+2022,2,1,144,,Fleetwood Mac
+2022,2,1,145,,Russ
+2022,2,1,146,,Farruko
+2022,2,1,147,,Meek Mill
+2022,2,1,148,,2Pac
+2022,2,1,149,,Michael Jackson
+2022,2,1,150,,Jhayco
+2022,2,1,151,,Cody Johnson
+2022,2,1,152,,Daddy Yankee
+2022,2,1,153,,King Von
+2022,2,1,154,,Logic
+2022,2,1,155,,YNW Melly
+2022,2,1,156,,Mother Mother
+2022,2,1,157,,Sebastian Yatra
+2022,2,1,158,,Bryson Tiller
+2022,2,1,159,,G Herbo
+2022,2,1,160,,Red Hot Chili Peppers
+2022,2,1,161,,Florida Georgia Line
+2022,2,1,162,,Conan Gray
+2022,2,1,163,,WILLOW
+2022,2,1,164,,6LACK
+2022,2,1,165,,Myke Towers
+2022,2,1,166,,Paramore
+2022,2,1,167,,Hozier
+2022,2,1,168,,Metallica
+2022,2,1,169,,League of Legends
+2022,2,1,170,,Green Day
+2022,2,1,171,,David Guetta
+2022,2,1,172,,Jhené Aiko
+2022,2,1,173,,Chase Atlantic
+2022,2,1,174,,DJ Khaled
+2022,2,1,175,,Thomas Rhett
+2022,2,1,176,,Gorillaz
+2022,2,1,177,,Cavetown
+2022,2,1,178,,My Chemical Romance
+2022,2,1,179,,Clairo
+2022,2,1,180,,Sam Smith
+2022,2,1,181,,Diplo
+2022,2,1,182,,AC/DC
+2022,2,1,183,,Arcane
+2022,2,1,184,,Kehlani
+2022,2,1,185,,Luke Bryan
+2022,2,1,186,,USHER
+2022,2,1,187,,OneRepublic
+2022,2,1,188,,Calvin Harris
+2022,2,1,189,,AJR
+2022,2,1,190,,Pitbull
+2022,2,1,191,,Britney Spears
+2022,2,1,192,,Daniel Caesar
+2022,2,1,193,,PARTYNEXTDOOR
+2022,2,1,194,,girl in red
+2022,2,1,195,,The Notorious B.I.G.
+2022,2,1,196,,Charlie Puth
+2022,2,1,197,,John Mayer
+2022,2,1,198,,Rick Ross
+2022,2,1,199,,Chief Keef
+2022,2,1,200,,Zach Bryan
+2022,3,1,1,,Kanye West
+2022,3,1,2,,Drake
+2022,3,1,3,,Taylor Swift
+2022,3,1,4,,Juice WRLD
+2022,3,1,5,,Bad Bunny
+2022,3,1,6,,The Weeknd
+2022,3,1,7,,Lin-Manuel Miranda
+2022,3,1,8,,Lil Baby
+2022,3,1,9,,YoungBoy Never Broke Again
+2022,3,1,10,,Eminem
+2022,3,1,11,,Doja Cat
+2022,3,1,12,,J. Cole
+2022,3,1,13,,Future
+2022,3,1,14,,Gunna
+2022,3,1,15,,Polo G
+2022,3,1,16,,Kodak Black
+2022,3,1,17,,Morgan Wallen
+2022,3,1,18,,Kendrick Lamar
+2022,3,1,19,,"Tyler, The Creator"
+2022,3,1,20,,Lil Uzi Vert
+2022,3,1,21,,Justin Bieber
+2022,3,1,22,,XXXTENTACION
+2022,3,1,23,,21 Savage
+2022,3,1,24,,Mac Miller
+2022,3,1,25,,Lil Durk
+2022,3,1,26,,Post Malone
+2022,3,1,27,,Travis Scott
+2022,3,1,28,,Billie Eilish
+2022,3,1,29,,$uicideboy$
+2022,3,1,30,,Ariana Grande
+2022,3,1,31,,Trippie Redd
+2022,3,1,32,,Playboi Carti
+2022,3,1,33,,BTS
+2022,3,1,34,,Yeat
+2022,3,1,35,,Bruno Mars
+2022,3,1,36,,Jack Harlow
+2022,3,1,37,,Ed Sheeran
+2022,3,1,38,,Lil Wayne
+2022,3,1,39,,Olivia Rodrigo
+2022,3,1,40,,Nicki Minaj
+2022,3,1,41,,Frank Ocean
+2022,3,1,42,,Labrinth
+2022,3,1,43,,Khalid
+2022,3,1,44,,Rihanna
+2022,3,1,45,,Young Thug
+2022,3,1,46,,DaBaby
+2022,3,1,47,,Kid Cudi
+2022,3,1,48,,SZA
+2022,3,1,49,,Pop Smoke
+2022,3,1,50,,J Balvin
+2022,3,1,51,,Dua Lipa
+2022,3,1,52,,Imagine Dragons
+2022,3,1,53,,The Neighbourhood
+2022,3,1,54,,Rauw Alejandro
+2022,3,1,55,,A Boogie Wit da Hoodie
+2022,3,1,56,,Lil Peep
+2022,3,1,57,,Luke Combs
+2022,3,1,58,,Adele
+2022,3,1,59,,Rod Wave
+2022,3,1,60,,The Kid LAROI
+2022,3,1,61,,Stephanie Beatriz
+2022,3,1,62,,The Beatles
+2022,3,1,63,,Lil Nas X
+2022,3,1,64,,Machine Gun Kelly
+2022,3,1,65,,Megan Thee Stallion
+2022,3,1,66,,Chris Brown
+2022,3,1,67,,Mitski
+2022,3,1,68,,Coldplay
+2022,3,1,69,,Halsey
+2022,3,1,70,,A$AP Rocky
+2022,3,1,71,,Metro Boomin
+2022,3,1,72,,KAROL G
+2022,3,1,73,,JAY-Z
+2022,3,1,74,,Lana Del Rey
+2022,3,1,75,,NF
+2022,3,1,76,,Baby Keem
+2022,3,1,77,,Lil Tjay
+2022,3,1,78,,Moneybagg Yo
+2022,3,1,79,,Glass Animals
+2022,3,1,80,,Maroon 5
+2022,3,1,81,,One Direction
+2022,3,1,82,,Roddy Ricch
+2022,3,1,83,,Russ
+2022,3,1,84,,Marshmello
+2022,3,1,85,,Beyoncé
+2022,3,1,86,,Harry Styles
+2022,3,1,87,,Katy Perry
+2022,3,1,88,,Tame Impala
+2022,3,1,89,,King Von
+2022,3,1,90,,Elton John
+2022,3,1,91,,NLE Choppa
+2022,3,1,92,,Ozuna
+2022,3,1,93,,Lil Tecca
+2022,3,1,94,,Arctic Monkeys
+2022,3,1,95,,Ty Dolla $ign
+2022,3,1,96,,blackbear
+2022,3,1,97,,Encanto - Cast
+2022,3,1,98,,Wiz Khalifa
+2022,3,1,99,,2Pac
+2022,3,1,100,,Big Sean
+2022,3,1,101,,Lady Gaga
+2022,3,1,102,,Jason Aldean
+2022,3,1,103,,Childish Gambino
+2022,3,1,104,,Young Dolph
+2022,3,1,105,,Dr. Dre
+2022,3,1,106,,Cardi B
+2022,3,1,107,,Tyga
+2022,3,1,108,,Anuel AA
+2022,3,1,109,,Summer Walker
+2022,3,1,110,,Joji
+2022,3,1,111,,Avril Lavigne
+2022,3,1,112,,Brent Faiyaz
+2022,3,1,113,,Migos
+2022,3,1,114,,Chris Stapleton
+2022,3,1,115,,Mac DeMarco
+2022,3,1,116,,Ski Mask The Slump God
+2022,3,1,117,,Panic! At The Disco
+2022,3,1,118,,Linkin Park
+2022,3,1,119,,Kali Uchis
+2022,3,1,120,,Zach Bryan
+2022,3,1,121,,Anderson .Paak
+2022,3,1,122,,Twenty One Pilots
+2022,3,1,123,,Queen
+2022,3,1,124,,Kevin Gates
+2022,3,1,125,,Red Hot Chili Peppers
+2022,3,1,126,,Steve Lacy
+2022,3,1,127,,Cody Johnson
+2022,3,1,128,,Don Toliver
+2022,3,1,129,,Daddy Yankee
+2022,3,1,130,,Fall Out Boy
+2022,3,1,131,,Key Glock
+2022,3,1,132,,Eslabon Armado
+2022,3,1,133,,Miley Cyrus
+2022,3,1,134,,Sleepy Hallow
+2022,3,1,135,,JID
+2022,3,1,136,,Shawn Mendes
+2022,3,1,137,,Gucci Mane
+2022,3,1,138,,Maluma
+2022,3,1,139,,Melanie Martinez
+2022,3,1,140,,Logic
+2022,3,1,141,,Tate McRae
+2022,3,1,142,,Fleetwood Mac
+2022,3,1,143,,Tyler Childers
+2022,3,1,144,,Michael Jackson
+2022,3,1,145,,Giveon
+2022,3,1,146,,Kane Brown
+2022,3,1,147,,Farruko
+2022,3,1,148,,Meek Mill
+2022,3,1,149,,$NOT
+2022,3,1,150,,Diane Guerrero
+2022,3,1,151,,Tory Lanez
+2022,3,1,152,,iann dior
+2022,3,1,153,,Nirvana
+2022,3,1,154,,TWICE
+2022,3,1,155,,OneRepublic
+2022,3,1,156,,Florida Georgia Line
+2022,3,1,157,,Chief Keef
+2022,3,1,158,,David Guetta
+2022,3,1,159,,Rex Orange County
+2022,3,1,160,,The Lumineers
+2022,3,1,161,,Grupo Firme
+2022,3,1,162,,Jhayco
+2022,3,1,163,,Bryson Tiller
+2022,3,1,164,,WILLOW
+2022,3,1,165,,Metallica
+2022,3,1,166,,Kehlani
+2022,3,1,167,,Snoop Dogg
+2022,3,1,168,,Diplo
+2022,3,1,169,,YNW Melly
+2022,3,1,170,,Jhené Aiko
+2022,3,1,171,,DJ Khaled
+2022,3,1,172,,The Notorious B.I.G.
+2022,3,1,173,,50 Cent
+2022,3,1,174,,Thomas Rhett
+2022,3,1,175,,Hozier
+2022,3,1,176,,Dominic Fike
+2022,3,1,177,,Luke Bryan
+2022,3,1,178,,The Chainsmokers
+2022,3,1,179,,Green Day
+2022,3,1,180,,Adassa
+2022,3,1,181,,John Mayer
+2022,3,1,182,,USHER
+2022,3,1,183,,Calvin Harris
+2022,3,1,184,,Junior H
+2022,3,1,185,,Paramore
+2022,3,1,186,,6LACK
+2022,3,1,187,,Myke Towers
+2022,3,1,188,,Pitbull
+2022,3,1,189,,AC/DC
+2022,3,1,190,,Conan Gray
+2022,3,1,191,,Clairo
+2022,3,1,192,,Gorillaz
+2022,3,1,193,,G Herbo
+2022,3,1,194,,5 Seconds of Summer
+2022,3,1,195,,Cavetown
+2022,3,1,196,,Britney Spears
+2022,3,1,197,,Christian Nodal
+2022,3,1,198,,Kygo
+2022,3,1,199,,Sam Smith
+2022,3,1,200,,Alicia Keys
+2022,4,1,1,,Drake
+2022,4,1,2,,Taylor Swift
+2022,4,1,3,,Kanye West
+2022,4,1,4,,Juice WRLD
+2022,4,1,5,,Bad Bunny
+2022,4,1,6,,The Weeknd
+2022,4,1,7,,Harry Styles
+2022,4,1,8,,YoungBoy Never Broke Again
+2022,4,1,9,,J. Cole
+2022,4,1,10,,"Tyler, The Creator"
+2022,4,1,11,,Lil Baby
+2022,4,1,12,,Doja Cat
+2022,4,1,13,,Morgan Wallen
+2022,4,1,14,,Gunna
+2022,4,1,15,,Justin Bieber
+2022,4,1,16,,Eminem
+2022,4,1,17,,Lil Uzi Vert
+2022,4,1,18,,Yeat
+2022,4,1,19,,Future
+2022,4,1,20,,Lil Durk
+2022,4,1,21,,Polo G
+2022,4,1,22,,Kendrick Lamar
+2022,4,1,23,,XXXTENTACION
+2022,4,1,24,,Billie Eilish
+2022,4,1,25,,Lin-Manuel Miranda
+2022,4,1,26,,Machine Gun Kelly
+2022,4,1,27,,21 Savage
+2022,4,1,28,,Mac Miller
+2022,4,1,29,,Post Malone
+2022,4,1,30,,Travis Scott
+2022,4,1,31,,Ariana Grande
+2022,4,1,32,,Bruno Mars
+2022,4,1,33,,Ed Sheeran
+2022,4,1,34,,$uicideboy$
+2022,4,1,35,,Olivia Rodrigo
+2022,4,1,36,,BTS
+2022,4,1,37,,Trippie Redd
+2022,4,1,38,,Lil Wayne
+2022,4,1,39,,Playboi Carti
+2022,4,1,40,,Jack Harlow
+2022,4,1,41,,Kodak Black
+2022,4,1,42,,Red Hot Chili Peppers
+2022,4,1,43,,J Balvin
+2022,4,1,44,,DaBaby
+2022,4,1,45,,Khalid
+2022,4,1,46,,Imagine Dragons
+2022,4,1,47,,Rihanna
+2022,4,1,48,,Dua Lipa
+2022,4,1,49,,Nicki Minaj
+2022,4,1,50,,Young Thug
+2022,4,1,51,,SZA
+2022,4,1,52,,Frank Ocean
+2022,4,1,53,,Daddy Yankee
+2022,4,1,54,,Pop Smoke
+2022,4,1,55,,Lil Tjay
+2022,4,1,56,,Luke Combs
+2022,4,1,57,,Dreamville
+2022,4,1,58,,A Boogie Wit da Hoodie
+2022,4,1,59,,Kid Cudi
+2022,4,1,60,,The Neighbourhood
+2022,4,1,61,,Lil Peep
+2022,4,1,62,,Megan Thee Stallion
+2022,4,1,63,,The Kid LAROI
+2022,4,1,64,,Chris Brown
+2022,4,1,65,,A$AP Rocky
+2022,4,1,66,,Glass Animals
+2022,4,1,67,,The Beatles
+2022,4,1,68,,Thomas Rhett
+2022,4,1,69,,blackbear
+2022,4,1,70,,Adele
+2022,4,1,71,,Rod Wave
+2022,4,1,72,,Lil Nas X
+2022,4,1,73,,Coldplay
+2022,4,1,74,,Rauw Alejandro
+2022,4,1,75,,Lana Del Rey
+2022,4,1,76,,Mitski
+2022,4,1,77,,Shawn Mendes
+2022,4,1,78,,Baby Keem
+2022,4,1,79,,Halsey
+2022,4,1,80,,Nirvana
+2022,4,1,81,,Maroon 5
+2022,4,1,82,,Metro Boomin
+2022,4,1,83,,Miley Cyrus
+2022,4,1,84,,NF
+2022,4,1,85,,JAY-Z
+2022,4,1,86,,King Von
+2022,4,1,87,,JID
+2022,4,1,88,,Katy Perry
+2022,4,1,89,,Kevin Gates
+2022,4,1,90,,Jason Aldean
+2022,4,1,91,,One Direction
+2022,4,1,92,,KAROL G
+2022,4,1,93,,Marshmello
+2022,4,1,94,,Key Glock
+2022,4,1,95,,Beyoncé
+2022,4,1,96,,Moneybagg Yo
+2022,4,1,97,,Chris Stapleton
+2022,4,1,98,,Summer Walker
+2022,4,1,99,,Lady Gaga
+2022,4,1,100,,Elton John
+2022,4,1,101,,Arctic Monkeys
+2022,4,1,102,,Labrinth
+2022,4,1,103,,Ozuna
+2022,4,1,104,,Cardi B
+2022,4,1,105,,Young Dolph
+2022,4,1,106,,Russ
+2022,4,1,107,,Gucci Mane
+2022,4,1,108,,Childish Gambino
+2022,4,1,109,,Anuel AA
+2022,4,1,110,,Roddy Ricch
+2022,4,1,111,,Tame Impala
+2022,4,1,112,,Wiz Khalifa
+2022,4,1,113,,Rex Orange County
+2022,4,1,114,,Tate McRae
+2022,4,1,115,,Brent Faiyaz
+2022,4,1,116,,Joji
+2022,4,1,117,,Anderson .Paak
+2022,4,1,118,,Linkin Park
+2022,4,1,119,,2Pac
+2022,4,1,120,,Ty Dolla $ign
+2022,4,1,121,,Big Sean
+2022,4,1,122,,Eslabon Armado
+2022,4,1,123,,Queen
+2022,4,1,124,,Twenty One Pilots
+2022,4,1,125,,NLE Choppa
+2022,4,1,126,,Stephanie Beatriz
+2022,4,1,127,,Lil Tecca
+2022,4,1,128,,Panic! At The Disco
+2022,4,1,129,,Kali Uchis
+2022,4,1,130,,Migos
+2022,4,1,131,,Mac DeMarco
+2022,4,1,132,,Foo Fighters
+2022,4,1,133,,WILLOW
+2022,4,1,134,,Tory Lanez
+2022,4,1,135,,Kehlani
+2022,4,1,136,,Fleetwood Mac
+2022,4,1,137,,Steve Lacy
+2022,4,1,138,,Zach Bryan
+2022,4,1,139,,Melanie Martinez
+2022,4,1,140,,Fall Out Boy
+2022,4,1,141,,Kane Brown
+2022,4,1,142,,Cody Johnson
+2022,4,1,143,,Jhayco
+2022,4,1,144,,Florida Georgia Line
+2022,4,1,145,,DJ Khaled
+2022,4,1,146,,Ski Mask The Slump God
+2022,4,1,147,,Tyler Childers
+2022,4,1,148,,5 Seconds of Summer
+2022,4,1,149,,iann dior
+2022,4,1,150,,Denzel Curry
+2022,4,1,151,,Diplo
+2022,4,1,152,,Camila Cabello
+2022,4,1,153,,Giveon
+2022,4,1,154,,OneRepublic
+2022,4,1,155,,Sleepy Hallow
+2022,4,1,156,,Michael Jackson
+2022,4,1,157,,Don Toliver
+2022,4,1,158,,David Guetta
+2022,4,1,159,,Farruko
+2022,4,1,160,,Grupo Firme
+2022,4,1,161,,Metallica
+2022,4,1,162,,Logic
+2022,4,1,163,,Pharrell Williams
+2022,4,1,164,,Pitbull
+2022,4,1,165,,Luke Bryan
+2022,4,1,166,,Meek Mill
+2022,4,1,167,,Maluma
+2022,4,1,168,,Bryson Tiller
+2022,4,1,169,,Myke Towers
+2022,4,1,170,,Calvin Harris
+2022,4,1,171,,The Chainsmokers
+2022,4,1,172,,The Lumineers
+2022,4,1,173,,Maren Morris
+2022,4,1,174,,John Mayer
+2022,4,1,175,,Tyga
+2022,4,1,176,,Green Day
+2022,4,1,177,,Conan Gray
+2022,4,1,178,,Hozier
+2022,4,1,179,,Lorde
+2022,4,1,180,,YNW Melly
+2022,4,1,181,,Jhené Aiko
+2022,4,1,182,,AC/DC
+2022,4,1,183,,The Notorious B.I.G.
+2022,4,1,184,,Demi Lovato
+2022,4,1,185,,USHER
+2022,4,1,186,,George Strait
+2022,4,1,187,,Junior H
+2022,4,1,188,,Mora
+2022,4,1,189,,42 Dugg
+2022,4,1,190,,50 Cent
+2022,4,1,191,,Sech
+2022,4,1,192,,Gorillaz
+2022,4,1,193,,Miranda Lambert
+2022,4,1,194,,Billy Joel
+2022,4,1,195,,Clairo
+2022,4,1,196,,2 Chainz
+2022,4,1,197,,Paramore
+2022,4,1,198,,Kenny Chesney
+2022,4,1,199,,Cavetown
+2022,4,1,200,,Led Zeppelin
+2022,5,1,1,,Future
+2022,5,1,2,,Drake
+2022,5,1,3,,Kanye West
+2022,5,1,4,,Taylor Swift
+2022,5,1,5,,Juice WRLD
+2022,5,1,6,,Bad Bunny
+2022,5,1,7,,The Weeknd
+2022,5,1,8,,Lil Baby
+2022,5,1,9,,Morgan Wallen
+2022,5,1,10,,J. Cole
+2022,5,1,11,,Justin Bieber
+2022,5,1,12,,Doja Cat
+2022,5,1,13,,YoungBoy Never Broke Again
+2022,5,1,14,,Gunna
+2022,5,1,15,,"Tyler, The Creator"
+2022,5,1,16,,Jack Harlow
+2022,5,1,17,,Kendrick Lamar
+2022,5,1,18,,Eminem
+2022,5,1,19,,Harry Styles
+2022,5,1,20,,Lil Uzi Vert
+2022,5,1,21,,Lil Durk
+2022,5,1,22,,Polo G
+2022,5,1,23,,XXXTENTACION
+2022,5,1,24,,Post Malone
+2022,5,1,25,,21 Savage
+2022,5,1,26,,Mac Miller
+2022,5,1,27,,Billie Eilish
+2022,5,1,28,,Travis Scott
+2022,5,1,29,,$uicideboy$
+2022,5,1,30,,Ariana Grande
+2022,5,1,31,,Ed Sheeran
+2022,5,1,32,,BTS
+2022,5,1,33,,Yeat
+2022,5,1,34,,Kodak Black
+2022,5,1,35,,Bruno Mars
+2022,5,1,36,,Lin-Manuel Miranda
+2022,5,1,37,,Olivia Rodrigo
+2022,5,1,38,,Trippie Redd
+2022,5,1,39,,Playboi Carti
+2022,5,1,40,,Young Thug
+2022,5,1,41,,Lil Wayne
+2022,5,1,42,,Khalid
+2022,5,1,43,,Luke Combs
+2022,5,1,44,,Rihanna
+2022,5,1,45,,KAROL G
+2022,5,1,46,,DaBaby
+2022,5,1,47,,J Balvin
+2022,5,1,48,,Imagine Dragons
+2022,5,1,49,,The Kid LAROI
+2022,5,1,50,,Nicki Minaj
+2022,5,1,51,,Machine Gun Kelly
+2022,5,1,52,,Dua Lipa
+2022,5,1,53,,Frank Ocean
+2022,5,1,54,,Megan Thee Stallion
+2022,5,1,55,,SZA
+2022,5,1,56,,A Boogie Wit da Hoodie
+2022,5,1,57,,Kid Cudi
+2022,5,1,58,,Lil Tjay
+2022,5,1,59,,Pop Smoke
+2022,5,1,60,,The Neighbourhood
+2022,5,1,61,,Daddy Yankee
+2022,5,1,62,,Lil Peep
+2022,5,1,63,,Lana Del Rey
+2022,5,1,64,,The Beatles
+2022,5,1,65,,Rod Wave
+2022,5,1,66,,Rauw Alejandro
+2022,5,1,67,,Coldplay
+2022,5,1,68,,Mitski
+2022,5,1,69,,Kehlani
+2022,5,1,70,,Chris Brown
+2022,5,1,71,,Don Toliver
+2022,5,1,72,,Metro Boomin
+2022,5,1,73,,JAY-Z
+2022,5,1,74,,Maroon 5
+2022,5,1,75,,Lil Nas X
+2022,5,1,76,,Adele
+2022,5,1,77,,Halsey
+2022,5,1,78,,A$AP Rocky
+2022,5,1,79,,Zach Bryan
+2022,5,1,80,,Baby Keem
+2022,5,1,81,,blackbear
+2022,5,1,82,,Jason Aldean
+2022,5,1,83,,Glass Animals
+2022,5,1,84,,King Von
+2022,5,1,85,,Nirvana
+2022,5,1,86,,NF
+2022,5,1,87,,One Direction
+2022,5,1,88,,Russ
+2022,5,1,89,,Marshmello
+2022,5,1,90,,Lizzo
+2022,5,1,91,,Miley Cyrus
+2022,5,1,92,,Cardi B
+2022,5,1,93,,Katy Perry
+2022,5,1,94,,Lady Gaga
+2022,5,1,95,,Childish Gambino
+2022,5,1,96,,Red Hot Chili Peppers
+2022,5,1,97,,Kevin Gates
+2022,5,1,98,,Shawn Mendes
+2022,5,1,99,,Beyoncé
+2022,5,1,100,,Elton John
+2022,5,1,101,,Arctic Monkeys
+2022,5,1,102,,Pusha T
+2022,5,1,103,,Moneybagg Yo
+2022,5,1,104,,Tems
+2022,5,1,105,,Chris Stapleton
+2022,5,1,106,,Ozuna
+2022,5,1,107,,Camila Cabello
+2022,5,1,108,,Miranda Lambert
+2022,5,1,109,,Panic! At The Disco
+2022,5,1,110,,WILLOW
+2022,5,1,111,,Wiz Khalifa
+2022,5,1,112,,Melanie Martinez
+2022,5,1,113,,Pooh Shiesty
+2022,5,1,114,,Joji
+2022,5,1,115,,Migos
+2022,5,1,116,,Queen
+2022,5,1,117,,Tame Impala
+2022,5,1,118,,Big Sean
+2022,5,1,119,,Gucci Mane
+2022,5,1,120,,Anuel AA
+2022,5,1,121,,Eslabon Armado
+2022,5,1,122,,Roddy Ricch
+2022,5,1,123,,Giveon
+2022,5,1,124,,Young Dolph
+2022,5,1,125,,2Pac
+2022,5,1,126,,Brent Faiyaz
+2022,5,1,127,,Ty Dolla $ign
+2022,5,1,128,,Key Glock
+2022,5,1,129,,Florida Georgia Line
+2022,5,1,130,,Summer Walker
+2022,5,1,131,,Linkin Park
+2022,5,1,132,,Thomas Rhett
+2022,5,1,133,,Fleetwood Mac
+2022,5,1,134,,Fall Out Boy
+2022,5,1,135,,NLE Choppa
+2022,5,1,136,,Cody Johnson
+2022,5,1,137,,Twenty One Pilots
+2022,5,1,138,,Tory Lanez
+2022,5,1,139,,Michael Jackson
+2022,5,1,140,,Rex Orange County
+2022,5,1,141,,Steve Lacy
+2022,5,1,142,,Labrinth
+2022,5,1,143,,Mac DeMarco
+2022,5,1,144,,Kali Uchis
+2022,5,1,145,,Pitbull
+2022,5,1,146,,DJ Khaled
+2022,5,1,147,,Tyler Childers
+2022,5,1,148,,Grupo Firme
+2022,5,1,149,,Lil Tecca
+2022,5,1,150,,Conan Gray
+2022,5,1,151,,David Guetta
+2022,5,1,152,,Kane Brown
+2022,5,1,153,,42 Dugg
+2022,5,1,154,,Logic
+2022,5,1,155,,Ski Mask The Slump God
+2022,5,1,156,,Sam Smith
+2022,5,1,157,,Metallica
+2022,5,1,158,,Tate McRae
+2022,5,1,159,,Calvin Harris
+2022,5,1,160,,Luke Bryan
+2022,5,1,161,,JID
+2022,5,1,162,,Sleepy Hallow
+2022,5,1,163,,EST Gee
+2022,5,1,164,,Diplo
+2022,5,1,165,,AJR
+2022,5,1,166,,The Lumineers
+2022,5,1,167,,Anderson .Paak
+2022,5,1,168,,Kenny Chesney
+2022,5,1,169,,Jhayco
+2022,5,1,170,,Pharrell Williams
+2022,5,1,171,,Luis R Conriquez
+2022,5,1,172,,Farruko
+2022,5,1,173,,Junior H
+2022,5,1,174,,USHER
+2022,5,1,175,,John Mayer
+2022,5,1,176,,George Strait
+2022,5,1,177,,The Chainsmokers
+2022,5,1,178,,Tyga
+2022,5,1,179,,OneRepublic
+2022,5,1,180,,Tiësto
+2022,5,1,181,,Jhené Aiko
+2022,5,1,182,,Meek Mill
+2022,5,1,183,,Paramore
+2022,5,1,184,,AC/DC
+2022,5,1,185,,Becky G
+2022,5,1,186,,Bryson Tiller
+2022,5,1,187,,Maluma
+2022,5,1,188,,Green Day
+2022,5,1,189,,Billy Joel
+2022,5,1,190,,Myke Towers
+2022,5,1,191,,Gorillaz
+2022,5,1,192,,YNW Melly
+2022,5,1,193,,The Notorious B.I.G.
+2022,5,1,194,,Lorde
+2022,5,1,195,,Daniel Caesar
+2022,5,1,196,,iann dior
+2022,5,1,197,,Zac Brown Band
+2022,5,1,198,,Demi Lovato
+2022,5,1,199,,5 Seconds of Summer
+2022,5,1,200,,Hozier
+2022,6,1,1,,Bad Bunny
+2022,6,1,2,,Harry Styles
+2022,6,1,3,,Drake
+2022,6,1,4,,Kendrick Lamar
+2022,6,1,5,,Kanye West
+2022,6,1,6,,Taylor Swift
+2022,6,1,7,,Morgan Wallen
+2022,6,1,8,,Future
+2022,6,1,9,,Juice WRLD
+2022,6,1,10,,The Weeknd
+2022,6,1,11,,Lil Baby
+2022,6,1,12,,XXXTENTACION
+2022,6,1,13,,J. Cole
+2022,6,1,14,,Jack Harlow
+2022,6,1,15,,YoungBoy Never Broke Again
+2022,6,1,16,,Doja Cat
+2022,6,1,17,,Post Malone
+2022,6,1,18,,Eminem
+2022,6,1,19,,Zach Bryan
+2022,6,1,20,,"Tyler, The Creator"
+2022,6,1,21,,Justin Bieber
+2022,6,1,22,,Lil Uzi Vert
+2022,6,1,23,,Polo G
+2022,6,1,24,,Gunna
+2022,6,1,25,,Travis Scott
+2022,6,1,26,,21 Savage
+2022,6,1,27,,Lil Durk
+2022,6,1,28,,Mac Miller
+2022,6,1,29,,Ed Sheeran
+2022,6,1,30,,Ariana Grande
+2022,6,1,31,,Kodak Black
+2022,6,1,32,,Dua Lipa
+2022,6,1,33,,$uicideboy$
+2022,6,1,34,,Billie Eilish
+2022,6,1,35,,Bruno Mars
+2022,6,1,36,,Luke Combs
+2022,6,1,37,,BTS
+2022,6,1,38,,Young Thug
+2022,6,1,39,,Lil Wayne
+2022,6,1,40,,Trippie Redd
+2022,6,1,41,,Playboi Carti
+2022,6,1,42,,Olivia Rodrigo
+2022,6,1,43,,Rihanna
+2022,6,1,44,,Yeat
+2022,6,1,45,,Lin-Manuel Miranda
+2022,6,1,46,,Khalid
+2022,6,1,47,,DaBaby
+2022,6,1,48,,Tate McRae
+2022,6,1,49,,Rauw Alejandro
+2022,6,1,50,,Machine Gun Kelly
+2022,6,1,51,,Imagine Dragons
+2022,6,1,52,,Nicki Minaj
+2022,6,1,53,,KAROL G
+2022,6,1,54,,J Balvin
+2022,6,1,55,,Frank Ocean
+2022,6,1,56,,Megan Thee Stallion
+2022,6,1,57,,Pop Smoke
+2022,6,1,58,,The Kid LAROI
+2022,6,1,59,,A Boogie Wit da Hoodie
+2022,6,1,60,,The Beatles
+2022,6,1,61,,Coldplay
+2022,6,1,62,,SZA
+2022,6,1,63,,Kid Cudi
+2022,6,1,64,,Calvin Harris
+2022,6,1,65,,Lana Del Rey
+2022,6,1,66,,Lil Peep
+2022,6,1,67,,Maroon 5
+2022,6,1,68,,Lady Gaga
+2022,6,1,69,,Roddy Ricch
+2022,6,1,70,,Baby Keem
+2022,6,1,71,,Rod Wave
+2022,6,1,72,,Halsey
+2022,6,1,73,,The Neighbourhood
+2022,6,1,74,,Eslabon Armado
+2022,6,1,75,,blackbear
+2022,6,1,76,,Moneybagg Yo
+2022,6,1,77,,Chris Brown
+2022,6,1,78,,Lil Tjay
+2022,6,1,79,,Daddy Yankee
+2022,6,1,80,,Lizzo
+2022,6,1,81,,Sleepy Hallow
+2022,6,1,82,,A$AP Rocky
+2022,6,1,83,,Jason Aldean
+2022,6,1,84,,JAY-Z
+2022,6,1,85,,Metro Boomin
+2022,6,1,86,,Mitski
+2022,6,1,87,,Katy Perry
+2022,6,1,88,,Lil Nas X
+2022,6,1,89,,Florida Georgia Line
+2022,6,1,90,,Glass Animals
+2022,6,1,91,,Lil Tecca
+2022,6,1,92,,Adele
+2022,6,1,93,,Chris Stapleton
+2022,6,1,94,,Marshmello
+2022,6,1,95,,Childish Gambino
+2022,6,1,96,,Panic! At The Disco
+2022,6,1,97,,NF
+2022,6,1,98,,One Direction
+2022,6,1,99,,Elton John
+2022,6,1,100,,Kate Bush
+2022,6,1,101,,Thomas Rhett
+2022,6,1,102,,Beyoncé
+2022,6,1,103,,Jhayco
+2022,6,1,104,,Miley Cyrus
+2022,6,1,105,,King Von
+2022,6,1,106,,Cardi B
+2022,6,1,107,,Fleetwood Mac
+2022,6,1,108,,Chencho Corleone
+2022,6,1,109,,Red Hot Chili Peppers
+2022,6,1,110,,Queen
+2022,6,1,111,,Nirvana
+2022,6,1,112,,Luke Bryan
+2022,6,1,113,,Kenny Chesney
+2022,6,1,114,,Kevin Gates
+2022,6,1,115,,Arctic Monkeys
+2022,6,1,116,,Migos
+2022,6,1,117,,Tame Impala
+2022,6,1,118,,Ozuna
+2022,6,1,119,,Anuel AA
+2022,6,1,120,,Kane Brown
+2022,6,1,121,,Summer Walker
+2022,6,1,122,,Shawn Mendes
+2022,6,1,123,,Cody Johnson
+2022,6,1,124,,Don Toliver
+2022,6,1,125,,Russ
+2022,6,1,126,,Linkin Park
+2022,6,1,127,,Michael Jackson
+2022,6,1,128,,Wiz Khalifa
+2022,6,1,129,,Tyler Childers
+2022,6,1,130,,NLE Choppa
+2022,6,1,131,,Twenty One Pilots
+2022,6,1,132,,Camila Cabello
+2022,6,1,133,,Rex Orange County
+2022,6,1,134,,2Pac
+2022,6,1,135,,AJR
+2022,6,1,136,,Zac Brown Band
+2022,6,1,137,,Pitbull
+2022,6,1,138,,Fall Out Boy
+2022,6,1,139,,Melanie Martinez
+2022,6,1,140,,Logic
+2022,6,1,141,,Joji
+2022,6,1,142,,Young Dolph
+2022,6,1,143,,Big Sean
+2022,6,1,144,,The Chainsmokers
+2022,6,1,145,,The Lumineers
+2022,6,1,146,,Brent Faiyaz
+2022,6,1,147,,Tems
+2022,6,1,148,,Tory Lanez
+2022,6,1,149,,OneRepublic
+2022,6,1,150,,Gucci Mane
+2022,6,1,151,,Ty Dolla $ign
+2022,6,1,152,,Grupo Firme
+2022,6,1,153,,Miranda Lambert
+2022,6,1,154,,David Guetta
+2022,6,1,155,,Metallica
+2022,6,1,156,,Key Glock
+2022,6,1,157,,AC/DC
+2022,6,1,158,,Conan Gray
+2022,6,1,159,,Luis R Conriquez
+2022,6,1,160,,George Strait
+2022,6,1,161,,WILLOW
+2022,6,1,162,,Steve Lacy
+2022,6,1,163,,Gorillaz
+2022,6,1,164,,DJ Khaled
+2022,6,1,165,,Mac DeMarco
+2022,6,1,166,,Diplo
+2022,6,1,167,,Billy Joel
+2022,6,1,168,,Blxst
+2022,6,1,169,,Kali Uchis
+2022,6,1,170,,My Chemical Romance
+2022,6,1,171,,Giveon
+2022,6,1,172,,Ski Mask The Slump God
+2022,6,1,173,,42 Dugg
+2022,6,1,174,,USHER
+2022,6,1,175,,BoyWithUke
+2022,6,1,176,,Junior H
+2022,6,1,177,,The Notorious B.I.G.
+2022,6,1,178,,Kehlani
+2022,6,1,179,,Led Zeppelin
+2022,6,1,180,,Farruko
+2022,6,1,181,,Anderson .Paak
+2022,6,1,182,,Eric Church
+2022,6,1,183,,Tyga
+2022,6,1,184,,Green Day
+2022,6,1,185,,Meek Mill
+2022,6,1,186,,Tiësto
+2022,6,1,187,,50 Cent
+2022,6,1,188,,JID
+2022,6,1,189,,Lee Brice
+2022,6,1,190,,Pharrell Williams
+2022,6,1,191,,Bryson Tiller
+2022,6,1,192,,John Mayer
+2022,6,1,193,,Sam Smith
+2022,6,1,194,,Becky G
+2022,6,1,195,,Sam Hunt
+2022,6,1,196,,Tim McGraw
+2022,6,1,197,,Eagles
+2022,6,1,198,,Weezer
+2022,6,1,199,,YNW Melly
+2022,6,1,200,,The Rolling Stones
+2022,7,1,1,,Bad Bunny
+2022,7,1,2,,Drake
+2022,7,1,3,,Taylor Swift
+2022,7,1,4,,Kanye West
+2022,7,1,5,,Morgan Wallen
+2022,7,1,6,,The Weeknd
+2022,7,1,7,,Harry Styles
+2022,7,1,8,,Juice WRLD
+2022,7,1,9,,Post Malone
+2022,7,1,10,,Kendrick Lamar
+2022,7,1,11,,Doja Cat
+2022,7,1,12,,Future
+2022,7,1,13,,21 Savage
+2022,7,1,14,,Lil Baby
+2022,7,1,15,,YoungBoy Never Broke Again
+2022,7,1,16,,Lil Durk
+2022,7,1,17,,J. Cole
+2022,7,1,18,,Luke Combs
+2022,7,1,19,,XXXTENTACION
+2022,7,1,20,,Eminem
+2022,7,1,21,,"Tyler, The Creator"
+2022,7,1,22,,$uicideboy$
+2022,7,1,23,,BTS
+2022,7,1,24,,Polo G
+2022,7,1,25,,Justin Bieber
+2022,7,1,26,,Jack Harlow
+2022,7,1,27,,Lil Uzi Vert
+2022,7,1,28,,Joji
+2022,7,1,29,,Gunna
+2022,7,1,30,,Travis Scott
+2022,7,1,31,,Ariana Grande
+2022,7,1,32,,Mac Miller
+2022,7,1,33,,Billie Eilish
+2022,7,1,34,,Imagine Dragons
+2022,7,1,35,,Chris Brown
+2022,7,1,36,,Machine Gun Kelly
+2022,7,1,37,,Ed Sheeran
+2022,7,1,38,,Zach Bryan
+2022,7,1,39,,Bruno Mars
+2022,7,1,40,,Lil Wayne
+2022,7,1,41,,Dua Lipa
+2022,7,1,42,,Rihanna
+2022,7,1,43,,Yeat
+2022,7,1,44,,Kodak Black
+2022,7,1,45,,Playboi Carti
+2022,7,1,46,,Khalid
+2022,7,1,47,,Trippie Redd
+2022,7,1,48,,Olivia Rodrigo
+2022,7,1,49,,Metallica
+2022,7,1,50,,J Balvin
+2022,7,1,51,,SZA
+2022,7,1,52,,Halsey
+2022,7,1,53,,Young Thug
+2022,7,1,54,,Lin-Manuel Miranda
+2022,7,1,55,,Beyoncé
+2022,7,1,56,,Rauw Alejandro
+2022,7,1,57,,DaBaby
+2022,7,1,58,,Nicki Minaj
+2022,7,1,59,,Giveon
+2022,7,1,60,,Conan Gray
+2022,7,1,61,,Cardi B
+2022,7,1,62,,Lana Del Rey
+2022,7,1,63,,Frank Ocean
+2022,7,1,64,,The Beatles
+2022,7,1,65,,KAROL G
+2022,7,1,66,,Kid Cudi
+2022,7,1,67,,Pop Smoke
+2022,7,1,68,,Megan Thee Stallion
+2022,7,1,69,,The Kid LAROI
+2022,7,1,70,,Lady Gaga
+2022,7,1,71,,Lil Peep
+2022,7,1,72,,Maroon 5
+2022,7,1,73,,A Boogie Wit da Hoodie
+2022,7,1,74,,Coldplay
+2022,7,1,75,,Kate Bush
+2022,7,1,76,,Calvin Harris
+2022,7,1,77,,Roddy Ricch
+2022,7,1,78,,The Neighbourhood
+2022,7,1,79,,Steve Lacy
+2022,7,1,80,,Daddy Yankee
+2022,7,1,81,,Katy Perry
+2022,7,1,82,,Luke Bryan
+2022,7,1,83,,Marshmello
+2022,7,1,84,,Jason Aldean
+2022,7,1,85,,Rod Wave
+2022,7,1,86,,Metro Boomin
+2022,7,1,87,,Chris Stapleton
+2022,7,1,88,,Florida Georgia Line
+2022,7,1,89,,Lil Tjay
+2022,7,1,90,,JAY-Z
+2022,7,1,91,,OneRepublic
+2022,7,1,92,,Kenny Chesney
+2022,7,1,93,,A$AP Rocky
+2022,7,1,94,,Moneybagg Yo
+2022,7,1,95,,Chencho Corleone
+2022,7,1,96,,Kevin Gates
+2022,7,1,97,,Lizzo
+2022,7,1,98,,Tame Impala
+2022,7,1,99,,Elton John
+2022,7,1,100,,Lil Nas X
+2022,7,1,101,,blackbear
+2022,7,1,102,,One Direction
+2022,7,1,103,,Baby Keem
+2022,7,1,104,,Childish Gambino
+2022,7,1,105,,Mitski
+2022,7,1,106,,Fleetwood Mac
+2022,7,1,107,,Queen
+2022,7,1,108,,Glass Animals
+2022,7,1,109,,Adele
+2022,7,1,110,,Miley Cyrus
+2022,7,1,111,,Zac Brown Band
+2022,7,1,112,,Elvis Presley
+2022,7,1,113,,NF
+2022,7,1,114,,Eslabon Armado
+2022,7,1,115,,Sleepy Hallow
+2022,7,1,116,,Brent Faiyaz
+2022,7,1,117,,Michael Jackson
+2022,7,1,118,,Red Hot Chili Peppers
+2022,7,1,119,,Pharrell Williams
+2022,7,1,120,,Kane Brown
+2022,7,1,121,,Shawn Mendes
+2022,7,1,122,,Jhayco
+2022,7,1,123,,Thomas Rhett
+2022,7,1,124,,Panic! At The Disco
+2022,7,1,125,,Nirvana
+2022,7,1,126,,USHER
+2022,7,1,127,,Arctic Monkeys
+2022,7,1,128,,Charlie Puth
+2022,7,1,129,,Ozuna
+2022,7,1,130,,Gucci Mane
+2022,7,1,131,,Cody Johnson
+2022,7,1,132,,Anuel AA
+2022,7,1,133,,Linkin Park
+2022,7,1,134,,Pitbull
+2022,7,1,135,,Miranda Lambert
+2022,7,1,136,,King Von
+2022,7,1,137,,Tyler Childers
+2022,7,1,138,,Logic
+2022,7,1,139,,Lil Tecca
+2022,7,1,140,,Wiz Khalifa
+2022,7,1,141,,Migos
+2022,7,1,142,,Fall Out Boy
+2022,7,1,143,,Journey
+2022,7,1,144,,AC/DC
+2022,7,1,145,,2Pac
+2022,7,1,146,,Don Toliver
+2022,7,1,147,,Twenty One Pilots
+2022,7,1,148,,Rex Orange County
+2022,7,1,149,,Summer Walker
+2022,7,1,150,,Russ
+2022,7,1,151,,Tate McRae
+2022,7,1,152,,The Chainsmokers
+2022,7,1,153,,Yung Gravy
+2022,7,1,154,,AJR
+2022,7,1,155,,David Guetta
+2022,7,1,156,,George Strait
+2022,7,1,157,,Billy Joel
+2022,7,1,158,,Tems
+2022,7,1,159,,Gorillaz
+2022,7,1,160,,Luis R Conriquez
+2022,7,1,161,,Diplo
+2022,7,1,162,,NLE Choppa
+2022,7,1,163,,Young Dolph
+2022,7,1,164,,Tory Lanez
+2022,7,1,165,,Shakira
+2022,7,1,166,,Camila Cabello
+2022,7,1,167,,Grupo Firme
+2022,7,1,168,,Melanie Martinez
+2022,7,1,169,,Jon Pardi
+2022,7,1,170,,Mac DeMarco
+2022,7,1,171,,Big Sean
+2022,7,1,172,,Creedence Clearwater Revival
+2022,7,1,173,,Led Zeppelin
+2022,7,1,174,,Eagles
+2022,7,1,175,,Ty Dolla $ign
+2022,7,1,176,,Cigarettes After Sex
+2022,7,1,177,,Kali Uchis
+2022,7,1,178,,The Lumineers
+2022,7,1,179,,42 Dugg
+2022,7,1,180,,Bryson Tiller
+2022,7,1,181,,5 Seconds of Summer
+2022,7,1,182,,Tiësto
+2022,7,1,183,,Toby Keith
+2022,7,1,184,,ABBA
+2022,7,1,185,,Eric Church
+2022,7,1,186,,Green Day
+2022,7,1,187,,DJ Khaled
+2022,7,1,188,,Deftones
+2022,7,1,189,,The Notorious B.I.G.
+2022,7,1,190,,Tyga
+2022,7,1,191,,Shinedown
+2022,7,1,192,,WILLOW
+2022,7,1,193,,Key Glock
+2022,7,1,194,,JID
+2022,7,1,195,,Weezer
+2022,7,1,196,,Kygo
+2022,7,1,197,,Lee Brice
+2022,7,1,198,,Bob Marley & The Wailers
+2022,7,1,199,,Ski Mask The Slump God
+2022,7,1,200,,The Rolling Stones
+2022,8,1,1,,Bad Bunny
+2022,8,1,2,,Drake
+2022,8,1,3,,Beyoncé
+2022,8,1,4,,Taylor Swift
+2022,8,1,5,,The Weeknd
+2022,8,1,6,,Kanye West
+2022,8,1,7,,$uicideboy$
+2022,8,1,8,,Morgan Wallen
+2022,8,1,9,,Juice WRLD
+2022,8,1,10,,Lil Baby
+2022,8,1,11,,Kendrick Lamar
+2022,8,1,12,,Post Malone
+2022,8,1,13,,Harry Styles
+2022,8,1,14,,Future
+2022,8,1,15,,21 Savage
+2022,8,1,16,,Doja Cat
+2022,8,1,17,,Lil Uzi Vert
+2022,8,1,18,,YoungBoy Never Broke Again
+2022,8,1,19,,J. Cole
+2022,8,1,20,,Steve Lacy
+2022,8,1,21,,Eminem
+2022,8,1,22,,Mac Miller
+2022,8,1,23,,Billie Eilish
+2022,8,1,24,,XXXTENTACION
+2022,8,1,25,,"Tyler, The Creator"
+2022,8,1,26,,Luke Combs
+2022,8,1,27,,Lil Durk
+2022,8,1,28,,Polo G
+2022,8,1,29,,Zach Bryan
+2022,8,1,30,,Justin Bieber
+2022,8,1,31,,Travis Scott
+2022,8,1,32,,Ariana Grande
+2022,8,1,33,,Gunna
+2022,8,1,34,,Ed Sheeran
+2022,8,1,35,,BTS
+2022,8,1,36,,Jack Harlow
+2022,8,1,37,,Rihanna
+2022,8,1,38,,Bruno Mars
+2022,8,1,39,,Lil Wayne
+2022,8,1,40,,Chris Brown
+2022,8,1,41,,Khalid
+2022,8,1,42,,Trippie Redd
+2022,8,1,43,,Playboi Carti
+2022,8,1,44,,Kodak Black
+2022,8,1,45,,Olivia Rodrigo
+2022,8,1,46,,Machine Gun Kelly
+2022,8,1,47,,Lana Del Rey
+2022,8,1,48,,Joji
+2022,8,1,49,,Dua Lipa
+2022,8,1,50,,Imagine Dragons
+2022,8,1,51,,J Balvin
+2022,8,1,52,,Kid Cudi
+2022,8,1,53,,SZA
+2022,8,1,54,,Rauw Alejandro
+2022,8,1,55,,Frank Ocean
+2022,8,1,56,,Halsey
+2022,8,1,57,,Metallica
+2022,8,1,58,,Nicki Minaj
+2022,8,1,59,,Young Thug
+2022,8,1,60,,Brent Faiyaz
+2022,8,1,61,,Lin-Manuel Miranda
+2022,8,1,62,,DaBaby
+2022,8,1,63,,Baby Keem
+2022,8,1,64,,The Kid LAROI
+2022,8,1,65,,Lizzo
+2022,8,1,66,,Pop Smoke
+2022,8,1,67,,Lil Peep
+2022,8,1,68,,Calvin Harris
+2022,8,1,69,,Megan Thee Stallion
+2022,8,1,70,,The Neighbourhood
+2022,8,1,71,,Rod Wave
+2022,8,1,72,,The Beatles
+2022,8,1,73,,Lady Gaga
+2022,8,1,74,,Marshmello
+2022,8,1,75,,Daddy Yankee
+2022,8,1,76,,KAROL G
+2022,8,1,77,,Maroon 5
+2022,8,1,78,,Yeat
+2022,8,1,79,,Metro Boomin
+2022,8,1,80,,A Boogie Wit da Hoodie
+2022,8,1,81,,Coldplay
+2022,8,1,82,,OneRepublic
+2022,8,1,83,,JAY-Z
+2022,8,1,84,,Red Hot Chili Peppers
+2022,8,1,85,,One Direction
+2022,8,1,86,,Moneybagg Yo
+2022,8,1,87,,Conan Gray
+2022,8,1,88,,Roddy Ricch
+2022,8,1,89,,Giveon
+2022,8,1,90,,Katy Perry
+2022,8,1,91,,Jason Aldean
+2022,8,1,92,,Arctic Monkeys
+2022,8,1,93,,Chris Stapleton
+2022,8,1,94,,Elton John
+2022,8,1,95,,Michael Jackson
+2022,8,1,96,,A$AP Rocky
+2022,8,1,97,,Chencho Corleone
+2022,8,1,98,,Wiz Khalifa
+2022,8,1,99,,blackbear
+2022,8,1,100,,Cardi B
+2022,8,1,101,,Mitski
+2022,8,1,102,,AJR
+2022,8,1,103,,Luke Bryan
+2022,8,1,104,,NF
+2022,8,1,105,,Adele
+2022,8,1,106,,Childish Gambino
+2022,8,1,107,,Kevin Gates
+2022,8,1,108,,Eslabon Armado
+2022,8,1,109,,Queen
+2022,8,1,110,,Lil Tjay
+2022,8,1,111,,Florida Georgia Line
+2022,8,1,112,,Glass Animals
+2022,8,1,113,,Tame Impala
+2022,8,1,114,,Fleetwood Mac
+2022,8,1,115,,Panic! At The Disco
+2022,8,1,116,,Thomas Rhett
+2022,8,1,117,,Linkin Park
+2022,8,1,118,,Nirvana
+2022,8,1,119,,Gucci Mane
+2022,8,1,120,,Jhayco
+2022,8,1,121,,Kane Brown
+2022,8,1,122,,Cody Johnson
+2022,8,1,123,,Anuel AA
+2022,8,1,124,,Young Dolph
+2022,8,1,125,,Russ
+2022,8,1,126,,Sleepy Hallow
+2022,8,1,127,,Pharrell Williams
+2022,8,1,128,,Pitbull
+2022,8,1,129,,Yung Gravy
+2022,8,1,130,,Rex Orange County
+2022,8,1,131,,Ozuna
+2022,8,1,132,,Miley Cyrus
+2022,8,1,133,,Kenny Chesney
+2022,8,1,134,,Summer Walker
+2022,8,1,135,,Fall Out Boy
+2022,8,1,136,,NAV
+2022,8,1,137,,Shawn Mendes
+2022,8,1,138,,Dance Gavin Dance
+2022,8,1,139,,Lil Nas X
+2022,8,1,140,,The Lumineers
+2022,8,1,141,,Nardo Wick
+2022,8,1,142,,Tyler Childers
+2022,8,1,143,,King Von
+2022,8,1,144,,Zac Brown Band
+2022,8,1,145,,Logic
+2022,8,1,146,,Twenty One Pilots
+2022,8,1,147,,Gorillaz
+2022,8,1,148,,Lil Tecca
+2022,8,1,149,,NLE Choppa
+2022,8,1,150,,Migos
+2022,8,1,151,,Luis R Conriquez
+2022,8,1,152,,2Pac
+2022,8,1,153,,AC/DC
+2022,8,1,154,,Grupo Firme
+2022,8,1,155,,Cigarettes After Sex
+2022,8,1,156,,Maggie Rogers
+2022,8,1,157,,Junior H
+2022,8,1,158,,Melanie Martinez
+2022,8,1,159,,Kate Bush
+2022,8,1,160,,David Guetta
+2022,8,1,161,,George Strait
+2022,8,1,162,,Anderson .Paak
+2022,8,1,163,,Deftones
+2022,8,1,164,,Miranda Lambert
+2022,8,1,165,,Big Sean
+2022,8,1,166,,USHER
+2022,8,1,167,,Tory Lanez
+2022,8,1,168,,Mac DeMarco
+2022,8,1,169,,Don Toliver
+2022,8,1,170,,Billy Joel
+2022,8,1,171,,Elvis Presley
+2022,8,1,172,,The Chainsmokers
+2022,8,1,173,,Green Day
+2022,8,1,174,,Diplo
+2022,8,1,175,,Shakira
+2022,8,1,176,,Camila Cabello
+2022,8,1,177,,Fuerza Regida
+2022,8,1,178,,Led Zeppelin
+2022,8,1,179,,Tems
+2022,8,1,180,,Charlie Puth
+2022,8,1,181,,Jon Pardi
+2022,8,1,182,,Slipknot
+2022,8,1,183,,Joey Bada$$
+2022,8,1,184,,Tate McRae
+2022,8,1,185,,42 Dugg
+2022,8,1,186,,Paramore
+2022,8,1,187,,Ty Dolla $ign
+2022,8,1,188,,Bryson Tiller
+2022,8,1,189,,5 Seconds of Summer
+2022,8,1,190,,Justin Timberlake
+2022,8,1,191,,Kali Uchis
+2022,8,1,192,,Carin Leon
+2022,8,1,193,,Sam Smith
+2022,8,1,194,,My Chemical Romance
+2022,8,1,195,,Ski Mask The Slump God
+2022,8,1,196,,John Mayer
+2022,8,1,197,,The Notorious B.I.G.
+2022,8,1,198,,50 Cent
+2022,8,1,199,,Offset
+2022,8,1,200,,DJ Khaled
+2022,9,1,1,,Bad Bunny
+2022,9,1,2,,Drake
+2022,9,1,3,,Taylor Swift
+2022,9,1,4,,Kanye West
+2022,9,1,5,,The Weeknd
+2022,9,1,6,,Lil Baby
+2022,9,1,7,,Juice WRLD
+2022,9,1,8,,Future
+2022,9,1,9,,DJ Khaled
+2022,9,1,10,,Morgan Wallen
+2022,9,1,11,,Kendrick Lamar
+2022,9,1,12,,$uicideboy$
+2022,9,1,13,,Harry Styles
+2022,9,1,14,,21 Savage
+2022,9,1,15,,Post Malone
+2022,9,1,16,,YoungBoy Never Broke Again
+2022,9,1,17,,J. Cole
+2022,9,1,18,,Doja Cat
+2022,9,1,19,,Beyoncé
+2022,9,1,20,,Eminem
+2022,9,1,21,,Steve Lacy
+2022,9,1,22,,"Tyler, The Creator"
+2022,9,1,23,,XXXTENTACION
+2022,9,1,24,,Lil Durk
+2022,9,1,25,,Lil Uzi Vert
+2022,9,1,26,,Mac Miller
+2022,9,1,27,,Billie Eilish
+2022,9,1,28,,Nicki Minaj
+2022,9,1,29,,Lil Wayne
+2022,9,1,30,,JID
+2022,9,1,31,,Zach Bryan
+2022,9,1,32,,Polo G
+2022,9,1,33,,Justin Bieber
+2022,9,1,34,,BTS
+2022,9,1,35,,Travis Scott
+2022,9,1,36,,Ariana Grande
+2022,9,1,37,,Rod Wave
+2022,9,1,38,,Gunna
+2022,9,1,39,,Luke Combs
+2022,9,1,40,,Joji
+2022,9,1,41,,SZA
+2022,9,1,42,,Ed Sheeran
+2022,9,1,43,,Kodak Black
+2022,9,1,44,,Playboi Carti
+2022,9,1,45,,Trippie Redd
+2022,9,1,46,,Megan Thee Stallion
+2022,9,1,47,,Rihanna
+2022,9,1,48,,Khalid
+2022,9,1,49,,Lana Del Rey
+2022,9,1,50,,Bruno Mars
+2022,9,1,51,,Frank Ocean
+2022,9,1,52,,Chris Brown
+2022,9,1,53,,Imagine Dragons
+2022,9,1,54,,Jack Harlow
+2022,9,1,55,,J Balvin
+2022,9,1,56,,KAROL G
+2022,9,1,57,,Olivia Rodrigo
+2022,9,1,58,,Brent Faiyaz
+2022,9,1,59,,Kid Cudi
+2022,9,1,60,,Machine Gun Kelly
+2022,9,1,61,,JAY-Z
+2022,9,1,62,,Rauw Alejandro
+2022,9,1,63,,Dua Lipa
+2022,9,1,64,,Lil Peep
+2022,9,1,65,,DaBaby
+2022,9,1,66,,Baby Keem
+2022,9,1,67,,Halsey
+2022,9,1,68,,Lady Gaga
+2022,9,1,69,,Elton John
+2022,9,1,70,,The Neighbourhood
+2022,9,1,71,,Pop Smoke
+2022,9,1,72,,Arctic Monkeys
+2022,9,1,73,,Coldplay
+2022,9,1,74,,Metro Boomin
+2022,9,1,75,,Young Thug
+2022,9,1,76,,Lil Tjay
+2022,9,1,77,,Lin-Manuel Miranda
+2022,9,1,78,,Moneybagg Yo
+2022,9,1,79,,The Beatles
+2022,9,1,80,,Daddy Yankee
+2022,9,1,81,,blackbear
+2022,9,1,82,,Roddy Ricch
+2022,9,1,83,,Marshmello
+2022,9,1,84,,The Kid LAROI
+2022,9,1,85,,Maroon 5
+2022,9,1,86,,OneRepublic
+2022,9,1,87,,Metallica
+2022,9,1,88,,A Boogie Wit da Hoodie
+2022,9,1,89,,Eslabon Armado
+2022,9,1,90,,Nardo Wick
+2022,9,1,91,,Red Hot Chili Peppers
+2022,9,1,92,,Calvin Harris
+2022,9,1,93,,Yeat
+2022,9,1,94,,Childish Gambino
+2022,9,1,95,,Lizzo
+2022,9,1,96,,Giveon
+2022,9,1,97,,Chencho Corleone
+2022,9,1,98,,Michael Jackson
+2022,9,1,99,,Panic! At The Disco
+2022,9,1,100,,A$AP Rocky
+2022,9,1,101,,Chris Stapleton
+2022,9,1,102,,Tame Impala
+2022,9,1,103,,Lil Tecca
+2022,9,1,104,,David Guetta
+2022,9,1,105,,One Direction
+2022,9,1,106,,Conan Gray
+2022,9,1,107,,Jason Aldean
+2022,9,1,108,,Katy Perry
+2022,9,1,109,,Britney Spears
+2022,9,1,110,,Adele
+2022,9,1,111,,Anuel AA
+2022,9,1,112,,Mitski
+2022,9,1,113,,NF
+2022,9,1,114,,Demi Lovato
+2022,9,1,115,,Linkin Park
+2022,9,1,116,,Summer Walker
+2022,9,1,117,,Nirvana
+2022,9,1,118,,Rex Orange County
+2022,9,1,119,,Kevin Gates
+2022,9,1,120,,Jhayco
+2022,9,1,121,,Luis R Conriquez
+2022,9,1,122,,TWICE
+2022,9,1,123,,Cardi B
+2022,9,1,124,,Luke Bryan
+2022,9,1,125,,Queen
+2022,9,1,126,,Deftones
+2022,9,1,127,,Tyler Childers
+2022,9,1,128,,Fleetwood Mac
+2022,9,1,129,,Cigarettes After Sex
+2022,9,1,130,,Gorillaz
+2022,9,1,131,,Kane Brown
+2022,9,1,132,,Ozuna
+2022,9,1,133,,Don Toliver
+2022,9,1,134,,The Lumineers
+2022,9,1,135,,My Chemical Romance
+2022,9,1,136,,Glass Animals
+2022,9,1,137,,King Von
+2022,9,1,138,,Ivan Cornejo
+2022,9,1,139,,Twenty One Pilots
+2022,9,1,140,,Florida Georgia Line
+2022,9,1,141,,AJR
+2022,9,1,142,,Thomas Rhett
+2022,9,1,143,,Yung Gravy
+2022,9,1,144,,Tory Lanez
+2022,9,1,145,,Junior H
+2022,9,1,146,,Key Glock
+2022,9,1,147,,Fall Out Boy
+2022,9,1,148,,Kenny Chesney
+2022,9,1,149,,Pitbull
+2022,9,1,150,,Offset
+2022,9,1,151,,2Pac
+2022,9,1,152,,Miley Cyrus
+2022,9,1,153,,Wiz Khalifa
+2022,9,1,154,,Sleepy Hallow
+2022,9,1,155,,Shawn Mendes
+2022,9,1,156,,Young Dolph
+2022,9,1,157,,Mac DeMarco
+2022,9,1,158,,Bailey Zimmerman
+2022,9,1,159,,Pharrell Williams
+2022,9,1,160,,Grupo Firme
+2022,9,1,161,,BLACKPINK
+2022,9,1,162,,NLE Choppa
+2022,9,1,163,,Melanie Martinez
+2022,9,1,164,,Cody Johnson
+2022,9,1,165,,Russ
+2022,9,1,166,,Fuerza Regida
+2022,9,1,167,,Migos
+2022,9,1,168,,42 Dugg
+2022,9,1,169,,AC/DC
+2022,9,1,170,,Zac Brown Band
+2022,9,1,171,,Logic
+2022,9,1,172,,Lil Nas X
+2022,9,1,173,,Gucci Mane
+2022,9,1,174,,Five Finger Death Punch
+2022,9,1,175,,USHER
+2022,9,1,176,,Bryson Tiller
+2022,9,1,177,,Quavo
+2022,9,1,178,,Big Sean
+2022,9,1,179,,Sam Smith
+2022,9,1,180,,NAV
+2022,9,1,181,,Billy Joel
+2022,9,1,182,,Charlie Puth
+2022,9,1,183,,Pierce The Veil
+2022,9,1,184,,Rick Ross
+2022,9,1,185,,Diplo
+2022,9,1,186,,Elvis Presley
+2022,9,1,187,,Green Day
+2022,9,1,188,,Slipknot
+2022,9,1,189,,Jhené Aiko
+2022,9,1,190,,Anderson .Paak
+2022,9,1,191,,Led Zeppelin
+2022,9,1,192,,Selena Gomez
+2022,9,1,193,,Miranda Lambert
+2022,9,1,194,,George Strait
+2022,9,1,195,,Paramore
+2022,9,1,196,,Jon Pardi
+2022,9,1,197,,Ski Mask The Slump God
+2022,9,1,198,,Tems
+2022,9,1,199,,Maren Morris
+2022,9,1,200,,ROSALÍA
+2022,10,1,1,,Bad Bunny
+2022,10,1,2,,Drake
+2022,10,1,3,,Taylor Swift
+2022,10,1,4,,Kanye West
+2022,10,1,5,,The Weeknd
+2022,10,1,6,,Juice WRLD
+2022,10,1,7,,Lil Baby
+2022,10,1,8,,$uicideboy$
+2022,10,1,9,,Morgan Wallen
+2022,10,1,10,,Kendrick Lamar
+2022,10,1,11,,Future
+2022,10,1,12,,YoungBoy Never Broke Again
+2022,10,1,13,,Post Malone
+2022,10,1,14,,J. Cole
+2022,10,1,15,,Harry Styles
+2022,10,1,16,,21 Savage
+2022,10,1,17,,Steve Lacy
+2022,10,1,18,,Eminem
+2022,10,1,19,,Zach Bryan
+2022,10,1,20,,XXXTENTACION
+2022,10,1,21,,Kid Cudi
+2022,10,1,22,,Doja Cat
+2022,10,1,23,,"Tyler, The Creator"
+2022,10,1,24,,Lil Uzi Vert
+2022,10,1,25,,Billie Eilish
+2022,10,1,26,,Mac Miller
+2022,10,1,27,,Beyoncé
+2022,10,1,28,,Polo G
+2022,10,1,29,,Travis Scott
+2022,10,1,30,,Ariana Grande
+2022,10,1,31,,Luke Combs
+2022,10,1,32,,Trippie Redd
+2022,10,1,33,,Kodak Black
+2022,10,1,34,,Lil Durk
+2022,10,1,35,,Justin Bieber
+2022,10,1,36,,Nicki Minaj
+2022,10,1,37,,Rihanna
+2022,10,1,38,,Sam Smith
+2022,10,1,39,,Gunna
+2022,10,1,40,,Ed Sheeran
+2022,10,1,41,,BTS
+2022,10,1,42,,Playboi Carti
+2022,10,1,43,,Lana Del Rey
+2022,10,1,44,,Frank Ocean
+2022,10,1,45,,Rod Wave
+2022,10,1,46,,Lil Wayne
+2022,10,1,47,,Tory Lanez
+2022,10,1,48,,Tyler Childers
+2022,10,1,49,,Khalid
+2022,10,1,50,,Bruno Mars
+2022,10,1,51,,SZA
+2022,10,1,52,,Yeat
+2022,10,1,53,,Chris Brown
+2022,10,1,54,,Imagine Dragons
+2022,10,1,55,,Brent Faiyaz
+2022,10,1,56,,Lil Peep
+2022,10,1,57,,Jack Harlow
+2022,10,1,58,,The Neighbourhood
+2022,10,1,59,,J Balvin
+2022,10,1,60,,Arctic Monkeys
+2022,10,1,61,,Joji
+2022,10,1,62,,DaBaby
+2022,10,1,63,,Baby Keem
+2022,10,1,64,,Rauw Alejandro
+2022,10,1,65,,Metro Boomin
+2022,10,1,66,,KAROL G
+2022,10,1,67,,Olivia Rodrigo
+2022,10,1,68,,Pop Smoke
+2022,10,1,69,,Megan Thee Stallion
+2022,10,1,70,,Coldplay
+2022,10,1,71,,JAY-Z
+2022,10,1,72,,A Boogie Wit da Hoodie
+2022,10,1,73,,Lady Gaga
+2022,10,1,74,,Moneybagg Yo
+2022,10,1,75,,Halsey
+2022,10,1,76,,Lin-Manuel Miranda
+2022,10,1,77,,David Guetta
+2022,10,1,78,,Dua Lipa
+2022,10,1,79,,The Beatles
+2022,10,1,80,,Machine Gun Kelly
+2022,10,1,81,,Kim Petras
+2022,10,1,82,,Young Thug
+2022,10,1,83,,Slipknot
+2022,10,1,84,,Eslabon Armado
+2022,10,1,85,,Childish Gambino
+2022,10,1,86,,DJ Khaled
+2022,10,1,87,,Roddy Ricch
+2022,10,1,88,,Maroon 5
+2022,10,1,89,,Katy Perry
+2022,10,1,90,,Daddy Yankee
+2022,10,1,91,,OneRepublic
+2022,10,1,92,,Elton John
+2022,10,1,93,,The Kid LAROI
+2022,10,1,94,,Cardi B
+2022,10,1,95,,Paramore
+2022,10,1,96,,Marshmello
+2022,10,1,97,,Chris Stapleton
+2022,10,1,98,,Lizzo
+2022,10,1,99,,Michael Jackson
+2022,10,1,100,,BLACKPINK
+2022,10,1,101,,Adele
+2022,10,1,102,,Metallica
+2022,10,1,103,,Lil Tjay
+2022,10,1,104,,Tame Impala
+2022,10,1,105,,Conan Gray
+2022,10,1,106,,A$AP Rocky
+2022,10,1,107,,Cigarettes After Sex
+2022,10,1,108,,Lil Nas X
+2022,10,1,109,,Giveon
+2022,10,1,110,,Summer Walker
+2022,10,1,111,,5 Seconds of Summer
+2022,10,1,112,,Anuel AA
+2022,10,1,113,,One Direction
+2022,10,1,114,,Panic! At The Disco
+2022,10,1,115,,NF
+2022,10,1,116,,Mitski
+2022,10,1,117,,Freddie Gibbs
+2022,10,1,118,,Nirvana
+2022,10,1,119,,Linkin Park
+2022,10,1,120,,Jason Aldean
+2022,10,1,121,,blackbear
+2022,10,1,122,,Gorillaz
+2022,10,1,123,,Red Hot Chili Peppers
+2022,10,1,124,,Junior H
+2022,10,1,125,,Fleetwood Mac
+2022,10,1,126,,Kane Brown
+2022,10,1,127,,Deftones
+2022,10,1,128,,Ivan Cornejo
+2022,10,1,129,,JID
+2022,10,1,130,,Luis R Conriquez
+2022,10,1,131,,My Chemical Romance
+2022,10,1,132,,Queen
+2022,10,1,133,,Luke Bryan
+2022,10,1,134,,Chencho Corleone
+2022,10,1,135,,Sleepy Hallow
+2022,10,1,136,,Calvin Harris
+2022,10,1,137,,NLE Choppa
+2022,10,1,138,,Ozuna
+2022,10,1,139,,King Von
+2022,10,1,140,,Lil Tecca
+2022,10,1,141,,Ty Dolla $ign
+2022,10,1,142,,Bebe Rexha
+2022,10,1,143,,Rex Orange County
+2022,10,1,144,,Bryson Tiller
+2022,10,1,145,,Don Toliver
+2022,10,1,146,,Kevin Gates
+2022,10,1,147,,2Pac
+2022,10,1,148,,Shawn Mendes
+2022,10,1,149,,Charlie Puth
+2022,10,1,150,,Fall Out Boy
+2022,10,1,151,,Twenty One Pilots
+2022,10,1,152,,Mac DeMarco
+2022,10,1,153,,Tate McRae
+2022,10,1,154,,Romeo Santos
+2022,10,1,155,,Omar Apollo
+2022,10,1,156,,The Lumineers
+2022,10,1,157,,AJR
+2022,10,1,158,,NAV
+2022,10,1,159,,YG
+2022,10,1,160,,Cody Johnson
+2022,10,1,161,,Grupo Firme
+2022,10,1,162,,Koe Wetzel
+2022,10,1,163,,Yung Gravy
+2022,10,1,164,,Florida Georgia Line
+2022,10,1,165,,Nardo Wick
+2022,10,1,166,,Ghost
+2022,10,1,167,,Thomas Rhett
+2022,10,1,168,,Selena Gomez
+2022,10,1,169,,Russ
+2022,10,1,170,,Pitbull
+2022,10,1,171,,Young Dolph
+2022,10,1,172,,Migos
+2022,10,1,173,,HARDY
+2022,10,1,174,,Glass Animals
+2022,10,1,175,,JVKE
+2022,10,1,176,,Miley Cyrus
+2022,10,1,177,,Wiz Khalifa
+2022,10,1,178,,LUCKI
+2022,10,1,179,,Offset
+2022,10,1,180,,Feid
+2022,10,1,181,,AC/DC
+2022,10,1,182,,Fuerza Regida
+2022,10,1,183,,Melanie Martinez
+2022,10,1,184,,Big Sean
+2022,10,1,185,,ROSALÍA
+2022,10,1,186,,Britney Spears
+2022,10,1,187,,Gucci Mane
+2022,10,1,188,,Kali Uchis
+2022,10,1,189,,USHER
+2022,10,1,190,,Key Glock
+2022,10,1,191,,Hozier
+2022,10,1,192,,George Strait
+2022,10,1,193,,Bailey Zimmerman
+2022,10,1,194,,d4vd
+2022,10,1,195,,Logic
+2022,10,1,196,,Demi Lovato
+2022,10,1,197,,Green Day
+2022,10,1,198,,Elvis Presley
+2022,10,1,199,,Diplo
+2022,10,1,200,,Zac Brown Band
+2022,11,1,1,,Taylor Swift
+2022,11,1,2,,Drake
+2022,11,1,3,,Bad Bunny
+2022,11,1,4,,Lil Baby
+2022,11,1,5,,The Weeknd
+2022,11,1,6,,Kanye West
+2022,11,1,7,,Juice WRLD
+2022,11,1,8,,$uicideboy$
+2022,11,1,9,,Morgan Wallen
+2022,11,1,10,,Kendrick Lamar
+2022,11,1,11,,YoungBoy Never Broke Again
+2022,11,1,12,,Future
+2022,11,1,13,,21 Savage
+2022,11,1,14,,Post Malone
+2022,11,1,15,,J. Cole
+2022,11,1,16,,Lil Uzi Vert
+2022,11,1,17,,Rihanna
+2022,11,1,18,,Eminem
+2022,11,1,19,,Harry Styles
+2022,11,1,20,,Lana Del Rey
+2022,11,1,21,,Steve Lacy
+2022,11,1,22,,XXXTENTACION
+2022,11,1,23,,Zach Bryan
+2022,11,1,24,,Kodak Black
+2022,11,1,25,,SZA
+2022,11,1,26,,"Tyler, The Creator"
+2022,11,1,27,,Baby Keem
+2022,11,1,28,,Polo G
+2022,11,1,29,,Doja Cat
+2022,11,1,30,,Billie Eilish
+2022,11,1,31,,Mac Miller
+2022,11,1,32,,Ariana Grande
+2022,11,1,33,,Travis Scott
+2022,11,1,34,,Beyoncé
+2022,11,1,35,,Trippie Redd
+2022,11,1,36,,Gunna
+2022,11,1,37,,Luke Combs
+2022,11,1,38,,BTS
+2022,11,1,39,,Playboi Carti
+2022,11,1,40,,Justin Bieber
+2022,11,1,41,,Lil Durk
+2022,11,1,42,,Sam Smith
+2022,11,1,43,,Lil Wayne
+2022,11,1,44,,Bruno Mars
+2022,11,1,45,,Frank Ocean
+2022,11,1,46,,Nicki Minaj
+2022,11,1,47,,Chris Brown
+2022,11,1,48,,Imagine Dragons
+2022,11,1,49,,Brent Faiyaz
+2022,11,1,50,,Rod Wave
+2022,11,1,51,,Ed Sheeran
+2022,11,1,52,,Michael Jackson
+2022,11,1,53,,Khalid
+2022,11,1,54,,Lil Peep
+2022,11,1,55,,Arctic Monkeys
+2022,11,1,56,,Kid Cudi
+2022,11,1,57,,Yeat
+2022,11,1,58,,Rauw Alejandro
+2022,11,1,59,,Metro Boomin
+2022,11,1,60,,A Boogie Wit da Hoodie
+2022,11,1,61,,The Neighbourhood
+2022,11,1,62,,The Beatles
+2022,11,1,63,,Migos
+2022,11,1,64,,J Balvin
+2022,11,1,65,,Joji
+2022,11,1,66,,Young Thug
+2022,11,1,67,,Jack Harlow
+2022,11,1,68,,Lady Gaga
+2022,11,1,69,,Tyler Childers
+2022,11,1,70,,Coldplay
+2022,11,1,71,,DaBaby
+2022,11,1,72,,Pop Smoke
+2022,11,1,73,,Ozuna
+2022,11,1,74,,Noah Kahan
+2022,11,1,75,,Marshmello
+2022,11,1,76,,KAROL G
+2022,11,1,77,,Olivia Rodrigo
+2022,11,1,78,,Megan Thee Stallion
+2022,11,1,79,,David Guetta
+2022,11,1,80,,JAY-Z
+2022,11,1,81,,Halsey
+2022,11,1,82,,Katy Perry
+2022,11,1,83,,Eslabon Armado
+2022,11,1,84,,Roddy Ricch
+2022,11,1,85,,Kim Petras
+2022,11,1,86,,Tory Lanez
+2022,11,1,87,,Lin-Manuel Miranda
+2022,11,1,88,,Dua Lipa
+2022,11,1,89,,Takeoff
+2022,11,1,90,,Machine Gun Kelly
+2022,11,1,91,,Cardi B
+2022,11,1,92,,Maroon 5
+2022,11,1,93,,Childish Gambino
+2022,11,1,94,,Summer Walker
+2022,11,1,95,,Ivan Cornejo
+2022,11,1,96,,Daddy Yankee
+2022,11,1,97,,Quavo
+2022,11,1,98,,Elton John
+2022,11,1,99,,Luis R Conriquez
+2022,11,1,100,,Adele
+2022,11,1,101,,NF
+2022,11,1,102,,Anuel AA
+2022,11,1,103,,DJ Khaled
+2022,11,1,104,,Metallica
+2022,11,1,105,,Chris Stapleton
+2022,11,1,106,,Yung Gravy
+2022,11,1,107,,Moneybagg Yo
+2022,11,1,108,,The Kid LAROI
+2022,11,1,109,,OneRepublic
+2022,11,1,110,,Red Hot Chili Peppers
+2022,11,1,111,,A$AP Rocky
+2022,11,1,112,,Linkin Park
+2022,11,1,113,,Junior H
+2022,11,1,114,,Paramore
+2022,11,1,115,,Meghan Trainor
+2022,11,1,116,,Nardo Wick
+2022,11,1,117,,Don Toliver
+2022,11,1,118,,Lil Tjay
+2022,11,1,119,,Nirvana
+2022,11,1,120,,Fleetwood Mac
+2022,11,1,121,,Giveon
+2022,11,1,122,,Cigarettes After Sex
+2022,11,1,123,,Panic! At The Disco
+2022,11,1,124,,Bryson Tiller
+2022,11,1,125,,Mitski
+2022,11,1,126,,Shakira
+2022,11,1,127,,JVKE
+2022,11,1,128,,Deftones
+2022,11,1,129,,Ski Mask The Slump God
+2022,11,1,130,,Smino
+2022,11,1,131,,Conan Gray
+2022,11,1,132,,Jason Aldean
+2022,11,1,133,,Tame Impala
+2022,11,1,134,,Feid
+2022,11,1,135,,Lizzo
+2022,11,1,136,,One Direction
+2022,11,1,137,,Queen
+2022,11,1,138,,King Von
+2022,11,1,139,,Calvin Harris
+2022,11,1,140,,NLE Choppa
+2022,11,1,141,,blackbear
+2022,11,1,142,,2Pac
+2022,11,1,143,,Sleepy Hallow
+2022,11,1,144,,Charlie Puth
+2022,11,1,145,,Lil Nas X
+2022,11,1,146,,d4vd
+2022,11,1,147,,Kane Brown
+2022,11,1,148,,BabyTron
+2022,11,1,149,,Gorillaz
+2022,11,1,150,,Mac DeMarco
+2022,11,1,151,,Bailey Zimmerman
+2022,11,1,152,,My Chemical Romance
+2022,11,1,153,,Lil Tecca
+2022,11,1,154,,Luke Bryan
+2022,11,1,155,,Fall Out Boy
+2022,11,1,156,,The 1975
+2022,11,1,157,,Twenty One Pilots
+2022,11,1,158,,blink-182
+2022,11,1,159,,HARDY
+2022,11,1,160,,Kevin Gates
+2022,11,1,161,,Fuerza Regida
+2022,11,1,162,,Britney Spears
+2022,11,1,163,,Lil Yachty
+2022,11,1,164,,Bebe Rexha
+2022,11,1,165,,AC/DC
+2022,11,1,166,,Cody Johnson
+2022,11,1,167,,Romeo Santos
+2022,11,1,168,,JID
+2022,11,1,169,,Pitbull
+2022,11,1,170,,Oliver Tree
+2022,11,1,171,,Shawn Mendes
+2022,11,1,172,,BLACKPINK
+2022,11,1,173,,Young Dolph
+2022,11,1,174,,Wiz Khalifa
+2022,11,1,175,,Selena Gomez
+2022,11,1,176,,Gucci Mane
+2022,11,1,177,,Slipknot
+2022,11,1,178,,Kali Uchis
+2022,11,1,179,,Ty Dolla $ign
+2022,11,1,180,,The Lumineers
+2022,11,1,181,,Miley Cyrus
+2022,11,1,182,,Hozier
+2022,11,1,183,,USHER
+2022,11,1,184,,Key Glock
+2022,11,1,185,,Russ
+2022,11,1,186,,Jhayco
+2022,11,1,187,,Logic
+2022,11,1,188,,George Strait
+2022,11,1,189,,Chencho Corleone
+2022,11,1,190,,Grupo Firme
+2022,11,1,191,,AJR
+2022,11,1,192,,Mariah Carey
+2022,11,1,193,,50 Cent
+2022,11,1,194,,Omar Apollo
+2022,11,1,195,,MF DOOM
+2022,11,1,196,,Thomas Rhett
+2022,11,1,197,,Green Day
+2022,11,1,198,,Florida Georgia Line
+2022,11,1,199,,Radiohead
+2022,11,1,200,,Ghost
+2022,12,1,1,,Taylor Swift
+2022,12,1,2,,Drake
+2022,12,1,3,,21 Savage
+2022,12,1,4,,Bad Bunny
+2022,12,1,5,,The Weeknd
+2022,12,1,6,,Kanye West
+2022,12,1,7,,Juice WRLD
+2022,12,1,8,,Lil Baby
+2022,12,1,9,,Morgan Wallen
+2022,12,1,10,,$uicideboy$
+2022,12,1,11,,Kendrick Lamar
+2022,12,1,12,,YoungBoy Never Broke Again
+2022,12,1,13,,Future
+2022,12,1,14,,Zach Bryan
+2022,12,1,15,,J. Cole
+2022,12,1,16,,Eminem
+2022,12,1,17,,Lil Uzi Vert
+2022,12,1,18,,Ariana Grande
+2022,12,1,19,,Post Malone
+2022,12,1,20,,XXXTENTACION
+2022,12,1,21,,Harry Styles
+2022,12,1,22,,Travis Scott
+2022,12,1,23,,"Tyler, The Creator"
+2022,12,1,24,,Rihanna
+2022,12,1,25,,Billie Eilish
+2022,12,1,26,,Steve Lacy
+2022,12,1,27,,Mac Miller
+2022,12,1,28,,Bing Crosby
+2022,12,1,29,,Doja Cat
+2022,12,1,30,,Justin Bieber
+2022,12,1,31,,Lana Del Rey
+2022,12,1,32,,Polo G
+2022,12,1,33,,Rod Wave
+2022,12,1,34,,Joji
+2022,12,1,35,,SZA
+2022,12,1,36,,Michael Bublé
+2022,12,1,37,,BTS
+2022,12,1,38,,Gunna
+2022,12,1,39,,Frank Sinatra
+2022,12,1,40,,Kodak Black
+2022,12,1,41,,Luke Combs
+2022,12,1,42,,Pentatonix
+2022,12,1,43,,Lil Durk
+2022,12,1,44,,Playboi Carti
+2022,12,1,45,,Trippie Redd
+2022,12,1,46,,Mariah Carey
+2022,12,1,47,,Frank Ocean
+2022,12,1,48,,Brent Faiyaz
+2022,12,1,49,,Beyoncé
+2022,12,1,50,,Lil Wayne
+2022,12,1,51,,Bruno Mars
+2022,12,1,52,,Rauw Alejandro
+2022,12,1,53,,Lil Peep
+2022,12,1,54,,Chris Brown
+2022,12,1,55,,Ed Sheeran
+2022,12,1,56,,Metro Boomin
+2022,12,1,57,,A Boogie Wit da Hoodie
+2022,12,1,58,,Baby Keem
+2022,12,1,59,,Sam Smith
+2022,12,1,60,,Nicki Minaj
+2022,12,1,61,,Khalid
+2022,12,1,62,,The Neighbourhood
+2022,12,1,63,,Yeat
+2022,12,1,64,,Nat King Cole
+2022,12,1,65,,Imagine Dragons
+2022,12,1,66,,Arctic Monkeys
+2022,12,1,67,,Tyler Childers
+2022,12,1,68,,Kid Cudi
+2022,12,1,69,,Lady Gaga
+2022,12,1,70,,Coldplay
+2022,12,1,71,,J Balvin
+2022,12,1,72,,Roddy Ricch
+2022,12,1,73,,Jack Harlow
+2022,12,1,74,,Young Thug
+2022,12,1,75,,Dean Martin
+2022,12,1,76,,Machine Gun Kelly
+2022,12,1,77,,Pop Smoke
+2022,12,1,78,,Olivia Rodrigo
+2022,12,1,79,,Tory Lanez
+2022,12,1,80,,Elton John
+2022,12,1,81,,DaBaby
+2022,12,1,82,,The 1975
+2022,12,1,83,,The Beatles
+2022,12,1,84,,Halsey
+2022,12,1,85,,Junior H
+2022,12,1,86,,KAROL G
+2022,12,1,87,,Elvis Presley
+2022,12,1,88,,Fleetwood Mac
+2022,12,1,89,,Ozuna
+2022,12,1,90,,Adele
+2022,12,1,91,,JAY-Z
+2022,12,1,92,,Childish Gambino
+2022,12,1,93,,Eslabon Armado
+2022,12,1,94,,Meghan Trainor
+2022,12,1,95,,Metallica
+2022,12,1,96,,David Guetta
+2022,12,1,97,,Megan Thee Stallion
+2022,12,1,98,,Summer Walker
+2022,12,1,99,,Katy Perry
+2022,12,1,100,,Dua Lipa
+2022,12,1,101,,Kelly Clarkson
+2022,12,1,102,,Maroon 5
+2022,12,1,103,,Andy Williams
+2022,12,1,104,,Noah Kahan
+2022,12,1,105,,Cigarettes After Sex
+2022,12,1,106,,Lin-Manuel Miranda
+2022,12,1,107,,Marshmello
+2022,12,1,108,,Luis R Conriquez
+2022,12,1,109,,Daddy Yankee
+2022,12,1,110,,Chris Stapleton
+2022,12,1,111,,Vince Guaraldi Trio
+2022,12,1,112,,Ivan Cornejo
+2022,12,1,113,,NF
+2022,12,1,114,,Mitski
+2022,12,1,115,,Brenda Lee
+2022,12,1,116,,Cardi B
+2022,12,1,117,,Anuel AA
+2022,12,1,118,,A$AP Rocky
+2022,12,1,119,,Michael Jackson
+2022,12,1,120,,Lil Tjay
+2022,12,1,121,,Burl Ives
+2022,12,1,122,,The Kid LAROI
+2022,12,1,123,,Linkin Park
+2022,12,1,124,,NLE Choppa
+2022,12,1,125,,Bryson Tiller
+2022,12,1,126,,OneRepublic
+2022,12,1,127,,Red Hot Chili Peppers
+2022,12,1,128,,d4vd
+2022,12,1,129,,Nirvana
+2022,12,1,130,,Tame Impala
+2022,12,1,131,,Queen
+2022,12,1,132,,Moneybagg Yo
+2022,12,1,133,,Deftones
+2022,12,1,134,,JVKE
+2022,12,1,135,,Giveon
+2022,12,1,136,,Conan Gray
+2022,12,1,137,,Migos
+2022,12,1,138,,King Von
+2022,12,1,139,,DJ Khaled
+2022,12,1,140,,Freddie Dredd
+2022,12,1,141,,Quavo
+2022,12,1,142,,One Direction
+2022,12,1,143,,Sleepy Hallow
+2022,12,1,144,,Young Dolph
+2022,12,1,145,,Sia
+2022,12,1,146,,Jason Aldean
+2022,12,1,147,,Paramore
+2022,12,1,148,,Mac DeMarco
+2022,12,1,149,,Takeoff
+2022,12,1,150,,Key Glock
+2022,12,1,151,,blackbear
+2022,12,1,152,,Cody Johnson
+2022,12,1,153,,2Pac
+2022,12,1,154,,Gorillaz
+2022,12,1,155,,Panic! At The Disco
+2022,12,1,156,,Shakira
+2022,12,1,157,,Kali Uchis
+2022,12,1,158,,Feid
+2022,12,1,159,,Kevin Gates
+2022,12,1,160,,Nardo Wick
+2022,12,1,161,,Fall Out Boy
+2022,12,1,162,,Hozier
+2022,12,1,163,,Selena Gomez
+2022,12,1,164,,Lil Nas X
+2022,12,1,165,,HARDY
+2022,12,1,166,,Fuerza Regida
+2022,12,1,167,,The Lumineers
+2022,12,1,168,,JID
+2022,12,1,169,,Calvin Harris
+2022,12,1,170,,AJR
+2022,12,1,171,,Bailey Zimmerman
+2022,12,1,172,,Ski Mask The Slump God
+2022,12,1,173,,Luke Bryan
+2022,12,1,174,,Shawn Mendes
+2022,12,1,175,,Lil Tecca
+2022,12,1,176,,Kane Brown
+2022,12,1,177,,Don Toliver
+2022,12,1,178,,Kim Petras
+2022,12,1,179,,Lizzo
+2022,12,1,180,,Romeo Santos
+2022,12,1,181,,Britney Spears
+2022,12,1,182,,George Strait
+2022,12,1,183,,Phoebe Bridgers
+2022,12,1,184,,Twenty One Pilots
+2022,12,1,185,,Perry Como
+2022,12,1,186,,Oliver Tree
+2022,12,1,187,,Miley Cyrus
+2022,12,1,188,,My Chemical Romance
+2022,12,1,189,,Miguel
+2022,12,1,190,,Tate McRae
+2022,12,1,191,,Russ
+2022,12,1,192,,Gucci Mane
+2022,12,1,193,,Wiz Khalifa
+2022,12,1,194,,Melanie Martinez
+2022,12,1,195,,Glass Animals
+2022,12,1,196,,Bebe Rexha
+2022,12,1,197,,Radiohead
+2022,12,1,198,,Jelly Roll
+2022,12,1,199,,Ty Dolla $ign
+2022,12,1,200,,Thomas Rhett
+2023,1,1,1,,Taylor Swift
+2023,1,1,2,,Drake
+2023,1,1,3,,SZA
+2023,1,1,4,,21 Savage
+2023,1,1,5,,Bad Bunny
+2023,1,1,6,,The Weeknd
+2023,1,1,7,,Metro Boomin
+2023,1,1,8,,Future
+2023,1,1,9,,Juice WRLD
+2023,1,1,10,,Kanye West
+2023,1,1,11,,Morgan Wallen
+2023,1,1,12,,Lil Baby
+2023,1,1,13,,$uicideboy$
+2023,1,1,14,,Zach Bryan
+2023,1,1,15,,Kendrick Lamar
+2023,1,1,16,,Travis Scott
+2023,1,1,17,,YoungBoy Never Broke Again
+2023,1,1,18,,Eminem
+2023,1,1,19,,J. Cole
+2023,1,1,20,,Lil Uzi Vert
+2023,1,1,21,,Post Malone
+2023,1,1,22,,XXXTENTACION
+2023,1,1,23,,Harry Styles
+2023,1,1,24,,Doja Cat
+2023,1,1,25,,Rihanna
+2023,1,1,26,,"Tyler, The Creator"
+2023,1,1,27,,Billie Eilish
+2023,1,1,28,,Polo G
+2023,1,1,29,,Mac Miller
+2023,1,1,30,,Lana Del Rey
+2023,1,1,31,,Lil Durk
+2023,1,1,32,,Ariana Grande
+2023,1,1,33,,Chris Brown
+2023,1,1,34,,A Boogie Wit da Hoodie
+2023,1,1,35,,Luke Combs
+2023,1,1,36,,Rod Wave
+2023,1,1,37,,Steve Lacy
+2023,1,1,38,,Gunna
+2023,1,1,39,,Kodak Black
+2023,1,1,40,,Playboi Carti
+2023,1,1,41,,Beyoncé
+2023,1,1,42,,Bruno Mars
+2023,1,1,43,,Justin Bieber
+2023,1,1,44,,Lil Wayne
+2023,1,1,45,,BTS
+2023,1,1,46,,Yeat
+2023,1,1,47,,Frank Ocean
+2023,1,1,48,,Fuerza Regida
+2023,1,1,49,,Trippie Redd
+2023,1,1,50,,Lil Peep
+2023,1,1,51,,Lady Gaga
+2023,1,1,52,,Brent Faiyaz
+2023,1,1,53,,Ed Sheeran
+2023,1,1,54,,Joji
+2023,1,1,55,,Nicki Minaj
+2023,1,1,56,,Rauw Alejandro
+2023,1,1,57,,Young Thug
+2023,1,1,58,,Imagine Dragons
+2023,1,1,59,,Khalid
+2023,1,1,60,,Tyler Childers
+2023,1,1,61,,The Neighbourhood
+2023,1,1,62,,Baby Keem
+2023,1,1,63,,Arctic Monkeys
+2023,1,1,64,,Sam Smith
+2023,1,1,65,,Kid Cudi
+2023,1,1,66,,David Guetta
+2023,1,1,67,,The Beatles
+2023,1,1,68,,Mac DeMarco
+2023,1,1,69,,Coldplay
+2023,1,1,70,,Tory Lanez
+2023,1,1,71,,Dua Lipa
+2023,1,1,72,,J Balvin
+2023,1,1,73,,Jack Harlow
+2023,1,1,74,,Pop Smoke
+2023,1,1,75,,Olivia Rodrigo
+2023,1,1,76,,Halsey
+2023,1,1,77,,Carin Leon
+2023,1,1,78,,Lin-Manuel Miranda
+2023,1,1,79,,Adele
+2023,1,1,80,,Childish Gambino
+2023,1,1,81,,DaBaby
+2023,1,1,82,,Maroon 5
+2023,1,1,83,,JAY-Z
+2023,1,1,84,,Megan Thee Stallion
+2023,1,1,85,,Ozuna
+2023,1,1,86,,Junior H
+2023,1,1,87,,Summer Walker
+2023,1,1,88,,A$AP Rocky
+2023,1,1,89,,Anuel AA
+2023,1,1,90,,Ivan Cornejo
+2023,1,1,91,,Daddy Yankee
+2023,1,1,92,,Cardi B
+2023,1,1,93,,Katy Perry
+2023,1,1,94,,Young Dolph
+2023,1,1,95,,Chris Stapleton
+2023,1,1,96,,KAROL G
+2023,1,1,97,,Machine Gun Kelly
+2023,1,1,98,,Elton John
+2023,1,1,99,,Michael Jackson
+2023,1,1,100,,Fleetwood Mac
+2023,1,1,101,,Marshmello
+2023,1,1,102,,NLE Choppa
+2023,1,1,103,,Linkin Park
+2023,1,1,104,,NF
+2023,1,1,105,,Moneybagg Yo
+2023,1,1,106,,Grupo Frontera
+2023,1,1,107,,JVKE
+2023,1,1,108,,Deftones
+2023,1,1,109,,Luis R Conriquez
+2023,1,1,110,,Metallica
+2023,1,1,111,,Cigarettes After Sex
+2023,1,1,112,,Noah Kahan
+2023,1,1,113,,OneRepublic
+2023,1,1,114,,Roddy Ricch
+2023,1,1,115,,d4vd
+2023,1,1,116,,Lil Tjay
+2023,1,1,117,,Mitski
+2023,1,1,118,,Nirvana
+2023,1,1,119,,Queen
+2023,1,1,120,,Don Toliver
+2023,1,1,121,,The Kid LAROI
+2023,1,1,122,,Eslabon Armado
+2023,1,1,123,,One Direction
+2023,1,1,124,,Miguel
+2023,1,1,125,,Bailey Zimmerman
+2023,1,1,126,,King Von
+2023,1,1,127,,Miley Cyrus
+2023,1,1,128,,Cody Johnson
+2023,1,1,129,,Bryson Tiller
+2023,1,1,130,,Calvin Harris
+2023,1,1,131,,Tame Impala
+2023,1,1,132,,Red Hot Chili Peppers
+2023,1,1,133,,Jason Aldean
+2023,1,1,134,,Giveon
+2023,1,1,135,,The 1975
+2023,1,1,136,,Conan Gray
+2023,1,1,137,,Lizzo
+2023,1,1,138,,2Pac
+2023,1,1,139,,Feid
+2023,1,1,140,,DJ Khaled
+2023,1,1,141,,Kane Brown
+2023,1,1,142,,Panic! At The Disco
+2023,1,1,143,,Hozier
+2023,1,1,144,,Migos
+2023,1,1,145,,Sleepy Hallow
+2023,1,1,146,,Meghan Trainor
+2023,1,1,147,,Fall Out Boy
+2023,1,1,148,,Paramore
+2023,1,1,149,,Bebe Rexha
+2023,1,1,150,,Lil Tecca
+2023,1,1,151,,HARDY
+2023,1,1,152,,Selena Gomez
+2023,1,1,153,,Shawn Mendes
+2023,1,1,154,,Freddie Dredd
+2023,1,1,155,,Key Glock
+2023,1,1,156,,Gorillaz
+2023,1,1,157,,The Lumineers
+2023,1,1,158,,Wiz Khalifa
+2023,1,1,159,,Kevin Gates
+2023,1,1,160,,Lil Nas X
+2023,1,1,161,,blackbear
+2023,1,1,162,,Stray Kids
+2023,1,1,163,,JID
+2023,1,1,164,,Pitbull
+2023,1,1,165,,Kali Uchis
+2023,1,1,166,,Twenty One Pilots
+2023,1,1,167,,Shakira
+2023,1,1,168,,USHER
+2023,1,1,169,,Luke Bryan
+2023,1,1,170,,Quavo
+2023,1,1,171,,50 Cent
+2023,1,1,172,,Russ
+2023,1,1,173,,Kim Petras
+2023,1,1,174,,George Strait
+2023,1,1,175,,Glass Animals
+2023,1,1,176,,Jelly Roll
+2023,1,1,177,,Jhené Aiko
+2023,1,1,178,,Oliver Tree
+2023,1,1,179,,Romeo Santos
+2023,1,1,180,,The Notorious B.I.G.
+2023,1,1,181,,Tiësto
+2023,1,1,182,,Ski Mask The Slump God
+2023,1,1,183,,Tate McRae
+2023,1,1,184,,TV Girl
+2023,1,1,185,,Gucci Mane
+2023,1,1,186,,AJR
+2023,1,1,187,,Radiohead
+2023,1,1,188,,Melanie Martinez
+2023,1,1,189,,Jordan Davis
+2023,1,1,190,,Nardo Wick
+2023,1,1,191,,Florida Georgia Line
+2023,1,1,192,,PinkPantheress
+2023,1,1,193,,AC/DC
+2023,1,1,194,,My Chemical Romance
+2023,1,1,195,,Anderson .Paak
+2023,1,1,196,,Ty Dolla $ign
+2023,1,1,197,,Big Sean
+2023,1,1,198,,Green Day
+2023,1,1,199,,Billy Joel
+2023,1,1,200,,Takeoff
+2023,2,1,1,,Taylor Swift
+2023,2,1,2,,Drake
+2023,2,1,3,,SZA
+2023,2,1,4,,The Weeknd
+2023,2,1,5,,21 Savage
+2023,2,1,6,,Bad Bunny
+2023,2,1,7,,Morgan Wallen
+2023,2,1,8,,Metro Boomin
+2023,2,1,9,,Future
+2023,2,1,10,,Juice WRLD
+2023,2,1,11,,Kanye West
+2023,2,1,12,,Lil Baby
+2023,2,1,13,,Zach Bryan
+2023,2,1,14,,$uicideboy$
+2023,2,1,15,,Kendrick Lamar
+2023,2,1,16,,J. Cole
+2023,2,1,17,,Travis Scott
+2023,2,1,18,,YoungBoy Never Broke Again
+2023,2,1,19,,Eminem
+2023,2,1,20,,Lil Uzi Vert
+2023,2,1,21,,Miley Cyrus
+2023,2,1,22,,XXXTENTACION
+2023,2,1,23,,Post Malone
+2023,2,1,24,,Trippie Redd
+2023,2,1,25,,Lil Yachty
+2023,2,1,26,,Harry Styles
+2023,2,1,27,,Rihanna
+2023,2,1,28,,"Tyler, The Creator"
+2023,2,1,29,,Luke Combs
+2023,2,1,30,,Mac Miller
+2023,2,1,31,,Billie Eilish
+2023,2,1,32,,Lana Del Rey
+2023,2,1,33,,Doja Cat
+2023,2,1,34,,Polo G
+2023,2,1,35,,Kodak Black
+2023,2,1,36,,Ariana Grande
+2023,2,1,37,,Chris Brown
+2023,2,1,38,,Lil Durk
+2023,2,1,39,,Sam Smith
+2023,2,1,40,,Gunna
+2023,2,1,41,,Playboi Carti
+2023,2,1,42,,Rod Wave
+2023,2,1,43,,A Boogie Wit da Hoodie
+2023,2,1,44,,The Kid LAROI
+2023,2,1,45,,Bruno Mars
+2023,2,1,46,,Lil Wayne
+2023,2,1,47,,Steve Lacy
+2023,2,1,48,,Beyoncé
+2023,2,1,49,,Yeat
+2023,2,1,50,,Frank Ocean
+2023,2,1,51,,Lil Peep
+2023,2,1,52,,Justin Bieber
+2023,2,1,53,,BTS
+2023,2,1,54,,Fuerza Regida
+2023,2,1,55,,Brent Faiyaz
+2023,2,1,56,,Rauw Alejandro
+2023,2,1,57,,Ed Sheeran
+2023,2,1,58,,Shakira
+2023,2,1,59,,Lady Gaga
+2023,2,1,60,,Mac DeMarco
+2023,2,1,61,,Joji
+2023,2,1,62,,Khalid
+2023,2,1,63,,Imagine Dragons
+2023,2,1,64,,Arctic Monkeys
+2023,2,1,65,,Nicki Minaj
+2023,2,1,66,,Junior H
+2023,2,1,67,,Baby Keem
+2023,2,1,68,,Young Thug
+2023,2,1,69,,The Neighbourhood
+2023,2,1,70,,Tyler Childers
+2023,2,1,71,,Coldplay
+2023,2,1,72,,The Beatles
+2023,2,1,73,,Tory Lanez
+2023,2,1,74,,HARDY
+2023,2,1,75,,Kid Cudi
+2023,2,1,76,,Kali Uchis
+2023,2,1,77,,Fall Out Boy
+2023,2,1,78,,A$AP Rocky
+2023,2,1,79,,Childish Gambino
+2023,2,1,80,,Pop Smoke
+2023,2,1,81,,DaBaby
+2023,2,1,82,,Adele
+2023,2,1,83,,Lin-Manuel Miranda
+2023,2,1,84,,Carin Leon
+2023,2,1,85,,Miguel
+2023,2,1,86,,Feid
+2023,2,1,87,,Halsey
+2023,2,1,88,,Daddy Yankee
+2023,2,1,89,,David Guetta
+2023,2,1,90,,JAY-Z
+2023,2,1,91,,Dua Lipa
+2023,2,1,92,,Ozuna
+2023,2,1,93,,J Balvin
+2023,2,1,94,,Olivia Rodrigo
+2023,2,1,95,,TOMORROW X TOGETHER
+2023,2,1,96,,Grupo Frontera
+2023,2,1,97,,Maroon 5
+2023,2,1,98,,Calvin Harris
+2023,2,1,99,,Summer Walker
+2023,2,1,100,,Ivan Cornejo
+2023,2,1,101,,Deftones
+2023,2,1,102,,Katy Perry
+2023,2,1,103,,NLE Choppa
+2023,2,1,104,,Anuel AA
+2023,2,1,105,,Linkin Park
+2023,2,1,106,,Lil Tjay
+2023,2,1,107,,Jack Harlow
+2023,2,1,108,,Megan Thee Stallion
+2023,2,1,109,,Chris Stapleton
+2023,2,1,110,,Metallica
+2023,2,1,111,,Luis R Conriquez
+2023,2,1,112,,KAROL G
+2023,2,1,113,,NewJeans
+2023,2,1,114,,Natanael Cano
+2023,2,1,115,,Moneybagg Yo
+2023,2,1,116,,Marshmello
+2023,2,1,117,,Machine Gun Kelly
+2023,2,1,118,,Fleetwood Mac
+2023,2,1,119,,Michael Jackson
+2023,2,1,120,,Nirvana
+2023,2,1,121,,NF
+2023,2,1,122,,Cardi B
+2023,2,1,123,,Tame Impala
+2023,2,1,124,,d4vd
+2023,2,1,125,,Peso Pluma
+2023,2,1,126,,Cigarettes After Sex
+2023,2,1,127,,Eslabon Armado
+2023,2,1,128,,Noah Kahan
+2023,2,1,129,,Elton John
+2023,2,1,130,,One Direction
+2023,2,1,131,,PARTYNEXTDOOR
+2023,2,1,132,,Panic! At The Disco
+2023,2,1,133,,Mitski
+2023,2,1,134,,Gorillaz
+2023,2,1,135,,JVKE
+2023,2,1,136,,King Von
+2023,2,1,137,,OneRepublic
+2023,2,1,138,,Queen
+2023,2,1,139,,Bryson Tiller
+2023,2,1,140,,2Pac
+2023,2,1,141,,Young Dolph
+2023,2,1,142,,Roddy Ricch
+2023,2,1,143,,Red Hot Chili Peppers
+2023,2,1,144,,Paramore
+2023,2,1,145,,Giveon
+2023,2,1,146,,Daniel Caesar
+2023,2,1,147,,Don Toliver
+2023,2,1,148,,Bailey Zimmerman
+2023,2,1,149,,Selena Gomez
+2023,2,1,150,,Migos
+2023,2,1,151,,Hozier
+2023,2,1,152,,Bizarrap
+2023,2,1,153,,Jason Aldean
+2023,2,1,154,,Conan Gray
+2023,2,1,155,,Key Glock
+2023,2,1,156,,The 1975
+2023,2,1,157,,DJ Khaled
+2023,2,1,158,,Gucci Mane
+2023,2,1,159,,Cody Johnson
+2023,2,1,160,,Quinn XCII
+2023,2,1,161,,Kane Brown
+2023,2,1,162,,Radiohead
+2023,2,1,163,,Lil Tecca
+2023,2,1,164,,Sleepy Hallow
+2023,2,1,165,,Tiësto
+2023,2,1,166,,TV Girl
+2023,2,1,167,,Green Day
+2023,2,1,168,,Shawn Mendes
+2023,2,1,169,,Russ
+2023,2,1,170,,JID
+2023,2,1,171,,LUCKI
+2023,2,1,172,,Kevin Gates
+2023,2,1,173,,Jhené Aiko
+2023,2,1,174,,Pink Floyd
+2023,2,1,175,,Stray Kids
+2023,2,1,176,,Luke Bryan
+2023,2,1,177,,Twenty One Pilots
+2023,2,1,178,,Ava Max
+2023,2,1,179,,blackbear
+2023,2,1,180,,Tate McRae
+2023,2,1,181,,Pitbull
+2023,2,1,182,,The Lumineers
+2023,2,1,183,,P!nk
+2023,2,1,184,,Bebe Rexha
+2023,2,1,185,,50 Cent
+2023,2,1,186,,USHER
+2023,2,1,187,,Melanie Martinez
+2023,2,1,188,,Wiz Khalifa
+2023,2,1,189,,The Notorious B.I.G.
+2023,2,1,190,,AJR
+2023,2,1,191,,Myke Towers
+2023,2,1,192,,Big Sean
+2023,2,1,193,,Romeo Santos
+2023,2,1,194,,Meghan Trainor
+2023,2,1,195,,Lizzo
+2023,2,1,196,,Freddie Dredd
+2023,2,1,197,,PinkPantheress
+2023,2,1,198,,AC/DC
+2023,2,1,199,,Logic
+2023,2,1,200,,Slipknot
+2023,3,1,1,,Drake
+2023,3,1,2,,Taylor Swift
+2023,3,1,3,,The Weeknd
+2023,3,1,4,,SZA
+2023,3,1,5,,21 Savage
+2023,3,1,6,,Morgan Wallen
+2023,3,1,7,,Bad Bunny
+2023,3,1,8,,Yeat
+2023,3,1,9,,Kanye West
+2023,3,1,10,,Future
+2023,3,1,11,,KAROL G
+2023,3,1,12,,$uicideboy$
+2023,3,1,13,,Metro Boomin
+2023,3,1,14,,Juice WRLD
+2023,3,1,15,,Lil Baby
+2023,3,1,16,,Rihanna
+2023,3,1,17,,Kendrick Lamar
+2023,3,1,18,,Lil Uzi Vert
+2023,3,1,19,,Zach Bryan
+2023,3,1,20,,J. Cole
+2023,3,1,21,,Ariana Grande
+2023,3,1,22,,Travis Scott
+2023,3,1,23,,YoungBoy Never Broke Again
+2023,3,1,24,,Eminem
+2023,3,1,25,,Post Malone
+2023,3,1,26,,Luke Combs
+2023,3,1,27,,Don Toliver
+2023,3,1,28,,XXXTENTACION
+2023,3,1,29,,Lana Del Rey
+2023,3,1,30,,"Tyler, The Creator"
+2023,3,1,31,,Harry Styles
+2023,3,1,32,,Mac Miller
+2023,3,1,33,,Doja Cat
+2023,3,1,34,,Polo G
+2023,3,1,35,,Ice Spice
+2023,3,1,36,,Chris Brown
+2023,3,1,37,,PinkPantheress
+2023,3,1,38,,Lil Wayne
+2023,3,1,39,,Justin Bieber
+2023,3,1,40,,Beyoncé
+2023,3,1,41,,Billie Eilish
+2023,3,1,42,,Shakira
+2023,3,1,43,,Lil Durk
+2023,3,1,44,,Trippie Redd
+2023,3,1,45,,Gorillaz
+2023,3,1,46,,Kodak Black
+2023,3,1,47,,Playboi Carti
+2023,3,1,48,,Lil Peep
+2023,3,1,49,,A Boogie Wit da Hoodie
+2023,3,1,50,,Frank Ocean
+2023,3,1,51,,Bruno Mars
+2023,3,1,52,,Key Glock
+2023,3,1,53,,Miley Cyrus
+2023,3,1,54,,Gunna
+2023,3,1,55,,Steve Lacy
+2023,3,1,56,,Fuerza Regida
+2023,3,1,57,,Rod Wave
+2023,3,1,58,,Brent Faiyaz
+2023,3,1,59,,BTS
+2023,3,1,60,,Khalid
+2023,3,1,61,,Rauw Alejandro
+2023,3,1,62,,NF
+2023,3,1,63,,Junior H
+2023,3,1,64,,Logic
+2023,3,1,65,,Ed Sheeran
+2023,3,1,66,,Nicki Minaj
+2023,3,1,67,,Lady Gaga
+2023,3,1,68,,Young Thug
+2023,3,1,69,,The Kid LAROI
+2023,3,1,70,,Imagine Dragons
+2023,3,1,71,,Halsey
+2023,3,1,72,,Kali Uchis
+2023,3,1,73,,Linkin Park
+2023,3,1,74,,Peso Pluma
+2023,3,1,75,,Mac DeMarco
+2023,3,1,76,,Arctic Monkeys
+2023,3,1,77,,Baby Keem
+2023,3,1,78,,The Neighbourhood
+2023,3,1,79,,The Beatles
+2023,3,1,80,,Tyler Childers
+2023,3,1,81,,JAY-Z
+2023,3,1,82,,Joji
+2023,3,1,83,,Chris Stapleton
+2023,3,1,84,,Kid Cudi
+2023,3,1,85,,Coldplay
+2023,3,1,86,,Sam Smith
+2023,3,1,87,,Grupo Frontera
+2023,3,1,88,,Adele
+2023,3,1,89,,Pop Smoke
+2023,3,1,90,,Feid
+2023,3,1,91,,Maroon 5
+2023,3,1,92,,Tame Impala
+2023,3,1,93,,J Balvin
+2023,3,1,94,,Carin Leon
+2023,3,1,95,,Daddy Yankee
+2023,3,1,96,,NLE Choppa
+2023,3,1,97,,Ozuna
+2023,3,1,98,,Katy Perry
+2023,3,1,99,,Childish Gambino
+2023,3,1,100,,Deftones
+2023,3,1,101,,Tory Lanez
+2023,3,1,102,,Natanael Cano
+2023,3,1,103,,Lin-Manuel Miranda
+2023,3,1,104,,Selena Gomez
+2023,3,1,105,,Paramore
+2023,3,1,106,,Miguel
+2023,3,1,107,,Summer Walker
+2023,3,1,108,,A$AP Rocky
+2023,3,1,109,,David Guetta
+2023,3,1,110,,DaBaby
+2023,3,1,111,,Melanie Martinez
+2023,3,1,112,,Dua Lipa
+2023,3,1,113,,Ivan Cornejo
+2023,3,1,114,,Anuel AA
+2023,3,1,115,,Kelsea Ballerini
+2023,3,1,116,,Olivia Rodrigo
+2023,3,1,117,,Calvin Harris
+2023,3,1,118,,Eslabon Armado
+2023,3,1,119,,Megan Thee Stallion
+2023,3,1,120,,Marshmello
+2023,3,1,121,,Romeo Santos
+2023,3,1,122,,Nirvana
+2023,3,1,123,,Metallica
+2023,3,1,124,,Lil Tjay
+2023,3,1,125,,Luis R Conriquez
+2023,3,1,126,,P!nk
+2023,3,1,127,,Cigarettes After Sex
+2023,3,1,128,,Fleetwood Mac
+2023,3,1,129,,Michael Jackson
+2023,3,1,130,,Jack Harlow
+2023,3,1,131,,HARDY
+2023,3,1,132,,Fall Out Boy
+2023,3,1,133,,Shakewell
+2023,3,1,134,,Moneybagg Yo
+2023,3,1,135,,One Direction
+2023,3,1,136,,Cardi B
+2023,3,1,137,,Bryson Tiller
+2023,3,1,138,,Machine Gun Kelly
+2023,3,1,139,,Red Hot Chili Peppers
+2023,3,1,140,,TV Girl
+2023,3,1,141,,OneRepublic
+2023,3,1,142,,Skrillex
+2023,3,1,143,,Queen
+2023,3,1,144,,2Pac
+2023,3,1,145,,Elton John
+2023,3,1,146,,d4vd
+2023,3,1,147,,PARTYNEXTDOOR
+2023,3,1,148,,Young Dolph
+2023,3,1,149,,Mitski
+2023,3,1,150,,Jason Aldean
+2023,3,1,151,,Hozier
+2023,3,1,152,,Roddy Ricch
+2023,3,1,153,,Noah Kahan
+2023,3,1,154,,Gracie Abrams
+2023,3,1,155,,King Von
+2023,3,1,156,,Lizzo
+2023,3,1,157,,Bailey Zimmerman
+2023,3,1,158,,Kane Brown
+2023,3,1,159,,DJ Khaled
+2023,3,1,160,,Kevin Gates
+2023,3,1,161,,Giveon
+2023,3,1,162,,Russ
+2023,3,1,163,,Jordan Davis
+2023,3,1,164,,Lil Yachty
+2023,3,1,165,,JVKE
+2023,3,1,166,,Panic! At The Disco
+2023,3,1,167,,Shawn Mendes
+2023,3,1,168,,Migos
+2023,3,1,169,,Daniel Caesar
+2023,3,1,170,,Wiz Khalifa
+2023,3,1,171,,Conan Gray
+2023,3,1,172,,NewJeans
+2023,3,1,173,,Lizzy McAlpine
+2023,3,1,174,,Grupo Marca Registrada
+2023,3,1,175,,Lil Tecca
+2023,3,1,176,,The Lumineers
+2023,3,1,177,,Pink Floyd
+2023,3,1,178,,Radiohead
+2023,3,1,179,,Stray Kids
+2023,3,1,180,,LUCKI
+2023,3,1,181,,USHER
+2023,3,1,182,,Tiësto
+2023,3,1,183,,Pierce The Veil
+2023,3,1,184,,The Notorious B.I.G.
+2023,3,1,185,,50 Cent
+2023,3,1,186,,Sleepy Hallow
+2023,3,1,187,,Luke Bryan
+2023,3,1,188,,Gucci Mane
+2023,3,1,189,,Cody Johnson
+2023,3,1,190,,JID
+2023,3,1,191,,Twenty One Pilots
+2023,3,1,192,,Creedence Clearwater Revival
+2023,3,1,193,,Jhené Aiko
+2023,3,1,194,,AC/DC
+2023,3,1,195,,Pitbull
+2023,3,1,196,,Green Day
+2023,3,1,197,,George Strait
+2023,3,1,198,,Led Zeppelin
+2023,3,1,199,,Young Nudy
+2023,3,1,200,,blackbear
+2023,4,1,1,,Taylor Swift
+2023,4,1,2,,Morgan Wallen
+2023,4,1,3,,Drake
+2023,4,1,4,,"Tyler, The Creator"
+2023,4,1,5,,The Weeknd
+2023,4,1,6,,21 Savage
+2023,4,1,7,,Bad Bunny
+2023,4,1,8,,SZA
+2023,4,1,9,,Kanye West
+2023,4,1,10,,Future
+2023,4,1,11,,Lil Baby
+2023,4,1,12,,Melanie Martinez
+2023,4,1,13,,Luke Combs
+2023,4,1,14,,Juice WRLD
+2023,4,1,15,,Metro Boomin
+2023,4,1,16,,$uicideboy$
+2023,4,1,17,,Kendrick Lamar
+2023,4,1,18,,Peso Pluma
+2023,4,1,19,,J. Cole
+2023,4,1,20,,Travis Scott
+2023,4,1,21,,Zach Bryan
+2023,4,1,22,,Lana Del Rey
+2023,4,1,23,,Lil Uzi Vert
+2023,4,1,24,,YoungBoy Never Broke Again
+2023,4,1,25,,Rihanna
+2023,4,1,26,,Eminem
+2023,4,1,27,,Post Malone
+2023,4,1,28,,Yeat
+2023,4,1,29,,XXXTENTACION
+2023,4,1,30,,KAROL G
+2023,4,1,31,,Ariana Grande
+2023,4,1,32,,Miley Cyrus
+2023,4,1,33,,Lil Wayne
+2023,4,1,34,,Mac Miller
+2023,4,1,35,,Fuerza Regida
+2023,4,1,36,,Rauw Alejandro
+2023,4,1,37,,Polo G
+2023,4,1,38,,Rod Wave
+2023,4,1,39,,Billie Eilish
+2023,4,1,40,,Harry Styles
+2023,4,1,41,,Junior H
+2023,4,1,42,,Doja Cat
+2023,4,1,43,,Justin Bieber
+2023,4,1,44,,Brent Faiyaz
+2023,4,1,45,,Kali Uchis
+2023,4,1,46,,Chris Brown
+2023,4,1,47,,Playboi Carti
+2023,4,1,48,,Frank Ocean
+2023,4,1,49,,Lil Durk
+2023,4,1,50,,Kodak Black
+2023,4,1,51,,Beyoncé
+2023,4,1,52,,Ed Sheeran
+2023,4,1,53,,Lil Peep
+2023,4,1,54,,Eslabon Armado
+2023,4,1,55,,Gunna
+2023,4,1,56,,Khalid
+2023,4,1,57,,Bruno Mars
+2023,4,1,58,,Nicki Minaj
+2023,4,1,59,,A Boogie Wit da Hoodie
+2023,4,1,60,,Trippie Redd
+2023,4,1,61,,Feid
+2023,4,1,62,,Natanael Cano
+2023,4,1,63,,Steve Lacy
+2023,4,1,64,,Young Thug
+2023,4,1,65,,Shakira
+2023,4,1,66,,Linkin Park
+2023,4,1,67,,NLE Choppa
+2023,4,1,68,,PinkPantheress
+2023,4,1,69,,Don Toliver
+2023,4,1,70,,Ice Spice
+2023,4,1,71,,Imagine Dragons
+2023,4,1,72,,Fall Out Boy
+2023,4,1,73,,BTS
+2023,4,1,74,,Tyler Childers
+2023,4,1,75,,A$AP Rocky
+2023,4,1,76,,Lady Gaga
+2023,4,1,77,,The Beatles
+2023,4,1,78,,NF
+2023,4,1,79,,Baby Keem
+2023,4,1,80,,Marshmello
+2023,4,1,81,,Chris Stapleton
+2023,4,1,82,,Fleetwood Mac
+2023,4,1,83,,DaBaby
+2023,4,1,84,,Arctic Monkeys
+2023,4,1,85,,Hozier
+2023,4,1,86,,The Neighbourhood
+2023,4,1,87,,Coldplay
+2023,4,1,88,,JAY-Z
+2023,4,1,89,,boygenius
+2023,4,1,90,,Kid Cudi
+2023,4,1,91,,Halsey
+2023,4,1,92,,Mac DeMarco
+2023,4,1,93,,Pop Smoke
+2023,4,1,94,,Childish Gambino
+2023,4,1,95,,Luis R Conriquez
+2023,4,1,96,,Maroon 5
+2023,4,1,97,,J Balvin
+2023,4,1,98,,Anuel AA
+2023,4,1,99,,Calvin Harris
+2023,4,1,100,,Deftones
+2023,4,1,101,,Selena Gomez
+2023,4,1,102,,Daddy Yankee
+2023,4,1,103,,Lin-Manuel Miranda
+2023,4,1,104,,Adele
+2023,4,1,105,,Joji
+2023,4,1,106,,Grupo Frontera
+2023,4,1,107,,Ozuna
+2023,4,1,108,,Katy Perry
+2023,4,1,109,,Summer Walker
+2023,4,1,110,,Russ
+2023,4,1,111,,Metallica
+2023,4,1,112,,The Kid LAROI
+2023,4,1,113,,Lil Tjay
+2023,4,1,114,,HARDY
+2023,4,1,115,,Carin Leon
+2023,4,1,116,,Tame Impala
+2023,4,1,117,,Tory Lanez
+2023,4,1,118,,Dua Lipa
+2023,4,1,119,,Nirvana
+2023,4,1,120,,Jack Harlow
+2023,4,1,121,,Megan Thee Stallion
+2023,4,1,122,,The Alchemist
+2023,4,1,123,,Olivia Rodrigo
+2023,4,1,124,,David Guetta
+2023,4,1,125,,TV Girl
+2023,4,1,126,,Key Glock
+2023,4,1,127,,Miguel
+2023,4,1,128,,Bryson Tiller
+2023,4,1,129,,Red Hot Chili Peppers
+2023,4,1,130,,Sam Smith
+2023,4,1,131,,Queen
+2023,4,1,132,,Elton John
+2023,4,1,133,,Bailey Zimmerman
+2023,4,1,134,,Michael Jackson
+2023,4,1,135,,ROSALÍA
+2023,4,1,136,,Gorillaz
+2023,4,1,137,,Moneybagg Yo
+2023,4,1,138,,Eladio Carrion
+2023,4,1,139,,Ivan Cornejo
+2023,4,1,140,,2Pac
+2023,4,1,141,,Cigarettes After Sex
+2023,4,1,142,,Roddy Ricch
+2023,4,1,143,,One Direction
+2023,4,1,144,,Paramore
+2023,4,1,145,,Cardi B
+2023,4,1,146,,Machine Gun Kelly
+2023,4,1,147,,LUCKI
+2023,4,1,148,,OneRepublic
+2023,4,1,149,,Kane Brown
+2023,4,1,150,,King Von
+2023,4,1,151,,Jimin
+2023,4,1,152,,Jason Aldean
+2023,4,1,153,,Noah Kahan
+2023,4,1,154,,Kelsea Ballerini
+2023,4,1,155,,Romeo Santos
+2023,4,1,156,,Young Dolph
+2023,4,1,157,,Gucci Mane
+2023,4,1,158,,PARTYNEXTDOOR
+2023,4,1,159,,P!nk
+2023,4,1,160,,Jordan Davis
+2023,4,1,161,,Mitski
+2023,4,1,162,,JVKE
+2023,4,1,163,,Larry June
+2023,4,1,164,,Daniel Caesar
+2023,4,1,165,,42 Dugg
+2023,4,1,166,,Jhené Aiko
+2023,4,1,167,,d4vd
+2023,4,1,168,,Luke Bryan
+2023,4,1,169,,Wiz Khalifa
+2023,4,1,170,,Panic! At The Disco
+2023,4,1,171,,Giveon
+2023,4,1,172,,Jelly Roll
+2023,4,1,173,,Kevin Gates
+2023,4,1,174,,Creedence Clearwater Revival
+2023,4,1,175,,Grupo Marca Registrada
+2023,4,1,176,,Myke Towers
+2023,4,1,177,,Stray Kids
+2023,4,1,178,,Migos
+2023,4,1,179,,Lil Tecca
+2023,4,1,180,,Logic
+2023,4,1,181,,6LACK
+2023,4,1,182,,DJ Khaled
+2023,4,1,183,,Led Zeppelin
+2023,4,1,184,,USHER
+2023,4,1,185,,AC/DC
+2023,4,1,186,,50 Cent
+2023,4,1,187,,Jon Pardi
+2023,4,1,188,,John Mayer
+2023,4,1,189,,Ty Dolla $ign
+2023,4,1,190,,Cody Johnson
+2023,4,1,191,,The Notorious B.I.G.
+2023,4,1,192,,Eric Church
+2023,4,1,193,,Sabrina Carpenter
+2023,4,1,194,,Shawn Mendes
+2023,4,1,195,,The Lumineers
+2023,4,1,196,,George Strait
+2023,4,1,197,,Radiohead
+2023,4,1,198,,Florida Georgia Line
+2023,4,1,199,,Sleepy Hallow
+2023,4,1,200,,Green Day
+2023,5,1,1,,Taylor Swift
+2023,5,1,2,,Drake
+2023,5,1,3,,Morgan Wallen
+2023,5,1,4,,Peso Pluma
+2023,5,1,5,,The Weeknd
+2023,5,1,6,,Bad Bunny
+2023,5,1,7,,21 Savage
+2023,5,1,8,,Future
+2023,5,1,9,,SZA
+2023,5,1,10,,Kanye West
+2023,5,1,11,,"Tyler, The Creator"
+2023,5,1,12,,Lil Baby
+2023,5,1,13,,Metro Boomin
+2023,5,1,14,,Kendrick Lamar
+2023,5,1,15,,Juice WRLD
+2023,5,1,16,,$uicideboy$
+2023,5,1,17,,Luke Combs
+2023,5,1,18,,Eslabon Armado
+2023,5,1,19,,Travis Scott
+2023,5,1,20,,YoungBoy Never Broke Again
+2023,5,1,21,,J. Cole
+2023,5,1,22,,Zach Bryan
+2023,5,1,23,,Post Malone
+2023,5,1,24,,Jack Harlow
+2023,5,1,25,,Lana Del Rey
+2023,5,1,26,,Lil Uzi Vert
+2023,5,1,27,,Eminem
+2023,5,1,28,,Rihanna
+2023,5,1,29,,Grupo Frontera
+2023,5,1,30,,XXXTENTACION
+2023,5,1,31,,Junior H
+2023,5,1,32,,Mac Miller
+2023,5,1,33,,Fuerza Regida
+2023,5,1,34,,Yeat
+2023,5,1,35,,KAROL G
+2023,5,1,36,,Ariana Grande
+2023,5,1,37,,Nicki Minaj
+2023,5,1,38,,Frank Ocean
+2023,5,1,39,,Doja Cat
+2023,5,1,40,,Billie Eilish
+2023,5,1,41,,Kali Uchis
+2023,5,1,42,,Harry Styles
+2023,5,1,43,,Lil Wayne
+2023,5,1,44,,Rauw Alejandro
+2023,5,1,45,,Melanie Martinez
+2023,5,1,46,,Natanael Cano
+2023,5,1,47,,Brent Faiyaz
+2023,5,1,48,,Polo G
+2023,5,1,49,,Playboi Carti
+2023,5,1,50,,Miley Cyrus
+2023,5,1,51,,NF
+2023,5,1,52,,Ed Sheeran
+2023,5,1,53,,Kodak Black
+2023,5,1,54,,Justin Bieber
+2023,5,1,55,,Rod Wave
+2023,5,1,56,,Chris Brown
+2023,5,1,57,,Gunna
+2023,5,1,58,,Lil Durk
+2023,5,1,59,,Bruno Mars
+2023,5,1,60,,Mac DeMarco
+2023,5,1,61,,Lil Peep
+2023,5,1,62,,A Boogie Wit da Hoodie
+2023,5,1,63,,Trippie Redd
+2023,5,1,64,,Beyoncé
+2023,5,1,65,,Khalid
+2023,5,1,66,,Feid
+2023,5,1,67,,NLE Choppa
+2023,5,1,68,,Young Thug
+2023,5,1,69,,Steve Lacy
+2023,5,1,70,,Disney
+2023,5,1,71,,Tyler Childers
+2023,5,1,72,,Linkin Park
+2023,5,1,73,,Imagine Dragons
+2023,5,1,74,,Ice Spice
+2023,5,1,75,,The Beatles
+2023,5,1,76,,Don Toliver
+2023,5,1,77,,Baby Keem
+2023,5,1,78,,BTS
+2023,5,1,79,,Lady Gaga
+2023,5,1,80,,Luis R Conriquez
+2023,5,1,81,,Anuel AA
+2023,5,1,82,,Chris Stapleton
+2023,5,1,83,,Arctic Monkeys
+2023,5,1,84,,JAY-Z
+2023,5,1,85,,Coldplay
+2023,5,1,86,,Tame Impala
+2023,5,1,87,,The Neighbourhood
+2023,5,1,88,,Shakira
+2023,5,1,89,,Fleetwood Mac
+2023,5,1,90,,Kid Cudi
+2023,5,1,91,,Labrinth
+2023,5,1,92,,Adele
+2023,5,1,93,,Calvin Harris
+2023,5,1,94,,Pop Smoke
+2023,5,1,95,,J Balvin
+2023,5,1,96,,A$AP Rocky
+2023,5,1,97,,Halsey
+2023,5,1,98,,Metallica
+2023,5,1,99,,PinkPantheress
+2023,5,1,100,,David Guetta
+2023,5,1,101,,Daniel Caesar
+2023,5,1,102,,DaBaby
+2023,5,1,103,,Marshmello
+2023,5,1,104,,Lin-Manuel Miranda
+2023,5,1,105,,Daddy Yankee
+2023,5,1,106,,TV Girl
+2023,5,1,107,,Childish Gambino
+2023,5,1,108,,Katy Perry
+2023,5,1,109,,Maroon 5
+2023,5,1,110,,Deftones
+2023,5,1,111,,Fall Out Boy
+2023,5,1,112,,ILLENIUM
+2023,5,1,113,,Summer Walker
+2023,5,1,114,,Joji
+2023,5,1,115,,Tory Lanez
+2023,5,1,116,,Ozuna
+2023,5,1,117,,Nirvana
+2023,5,1,118,,Dua Lipa
+2023,5,1,119,,Miguel
+2023,5,1,120,,LUCKI
+2023,5,1,121,,Moneybagg Yo
+2023,5,1,122,,Selena Gomez
+2023,5,1,123,,Olivia Rodrigo
+2023,5,1,124,,Queen
+2023,5,1,125,,Hozier
+2023,5,1,126,,Megan Thee Stallion
+2023,5,1,127,,Red Hot Chili Peppers
+2023,5,1,128,,Carin Leon
+2023,5,1,129,,The Kid LAROI
+2023,5,1,130,,2Pac
+2023,5,1,131,,Key Glock
+2023,5,1,132,,HARDY
+2023,5,1,133,,Bryson Tiller
+2023,5,1,134,,Michael Jackson
+2023,5,1,135,,King Von
+2023,5,1,136,,Elton John
+2023,5,1,137,,Lil Tjay
+2023,5,1,138,,One Direction
+2023,5,1,139,,Ivan Cornejo
+2023,5,1,140,,Sam Smith
+2023,5,1,141,,Luke Bryan
+2023,5,1,142,,Gabito Ballesteros
+2023,5,1,143,,Jason Aldean
+2023,5,1,144,,Cigarettes After Sex
+2023,5,1,145,,Jordan Davis
+2023,5,1,146,,Jon Pardi
+2023,5,1,147,,OneRepublic
+2023,5,1,148,,Gorillaz
+2023,5,1,149,,Cardi B
+2023,5,1,150,,Paramore
+2023,5,1,151,,Bailey Zimmerman
+2023,5,1,152,,Russ
+2023,5,1,153,,Roddy Ricch
+2023,5,1,154,,Machine Gun Kelly
+2023,5,1,155,,ROSALÍA
+2023,5,1,156,,Young Dolph
+2023,5,1,157,,Mitski
+2023,5,1,158,,Kane Brown
+2023,5,1,159,,Romeo Santos
+2023,5,1,160,,Lil Yachty
+2023,5,1,161,,Noah Kahan
+2023,5,1,162,,Eric Church
+2023,5,1,163,,Diplo
+2023,5,1,164,,PARTYNEXTDOOR
+2023,5,1,165,,Jelly Roll
+2023,5,1,166,,Grupo Marca Registrada
+2023,5,1,167,,Lil Tecca
+2023,5,1,168,,Thomas Rhett
+2023,5,1,169,,d4vd
+2023,5,1,170,,blink-182
+2023,5,1,171,,JVKE
+2023,5,1,172,,Logic
+2023,5,1,173,,USHER
+2023,5,1,174,,Migos
+2023,5,1,175,,AC/DC
+2023,5,1,176,,P!nk
+2023,5,1,177,,Florida Georgia Line
+2023,5,1,178,,Creedence Clearwater Revival
+2023,5,1,179,,Pitbull
+2023,5,1,180,,Panic! At The Disco
+2023,5,1,181,,Giveon
+2023,5,1,182,,George Strait
+2023,5,1,183,,Kevin Gates
+2023,5,1,184,,Eladio Carrion
+2023,5,1,185,,Jhené Aiko
+2023,5,1,186,,FIFTY FIFTY
+2023,5,1,187,,50 Cent
+2023,5,1,188,,Gucci Mane
+2023,5,1,189,,Twenty One Pilots
+2023,5,1,190,,Wiz Khalifa
+2023,5,1,191,,Jhayco
+2023,5,1,192,,Sleepy Hallow
+2023,5,1,193,,Tiësto
+2023,5,1,194,,Shawn Mendes
+2023,5,1,195,,Cody Johnson
+2023,5,1,196,,System Of A Down
+2023,5,1,197,,Becky G
+2023,5,1,198,,Led Zeppelin
+2023,5,1,199,,Lewis Capaldi
+2023,5,1,200,,Radiohead
+2023,6,1,1,,Taylor Swift
+2023,6,1,2,,Morgan Wallen
+2023,6,1,3,,Drake
+2023,6,1,4,,Bad Bunny
+2023,6,1,5,,Peso Pluma
+2023,6,1,6,,Lil Durk
+2023,6,1,7,,21 Savage
+2023,6,1,8,,The Weeknd
+2023,6,1,9,,Kanye West
+2023,6,1,10,,Future
+2023,6,1,11,,Kendrick Lamar
+2023,6,1,12,,Lil Baby
+2023,6,1,13,,SZA
+2023,6,1,14,,J. Cole
+2023,6,1,15,,Juice WRLD
+2023,6,1,16,,$uicideboy$
+2023,6,1,17,,Luke Combs
+2023,6,1,18,,Zach Bryan
+2023,6,1,19,,Metro Boomin
+2023,6,1,20,,Lana Del Rey
+2023,6,1,21,,"Tyler, The Creator"
+2023,6,1,22,,Travis Scott
+2023,6,1,23,,Post Malone
+2023,6,1,24,,YoungBoy Never Broke Again
+2023,6,1,25,,Eminem
+2023,6,1,26,,Lil Uzi Vert
+2023,6,1,27,,Fuerza Regida
+2023,6,1,28,,Junior H
+2023,6,1,29,,Rihanna
+2023,6,1,30,,Eslabon Armado
+2023,6,1,31,,Kodak Black
+2023,6,1,32,,Mac Miller
+2023,6,1,33,,Yeat
+2023,6,1,34,,Grupo Frontera
+2023,6,1,35,,Beyoncé
+2023,6,1,36,,XXXTENTACION
+2023,6,1,37,,Ed Sheeran
+2023,6,1,38,,Nicki Minaj
+2023,6,1,39,,Ariana Grande
+2023,6,1,40,,Harry Styles
+2023,6,1,41,,KAROL G
+2023,6,1,42,,Brent Faiyaz
+2023,6,1,43,,Billie Eilish
+2023,6,1,44,,Frank Ocean
+2023,6,1,45,,Lil Wayne
+2023,6,1,46,,Doja Cat
+2023,6,1,47,,Playboi Carti
+2023,6,1,48,,Polo G
+2023,6,1,49,,Miley Cyrus
+2023,6,1,50,,Justin Bieber
+2023,6,1,51,,Rauw Alejandro
+2023,6,1,52,,Natanael Cano
+2023,6,1,53,,Kali Uchis
+2023,6,1,54,,Young Thug
+2023,6,1,55,,Bruno Mars
+2023,6,1,56,,Feid
+2023,6,1,57,,Gunna
+2023,6,1,58,,Ice Spice
+2023,6,1,59,,Chris Brown
+2023,6,1,60,,Tyler Childers
+2023,6,1,61,,Khalid
+2023,6,1,62,,Lil Peep
+2023,6,1,63,,A Boogie Wit da Hoodie
+2023,6,1,64,,Rod Wave
+2023,6,1,65,,NLE Choppa
+2023,6,1,66,,Chris Stapleton
+2023,6,1,67,,The Beatles
+2023,6,1,68,,Melanie Martinez
+2023,6,1,69,,Dua Lipa
+2023,6,1,70,,NF
+2023,6,1,71,,Steve Lacy
+2023,6,1,72,,Imagine Dragons
+2023,6,1,73,,Trippie Redd
+2023,6,1,74,,Fleetwood Mac
+2023,6,1,75,,BTS
+2023,6,1,76,,Shakira
+2023,6,1,77,,Baby Keem
+2023,6,1,78,,DaBaby
+2023,6,1,79,,Lady Gaga
+2023,6,1,80,,Linkin Park
+2023,6,1,81,,Anuel AA
+2023,6,1,82,,Summer Walker
+2023,6,1,83,,Calvin Harris
+2023,6,1,84,,Coldplay
+2023,6,1,85,,Luis R Conriquez
+2023,6,1,86,,Don Toliver
+2023,6,1,87,,Marshmello
+2023,6,1,88,,Jack Harlow
+2023,6,1,89,,Jelly Roll
+2023,6,1,90,,JAY-Z
+2023,6,1,91,,Mac DeMarco
+2023,6,1,92,,J Balvin
+2023,6,1,93,,Arctic Monkeys
+2023,6,1,94,,Carin Leon
+2023,6,1,95,,The Neighbourhood
+2023,6,1,96,,David Guetta
+2023,6,1,97,,Tame Impala
+2023,6,1,98,,Maroon 5
+2023,6,1,99,,Katy Perry
+2023,6,1,100,,Kid Cudi
+2023,6,1,101,,Childish Gambino
+2023,6,1,102,,Daddy Yankee
+2023,6,1,103,,A$AP Rocky
+2023,6,1,104,,Jason Aldean
+2023,6,1,105,,Ozuna
+2023,6,1,106,,HARDY
+2023,6,1,107,,TV Girl
+2023,6,1,108,,Halsey
+2023,6,1,109,,Noah Kahan
+2023,6,1,110,,Bailey Zimmerman
+2023,6,1,111,,Pop Smoke
+2023,6,1,112,,Elton John
+2023,6,1,113,,Luke Bryan
+2023,6,1,114,,Queen
+2023,6,1,115,,Deftones
+2023,6,1,116,,Red Hot Chili Peppers
+2023,6,1,117,,Moneybagg Yo
+2023,6,1,118,,Tory Lanez
+2023,6,1,119,,Lin-Manuel Miranda
+2023,6,1,120,,Metallica
+2023,6,1,121,,Hozier
+2023,6,1,122,,Fall Out Boy
+2023,6,1,123,,Jordan Davis
+2023,6,1,124,,Paramore
+2023,6,1,125,,Adele
+2023,6,1,126,,Michael Jackson
+2023,6,1,127,,Nirvana
+2023,6,1,128,,Joji
+2023,6,1,129,,Lil Tjay
+2023,6,1,130,,OneRepublic
+2023,6,1,131,,Bryson Tiller
+2023,6,1,132,,2Pac
+2023,6,1,133,,Kenny Chesney
+2023,6,1,134,,One Direction
+2023,6,1,135,,Kane Brown
+2023,6,1,136,,Florida Georgia Line
+2023,6,1,137,,Olivia Rodrigo
+2023,6,1,138,,Megan Thee Stallion
+2023,6,1,139,,Zac Brown Band
+2023,6,1,140,,King Von
+2023,6,1,141,,Creedence Clearwater Revival
+2023,6,1,142,,Alan Menken
+2023,6,1,143,,Selena Gomez
+2023,6,1,144,,Jon Pardi
+2023,6,1,145,,PinkPantheress
+2023,6,1,146,,d4vd
+2023,6,1,147,,LUCKI
+2023,6,1,148,,Machine Gun Kelly
+2023,6,1,149,,Roddy Ricch
+2023,6,1,150,,Miguel
+2023,6,1,151,,George Strait
+2023,6,1,152,,Pitbull
+2023,6,1,153,,blink-182
+2023,6,1,154,,Eric Church
+2023,6,1,155,,Thomas Rhett
+2023,6,1,156,,Daniel Caesar
+2023,6,1,157,,AC/DC
+2023,6,1,158,,Cardi B
+2023,6,1,159,,Eladio Carrion
+2023,6,1,160,,Romeo Santos
+2023,6,1,161,,Cigarettes After Sex
+2023,6,1,162,,Cody Johnson
+2023,6,1,163,,Radiohead
+2023,6,1,164,,Jonas Brothers
+2023,6,1,165,,Foo Fighters
+2023,6,1,166,,Billy Joel
+2023,6,1,167,,The Kid LAROI
+2023,6,1,168,,Sam Smith
+2023,6,1,169,,Led Zeppelin
+2023,6,1,170,,Ivan Cornejo
+2023,6,1,171,,Key Glock
+2023,6,1,172,,Gorillaz
+2023,6,1,173,,Bob Marley & The Wailers
+2023,6,1,174,,Young Dolph
+2023,6,1,175,,USHER
+2023,6,1,176,,Gucci Mane
+2023,6,1,177,,PARTYNEXTDOOR
+2023,6,1,178,,Mitski
+2023,6,1,179,,Sleepy Hallow
+2023,6,1,180,,Panic! At The Disco
+2023,6,1,181,,Lil Tecca
+2023,6,1,182,,Wiz Khalifa
+2023,6,1,183,,Migos
+2023,6,1,184,,Gabito Ballesteros
+2023,6,1,185,,The Lumineers
+2023,6,1,186,,Grupo Marca Registrada
+2023,6,1,187,,Kevin Gates
+2023,6,1,188,,Logic
+2023,6,1,189,,Russ
+2023,6,1,190,,DJ Khaled
+2023,6,1,191,,Green Day
+2023,6,1,192,,The Notorious B.I.G.
+2023,6,1,193,,The Rolling Stones
+2023,6,1,194,,P!nk
+2023,6,1,195,,Diplo
+2023,6,1,196,,50 Cent
+2023,6,1,197,,System Of A Down
+2023,6,1,198,,Conan Gray
+2023,6,1,199,,ROSALÍA
+2023,6,1,200,,Sleep Token
+2023,7,1,1,,Taylor Swift
+2023,7,1,2,,Lil Uzi Vert
+2023,7,1,3,,Drake
+2023,7,1,4,,Morgan Wallen
+2023,7,1,5,,Peso Pluma
+2023,7,1,6,,Bad Bunny
+2023,7,1,7,,The Weeknd
+2023,7,1,8,,Metro Boomin
+2023,7,1,9,,21 Savage
+2023,7,1,10,,Kanye West
+2023,7,1,11,,Future
+2023,7,1,12,,Zach Bryan
+2023,7,1,13,,Luke Combs
+2023,7,1,14,,Kendrick Lamar
+2023,7,1,15,,Lil Baby
+2023,7,1,16,,Juice WRLD
+2023,7,1,17,,SZA
+2023,7,1,18,,$uicideboy$
+2023,7,1,19,,J. Cole
+2023,7,1,20,,Olivia Rodrigo
+2023,7,1,21,,Post Malone
+2023,7,1,22,,Junior H
+2023,7,1,23,,Travis Scott
+2023,7,1,24,,Gunna
+2023,7,1,25,,Lana Del Rey
+2023,7,1,26,,Nicki Minaj
+2023,7,1,27,,YoungBoy Never Broke Again
+2023,7,1,28,,"Tyler, The Creator"
+2023,7,1,29,,Lil Durk
+2023,7,1,30,,Fuerza Regida
+2023,7,1,31,,Young Thug
+2023,7,1,32,,Eminem
+2023,7,1,33,,Rihanna
+2023,7,1,34,,Natanael Cano
+2023,7,1,35,,Grupo Frontera
+2023,7,1,36,,Mac Miller
+2023,7,1,37,,XXXTENTACION
+2023,7,1,38,,Noah Kahan
+2023,7,1,39,,Doja Cat
+2023,7,1,40,,Harry Styles
+2023,7,1,41,,Lil Wayne
+2023,7,1,42,,Ariana Grande
+2023,7,1,43,,Billie Eilish
+2023,7,1,44,,Tainy
+2023,7,1,45,,Eslabon Armado
+2023,7,1,46,,Ed Sheeran
+2023,7,1,47,,KAROL G
+2023,7,1,48,,Beyoncé
+2023,7,1,49,,Playboi Carti
+2023,7,1,50,,Brent Faiyaz
+2023,7,1,51,,Tyler Childers
+2023,7,1,52,,Bruno Mars
+2023,7,1,53,,Kodak Black
+2023,7,1,54,,Frank Ocean
+2023,7,1,55,,Miley Cyrus
+2023,7,1,56,,Rauw Alejandro
+2023,7,1,57,,Feid
+2023,7,1,58,,Justin Bieber
+2023,7,1,59,,Yeat
+2023,7,1,60,,Polo G
+2023,7,1,61,,Chris Brown
+2023,7,1,62,,Fall Out Boy
+2023,7,1,63,,Chris Stapleton
+2023,7,1,64,,Trippie Redd
+2023,7,1,65,,Rod Wave
+2023,7,1,66,,Steve Lacy
+2023,7,1,67,,Kali Uchis
+2023,7,1,68,,Melanie Martinez
+2023,7,1,69,,Khalid
+2023,7,1,70,,A$AP Rocky
+2023,7,1,71,,Lil Peep
+2023,7,1,72,,The Beatles
+2023,7,1,73,,Fleetwood Mac
+2023,7,1,74,,Luis R Conriquez
+2023,7,1,75,,BTS
+2023,7,1,76,,Imagine Dragons
+2023,7,1,77,,Jelly Roll
+2023,7,1,78,,Don Toliver
+2023,7,1,79,,A Boogie Wit da Hoodie
+2023,7,1,80,,Ice Spice
+2023,7,1,81,,Dua Lipa
+2023,7,1,82,,Daddy Yankee
+2023,7,1,83,,Lady Gaga
+2023,7,1,84,,Shakira
+2023,7,1,85,,Linkin Park
+2023,7,1,86,,Baby Keem
+2023,7,1,87,,Katy Perry
+2023,7,1,88,,Coldplay
+2023,7,1,89,,NF
+2023,7,1,90,,TV Girl
+2023,7,1,91,,Luke Bryan
+2023,7,1,92,,NLE Choppa
+2023,7,1,93,,Moneybagg Yo
+2023,7,1,94,,Calvin Harris
+2023,7,1,95,,Tory Lanez
+2023,7,1,96,,Arctic Monkeys
+2023,7,1,97,,Swae Lee
+2023,7,1,98,,David Guetta
+2023,7,1,99,,Gabito Ballesteros
+2023,7,1,100,,Maroon 5
+2023,7,1,101,,JAY-Z
+2023,7,1,102,,Creedence Clearwater Revival
+2023,7,1,103,,J Balvin
+2023,7,1,104,,The Neighbourhood
+2023,7,1,105,,Halsey
+2023,7,1,106,,DaBaby
+2023,7,1,107,,HARDY
+2023,7,1,108,,Zac Brown Band
+2023,7,1,109,,Carin Leon
+2023,7,1,110,,Marshmello
+2023,7,1,111,,Kid Cudi
+2023,7,1,112,,Hozier
+2023,7,1,113,,Jordan Davis
+2023,7,1,114,,Queen
+2023,7,1,115,,Mac DeMarco
+2023,7,1,116,,Kenny Chesney
+2023,7,1,117,,Ozuna
+2023,7,1,118,,Key Glock
+2023,7,1,119,,Jon Pardi
+2023,7,1,120,,Elton John
+2023,7,1,121,,Childish Gambino
+2023,7,1,122,,Anuel AA
+2023,7,1,123,,Deftones
+2023,7,1,124,,Lin-Manuel Miranda
+2023,7,1,125,,Summer Walker
+2023,7,1,126,,Red Hot Chili Peppers
+2023,7,1,127,,Jack Harlow
+2023,7,1,128,,Bailey Zimmerman
+2023,7,1,129,,Pop Smoke
+2023,7,1,130,,Tame Impala
+2023,7,1,131,,Jason Aldean
+2023,7,1,132,,Florida Georgia Line
+2023,7,1,133,,Paramore
+2023,7,1,134,,Michael Jackson
+2023,7,1,135,,Bryson Tiller
+2023,7,1,136,,Adele
+2023,7,1,137,,Nirvana
+2023,7,1,138,,Metallica
+2023,7,1,139,,Lil Tjay
+2023,7,1,140,,Kane Brown
+2023,7,1,141,,Bizarrap
+2023,7,1,142,,OneRepublic
+2023,7,1,143,,Cardi B
+2023,7,1,144,,Joji
+2023,7,1,145,,Eric Church
+2023,7,1,146,,Thomas Rhett
+2023,7,1,147,,Pitbull
+2023,7,1,148,,King Von
+2023,7,1,149,,Jhayco
+2023,7,1,150,,Megan Thee Stallion
+2023,7,1,151,,Daniel Caesar
+2023,7,1,152,,2Pac
+2023,7,1,153,,George Strait
+2023,7,1,154,,One Direction
+2023,7,1,155,,Myke Towers
+2023,7,1,156,,PinkPantheress
+2023,7,1,157,,AC/DC
+2023,7,1,158,,blink-182
+2023,7,1,159,,Stray Kids
+2023,7,1,160,,Bob Marley & The Wailers
+2023,7,1,161,,LUCKI
+2023,7,1,162,,Selena Gomez
+2023,7,1,163,,Billy Joel
+2023,7,1,164,,Cody Johnson
+2023,7,1,165,,Machine Gun Kelly
+2023,7,1,166,,Cigarettes After Sex
+2023,7,1,167,,Offset
+2023,7,1,168,,Toby Keith
+2023,7,1,169,,USHER
+2023,7,1,170,,Gucci Mane
+2023,7,1,171,,Dominic Fike
+2023,7,1,172,,Eagles
+2023,7,1,173,,Panic! At The Disco
+2023,7,1,174,,Miguel
+2023,7,1,175,,Wiz Khalifa
+2023,7,1,176,,Sam Smith
+2023,7,1,177,,Roddy Ricch
+2023,7,1,178,,Led Zeppelin
+2023,7,1,179,,The Rolling Stones
+2023,7,1,180,,Romeo Santos
+2023,7,1,181,,Radiohead
+2023,7,1,182,,Twenty One Pilots
+2023,7,1,183,,Green Day
+2023,7,1,184,,P!nk
+2023,7,1,185,,JVKE
+2023,7,1,186,,Ivan Cornejo
+2023,7,1,187,,Mitski
+2023,7,1,188,,Young Dolph
+2023,7,1,189,,Gorillaz
+2023,7,1,190,,The Kid LAROI
+2023,7,1,191,,Old Dominion
+2023,7,1,192,,PARTYNEXTDOOR
+2023,7,1,193,,Diplo
+2023,7,1,194,,Foo Fighters
+2023,7,1,195,,Tim McGraw
+2023,7,1,196,,The Lumineers
+2023,7,1,197,,The Notorious B.I.G.
+2023,7,1,198,,YNW Melly
+2023,7,1,199,,Sublime
+2023,7,1,200,,Migos
+2023,8,1,1,,Taylor Swift
+2023,8,1,2,,Travis Scott
+2023,8,1,3,,Drake
+2023,8,1,4,,Post Malone
+2023,8,1,5,,Morgan Wallen
+2023,8,1,6,,Peso Pluma
+2023,8,1,7,,The Weeknd
+2023,8,1,8,,21 Savage
+2023,8,1,9,,Bad Bunny
+2023,8,1,10,,Future
+2023,8,1,11,,Kanye West
+2023,8,1,12,,SZA
+2023,8,1,13,,Zach Bryan
+2023,8,1,14,,Metro Boomin
+2023,8,1,15,,$uicideboy$
+2023,8,1,16,,Luke Combs
+2023,8,1,17,,Lil Uzi Vert
+2023,8,1,18,,Juice WRLD
+2023,8,1,19,,Kendrick Lamar
+2023,8,1,20,,Lil Baby
+2023,8,1,21,,J. Cole
+2023,8,1,22,,Billie Eilish
+2023,8,1,23,,Lana Del Rey
+2023,8,1,24,,Beyoncé
+2023,8,1,25,,Playboi Carti
+2023,8,1,26,,Gunna
+2023,8,1,27,,Nicki Minaj
+2023,8,1,28,,Junior H
+2023,8,1,29,,YoungBoy Never Broke Again
+2023,8,1,30,,Eminem
+2023,8,1,31,,Young Thug
+2023,8,1,32,,"Tyler, The Creator"
+2023,8,1,33,,Noah Kahan
+2023,8,1,34,,Rihanna
+2023,8,1,35,,Tyler Childers
+2023,8,1,36,,Fuerza Regida
+2023,8,1,37,,Lil Durk
+2023,8,1,38,,Ice Spice
+2023,8,1,39,,Mac Miller
+2023,8,1,40,,XXXTENTACION
+2023,8,1,41,,Grupo Frontera
+2023,8,1,42,,KAROL G
+2023,8,1,43,,Ariana Grande
+2023,8,1,44,,Lil Wayne
+2023,8,1,45,,Olivia Rodrigo
+2023,8,1,46,,Harry Styles
+2023,8,1,47,,Rauw Alejandro
+2023,8,1,48,,Brent Faiyaz
+2023,8,1,49,,Ed Sheeran
+2023,8,1,50,,Polo G
+2023,8,1,51,,Bruno Mars
+2023,8,1,52,,NewJeans
+2023,8,1,53,,Justin Bieber
+2023,8,1,54,,Frank Ocean
+2023,8,1,55,,Doja Cat
+2023,8,1,56,,Chris Stapleton
+2023,8,1,57,,Dua Lipa
+2023,8,1,58,,Kid Cudi
+2023,8,1,59,,Natanael Cano
+2023,8,1,60,,Eslabon Armado
+2023,8,1,61,,Trippie Redd
+2023,8,1,62,,Rod Wave
+2023,8,1,63,,Swae Lee
+2023,8,1,64,,Yeat
+2023,8,1,65,,Kodak Black
+2023,8,1,66,,Khalid
+2023,8,1,67,,Chris Brown
+2023,8,1,68,,Steve Lacy
+2023,8,1,69,,Jason Aldean
+2023,8,1,70,,Lil Peep
+2023,8,1,71,,Imagine Dragons
+2023,8,1,72,,NF
+2023,8,1,73,,Fall Out Boy
+2023,8,1,74,,Feid
+2023,8,1,75,,Miley Cyrus
+2023,8,1,76,,Kali Uchis
+2023,8,1,77,,Jelly Roll
+2023,8,1,78,,Linkin Park
+2023,8,1,79,,The Beatles
+2023,8,1,80,,A$AP Rocky
+2023,8,1,81,,A Boogie Wit da Hoodie
+2023,8,1,82,,Fleetwood Mac
+2023,8,1,83,,Calvin Harris
+2023,8,1,84,,Lady Gaga
+2023,8,1,85,,Luis R Conriquez
+2023,8,1,86,,BTS
+2023,8,1,87,,Melanie Martinez
+2023,8,1,88,,Carin Leon
+2023,8,1,89,,Cardi B
+2023,8,1,90,,Coldplay
+2023,8,1,91,,Tory Lanez
+2023,8,1,92,,Baby Keem
+2023,8,1,93,,Arctic Monkeys
+2023,8,1,94,,Hozier
+2023,8,1,95,,Bailey Zimmerman
+2023,8,1,96,,Moneybagg Yo
+2023,8,1,97,,Lil Tjay
+2023,8,1,98,,Paramore
+2023,8,1,99,,Maroon 5
+2023,8,1,100,,The Neighbourhood
+2023,8,1,101,,Shakira
+2023,8,1,102,,JAY-Z
+2023,8,1,103,,Dominic Fike
+2023,8,1,104,,Tame Impala
+2023,8,1,105,,Halsey
+2023,8,1,106,,Katy Perry
+2023,8,1,107,,David Guetta
+2023,8,1,108,,Daddy Yankee
+2023,8,1,109,,Marshmello
+2023,8,1,110,,NLE Choppa
+2023,8,1,111,,HARDY
+2023,8,1,112,,Luke Bryan
+2023,8,1,113,,J Balvin
+2023,8,1,114,,Jordan Davis
+2023,8,1,115,,Anuel AA
+2023,8,1,116,,Don Toliver
+2023,8,1,117,,DaBaby
+2023,8,1,118,,Mac DeMarco
+2023,8,1,119,,Ivan Cornejo
+2023,8,1,120,,Myke Towers
+2023,8,1,121,,Odetari
+2023,8,1,122,,Deftones
+2023,8,1,123,,Sam Smith
+2023,8,1,124,,LUCKI
+2023,8,1,125,,King Von
+2023,8,1,126,,Aqua
+2023,8,1,127,,Queen
+2023,8,1,128,,Summer Walker
+2023,8,1,129,,Childish Gambino
+2023,8,1,130,,PinkPantheress
+2023,8,1,131,,Adele
+2023,8,1,132,,Metallica
+2023,8,1,133,,Pop Smoke
+2023,8,1,134,,Red Hot Chili Peppers
+2023,8,1,135,,Gabito Ballesteros
+2023,8,1,136,,Lin-Manuel Miranda
+2023,8,1,137,,Latto
+2023,8,1,138,,TV Girl
+2023,8,1,139,,Nirvana
+2023,8,1,140,,Bryson Tiller
+2023,8,1,141,,Ozuna
+2023,8,1,142,,Elton John
+2023,8,1,143,,Jon Pardi
+2023,8,1,144,,Key Glock
+2023,8,1,145,,Mitski
+2023,8,1,146,,Michael Jackson
+2023,8,1,147,,OneRepublic
+2023,8,1,148,,Jack Harlow
+2023,8,1,149,,Laufey
+2023,8,1,150,,Kane Brown
+2023,8,1,151,,Joji
+2023,8,1,152,,Diplo
+2023,8,1,153,,Rob49
+2023,8,1,154,,Creedence Clearwater Revival
+2023,8,1,155,,One Direction
+2023,8,1,156,,Daniel Caesar
+2023,8,1,157,,Megan Thee Stallion
+2023,8,1,158,,The Kid LAROI
+2023,8,1,159,,Pitbull
+2023,8,1,160,,2Pac
+2023,8,1,161,,Thomas Rhett
+2023,8,1,162,,Lil Tecca
+2023,8,1,163,,Cigarettes After Sex
+2023,8,1,164,,Tainy
+2023,8,1,165,,Offset
+2023,8,1,166,,Zac Brown Band
+2023,8,1,167,,Florida Georgia Line
+2023,8,1,168,,P!nk
+2023,8,1,169,,James Blake
+2023,8,1,170,,Selena Gomez
+2023,8,1,171,,Teezo Touchdown
+2023,8,1,172,,George Strait
+2023,8,1,173,,Stray Kids
+2023,8,1,174,,Lizzo
+2023,8,1,175,,Young Dolph
+2023,8,1,176,,AC/DC
+2023,8,1,177,,Machine Gun Kelly
+2023,8,1,178,,Jonas Brothers
+2023,8,1,179,,Radiohead
+2023,8,1,180,,Central Cee
+2023,8,1,181,,USHER
+2023,8,1,182,,Cody Johnson
+2023,8,1,183,,The Rolling Stones
+2023,8,1,184,,Kenny Chesney
+2023,8,1,185,,Panic! At The Disco
+2023,8,1,186,,Jung Kook
+2023,8,1,187,,PARTYNEXTDOOR
+2023,8,1,188,,Miguel
+2023,8,1,189,,Eric Church
+2023,8,1,190,,Billy Joel
+2023,8,1,191,,50 Cent
+2023,8,1,192,,Gucci Mane
+2023,8,1,193,,blink-182
+2023,8,1,194,,Russ
+2023,8,1,195,,Eagles
+2023,8,1,196,,Twenty One Pilots
+2023,8,1,197,,Romeo Santos
+2023,8,1,198,,Green Day
+2023,8,1,199,,Roddy Ricch
+2023,8,1,200,,The Lumineers
+2023,9,1,1,,Taylor Swift
+2023,9,1,2,,Drake
+2023,9,1,3,,Zach Bryan
+2023,9,1,4,,Travis Scott
+2023,9,1,5,,Morgan Wallen
+2023,9,1,6,,Peso Pluma
+2023,9,1,7,,The Weeknd
+2023,9,1,8,,21 Savage
+2023,9,1,9,,Kanye West
+2023,9,1,10,,Bad Bunny
+2023,9,1,11,,Future
+2023,9,1,12,,SZA
+2023,9,1,13,,$uicideboy$
+2023,9,1,14,,Post Malone
+2023,9,1,15,,Metro Boomin
+2023,9,1,16,,KAROL G
+2023,9,1,17,,Kendrick Lamar
+2023,9,1,18,,Doja Cat
+2023,9,1,19,,Lana Del Rey
+2023,9,1,20,,Lil Baby
+2023,9,1,21,,Juice WRLD
+2023,9,1,22,,J. Cole
+2023,9,1,23,,Lil Uzi Vert
+2023,9,1,24,,Jimmy Buffett
+2023,9,1,25,,Luke Combs
+2023,9,1,26,,YoungBoy Never Broke Again
+2023,9,1,27,,Junior H
+2023,9,1,28,,Nicki Minaj
+2023,9,1,29,,Gunna
+2023,9,1,30,,"Tyler, The Creator"
+2023,9,1,31,,Billie Eilish
+2023,9,1,32,,Eminem
+2023,9,1,33,,Rihanna
+2023,9,1,34,,Noah Kahan
+2023,9,1,35,,Beyoncé
+2023,9,1,36,,Playboi Carti
+2023,9,1,37,,Fuerza Regida
+2023,9,1,38,,Olivia Rodrigo
+2023,9,1,39,,Mac Miller
+2023,9,1,40,,XXXTENTACION
+2023,9,1,41,,Ariana Grande
+2023,9,1,42,,Lil Durk
+2023,9,1,43,,Brent Faiyaz
+2023,9,1,44,,Tyler Childers
+2023,9,1,45,,Lil Wayne
+2023,9,1,46,,Rod Wave
+2023,9,1,47,,Frank Ocean
+2023,9,1,48,,Grupo Frontera
+2023,9,1,49,,Bruno Mars
+2023,9,1,50,,Hozier
+2023,9,1,51,,Polo G
+2023,9,1,52,,Miley Cyrus
+2023,9,1,53,,Young Thug
+2023,9,1,54,,Trippie Redd
+2023,9,1,55,,Justin Bieber
+2023,9,1,56,,Chris Stapleton
+2023,9,1,57,,Yeat
+2023,9,1,58,,Harry Styles
+2023,9,1,59,,Kodak Black
+2023,9,1,60,,Steve Lacy
+2023,9,1,61,,Ed Sheeran
+2023,9,1,62,,Lil Peep
+2023,9,1,63,,Kali Uchis
+2023,9,1,64,,Rauw Alejandro
+2023,9,1,65,,Natanael Cano
+2023,9,1,66,,Chris Brown
+2023,9,1,67,,Ice Spice
+2023,9,1,68,,Arctic Monkeys
+2023,9,1,69,,Dua Lipa
+2023,9,1,70,,Eslabon Armado
+2023,9,1,71,,Fleetwood Mac
+2023,9,1,72,,Imagine Dragons
+2023,9,1,73,,Carin Leon
+2023,9,1,74,,Feid
+2023,9,1,75,,Khalid
+2023,9,1,76,,A Boogie Wit da Hoodie
+2023,9,1,77,,Odetari
+2023,9,1,78,,Kacey Musgraves
+2023,9,1,79,,A$AP Rocky
+2023,9,1,80,,The Lumineers
+2023,9,1,81,,The Beatles
+2023,9,1,82,,Linkin Park
+2023,9,1,83,,The Neighbourhood
+2023,9,1,84,,Baby Keem
+2023,9,1,85,,Tory Lanez
+2023,9,1,86,,NF
+2023,9,1,87,,Coldplay
+2023,9,1,88,,Lady Gaga
+2023,9,1,89,,NewJeans
+2023,9,1,90,,Jelly Roll
+2023,9,1,91,,NLE Choppa
+2023,9,1,92,,Oliver Anthony Music
+2023,9,1,93,,BTS
+2023,9,1,94,,Mac DeMarco
+2023,9,1,95,,Selena Gomez
+2023,9,1,96,,Deftones
+2023,9,1,97,,Fall Out Boy
+2023,9,1,98,,Kid Cudi
+2023,9,1,99,,Bailey Zimmerman
+2023,9,1,100,,JAY-Z
+2023,9,1,101,,TV Girl
+2023,9,1,102,,Melanie Martinez
+2023,9,1,103,,Luis R Conriquez
+2023,9,1,104,,Marshmello
+2023,9,1,105,,Summer Walker
+2023,9,1,106,,Adele
+2023,9,1,107,,Maroon 5
+2023,9,1,108,,Key Glock
+2023,9,1,109,,Childish Gambino
+2023,9,1,110,,LUCKI
+2023,9,1,111,,Lil Tecca
+2023,9,1,112,,Daniel Caesar
+2023,9,1,113,,Moneybagg Yo
+2023,9,1,114,,Jason Aldean
+2023,9,1,115,,Metallica
+2023,9,1,116,,Calvin Harris
+2023,9,1,117,,Halsey
+2023,9,1,118,,Laufey
+2023,9,1,119,,Anuel AA
+2023,9,1,120,,Bryson Tiller
+2023,9,1,121,,Katy Perry
+2023,9,1,122,,HARDY
+2023,9,1,123,,Tame Impala
+2023,9,1,124,,J Balvin
+2023,9,1,125,,David Guetta
+2023,9,1,126,,Cardi B
+2023,9,1,127,,Don Toliver
+2023,9,1,128,,Pop Smoke
+2023,9,1,129,,Luke Bryan
+2023,9,1,130,,Shakira
+2023,9,1,131,,DaBaby
+2023,9,1,132,,Daddy Yankee
+2023,9,1,133,,Queen
+2023,9,1,134,,Myke Towers
+2023,9,1,135,,Gabito Ballesteros
+2023,9,1,136,,Cigarettes After Sex
+2023,9,1,137,,Nirvana
+2023,9,1,138,,Michael Jackson
+2023,9,1,139,,Lin-Manuel Miranda
+2023,9,1,140,,Lil Tjay
+2023,9,1,141,,Joji
+2023,9,1,142,,Jonas Brothers
+2023,9,1,143,,PinkPantheress
+2023,9,1,144,,King Von
+2023,9,1,145,,Red Hot Chili Peppers
+2023,9,1,146,,Zac Brown Band
+2023,9,1,147,,Jhayco
+2023,9,1,148,,Radiohead
+2023,9,1,149,,Ozuna
+2023,9,1,150,,Jordan Davis
+2023,9,1,151,,Elton John
+2023,9,1,152,,That Mexican OT
+2023,9,1,153,,Paramore
+2023,9,1,154,,George Strait
+2023,9,1,155,,Mora
+2023,9,1,156,,Jack Harlow
+2023,9,1,157,,Mitski
+2023,9,1,158,,Dominic Fike
+2023,9,1,159,,Jon Pardi
+2023,9,1,160,,Cody Johnson
+2023,9,1,161,,Green Day
+2023,9,1,162,,Creedence Clearwater Revival
+2023,9,1,163,,PARTYNEXTDOOR
+2023,9,1,164,,2Pac
+2023,9,1,165,,Ivan Cornejo
+2023,9,1,166,,Russ
+2023,9,1,167,,Swae Lee
+2023,9,1,168,,Miguel
+2023,9,1,169,,USHER
+2023,9,1,170,,Pitbull
+2023,9,1,171,,Lil Yachty
+2023,9,1,172,,Sam Smith
+2023,9,1,173,,Maluma
+2023,9,1,174,,One Direction
+2023,9,1,175,,Diplo
+2023,9,1,176,,Grupo Firme
+2023,9,1,177,,Megan Thee Stallion
+2023,9,1,178,,OneRepublic
+2023,9,1,179,,Eric Church
+2023,9,1,180,,Kane Brown
+2023,9,1,181,,Young Miko
+2023,9,1,182,,Stray Kids
+2023,9,1,183,,Latto
+2023,9,1,184,,AC/DC
+2023,9,1,185,,Young Dolph
+2023,9,1,186,,Gucci Mane
+2023,9,1,187,,Sleepy Hallow
+2023,9,1,188,,Romeo Santos
+2023,9,1,189,,Migos
+2023,9,1,190,,Justin Timberlake
+2023,9,1,191,,JID
+2023,9,1,192,,50 Cent
+2023,9,1,193,,Machine Gun Kelly
+2023,9,1,194,,The Kid LAROI
+2023,9,1,195,,Conan Gray
+2023,9,1,196,,Tiësto
+2023,9,1,197,,Panic! At The Disco
+2023,9,1,198,,Jhené Aiko
+2023,9,1,199,,Florida Georgia Line
+2023,9,1,200,,Kenny Chesney
+2023,10,1,1,,Taylor Swift
+2023,10,1,2,,Drake
+2023,10,1,3,,Zach Bryan
+2023,10,1,4,,Morgan Wallen
+2023,10,1,5,,Travis Scott
+2023,10,1,6,,Peso Pluma
+2023,10,1,7,,21 Savage
+2023,10,1,8,,The Weeknd
+2023,10,1,9,,Kanye West
+2023,10,1,10,,SZA
+2023,10,1,11,,Bad Bunny
+2023,10,1,12,,Olivia Rodrigo
+2023,10,1,13,,$uicideboy$
+2023,10,1,14,,Future
+2023,10,1,15,,Doja Cat
+2023,10,1,16,,Metro Boomin
+2023,10,1,17,,Lana Del Rey
+2023,10,1,18,,Kendrick Lamar
+2023,10,1,19,,Post Malone
+2023,10,1,20,,J. Cole
+2023,10,1,21,,Lil Baby
+2023,10,1,22,,Juice WRLD
+2023,10,1,23,,Rod Wave
+2023,10,1,24,,Noah Kahan
+2023,10,1,25,,Junior H
+2023,10,1,26,,KAROL G
+2023,10,1,27,,YoungBoy Never Broke Again
+2023,10,1,28,,Lil Uzi Vert
+2023,10,1,29,,Luke Combs
+2023,10,1,30,,Lil Wayne
+2023,10,1,31,,Rihanna
+2023,10,1,32,,Eminem
+2023,10,1,33,,Gunna
+2023,10,1,34,,"Tyler, The Creator"
+2023,10,1,35,,Billie Eilish
+2023,10,1,36,,Fuerza Regida
+2023,10,1,37,,Ed Sheeran
+2023,10,1,38,,Playboi Carti
+2023,10,1,39,,Brent Faiyaz
+2023,10,1,40,,XXXTENTACION
+2023,10,1,41,,Mac Miller
+2023,10,1,42,,Frank Ocean
+2023,10,1,43,,Lil Durk
+2023,10,1,44,,Nicki Minaj
+2023,10,1,45,,Bruno Mars
+2023,10,1,46,,Lil Tecca
+2023,10,1,47,,Feid
+2023,10,1,48,,Beyoncé
+2023,10,1,49,,Mitski
+2023,10,1,50,,Ariana Grande
+2023,10,1,51,,Hozier
+2023,10,1,52,,Tyler Childers
+2023,10,1,53,,Grupo Frontera
+2023,10,1,54,,Polo G
+2023,10,1,55,,Justin Bieber
+2023,10,1,56,,Steve Lacy
+2023,10,1,57,,Chris Stapleton
+2023,10,1,58,,Natanael Cano
+2023,10,1,59,,Kodak Black
+2023,10,1,60,,Trippie Redd
+2023,10,1,61,,Young Thug
+2023,10,1,62,,Yeat
+2023,10,1,63,,Harry Styles
+2023,10,1,64,,Carin Leon
+2023,10,1,65,,Arctic Monkeys
+2023,10,1,66,,Kali Uchis
+2023,10,1,67,,A Boogie Wit da Hoodie
+2023,10,1,68,,Lil Peep
+2023,10,1,69,,Coldplay
+2023,10,1,70,,Chris Brown
+2023,10,1,71,,Fleetwood Mac
+2023,10,1,72,,Rauw Alejandro
+2023,10,1,73,,The Neighbourhood
+2023,10,1,74,,Eslabon Armado
+2023,10,1,75,,Jack Harlow
+2023,10,1,76,,Imagine Dragons
+2023,10,1,77,,Lady Gaga
+2023,10,1,78,,Miley Cyrus
+2023,10,1,79,,Khalid
+2023,10,1,80,,Linkin Park
+2023,10,1,81,,Odetari
+2023,10,1,82,,TV Girl
+2023,10,1,83,,Baby Keem
+2023,10,1,84,,Tate McRae
+2023,10,1,85,,A$AP Rocky
+2023,10,1,86,,Daniel Caesar
+2023,10,1,87,,The Beatles
+2023,10,1,88,,Dua Lipa
+2023,10,1,89,,Tory Lanez
+2023,10,1,90,,NF
+2023,10,1,91,,Laufey
+2023,10,1,92,,Mac DeMarco
+2023,10,1,93,,Jelly Roll
+2023,10,1,94,,Moneybagg Yo
+2023,10,1,95,,Key Glock
+2023,10,1,96,,Shakira
+2023,10,1,97,,Kid Cudi
+2023,10,1,98,,Sleepy Hallow
+2023,10,1,99,,Summer Walker
+2023,10,1,100,,Deftones
+2023,10,1,101,,Childish Gambino
+2023,10,1,102,,Katy Perry
+2023,10,1,103,,Gabito Ballesteros
+2023,10,1,104,,Jung Kook
+2023,10,1,105,,NLE Choppa
+2023,10,1,106,,Ice Spice
+2023,10,1,107,,Adele
+2023,10,1,108,,Fall Out Boy
+2023,10,1,109,,Maroon 5
+2023,10,1,110,,Cardi B
+2023,10,1,111,,Luis R Conriquez
+2023,10,1,112,,JAY-Z
+2023,10,1,113,,Bryson Tiller
+2023,10,1,114,,Anuel AA
+2023,10,1,115,,Nirvana
+2023,10,1,116,,The Lumineers
+2023,10,1,117,,BTS
+2023,10,1,118,,Lin-Manuel Miranda
+2023,10,1,119,,LUCKI
+2023,10,1,120,,Halsey
+2023,10,1,121,,Lil Yachty
+2023,10,1,122,,Kacey Musgraves
+2023,10,1,123,,Melanie Martinez
+2023,10,1,124,,Joji
+2023,10,1,125,,Bailey Zimmerman
+2023,10,1,126,,Cody Johnson
+2023,10,1,127,,Michael Jackson
+2023,10,1,128,,Red Hot Chili Peppers
+2023,10,1,129,,Tame Impala
+2023,10,1,130,,Marshmello
+2023,10,1,131,,Cigarettes After Sex
+2023,10,1,132,,King Von
+2023,10,1,133,,Metallica
+2023,10,1,134,,DaBaby
+2023,10,1,135,,Pop Smoke
+2023,10,1,136,,J Balvin
+2023,10,1,137,,Queen
+2023,10,1,138,,Don Toliver
+2023,10,1,139,,HARDY
+2023,10,1,140,,Thomas Rhett
+2023,10,1,141,,Ivan Cornejo
+2023,10,1,142,,blink-182
+2023,10,1,143,,Myke Towers
+2023,10,1,144,,NewJeans
+2023,10,1,145,,Green Day
+2023,10,1,146,,Lil Tjay
+2023,10,1,147,,Calvin Harris
+2023,10,1,148,,Radiohead
+2023,10,1,149,,USHER
+2023,10,1,150,,Megan Thee Stallion
+2023,10,1,151,,David Guetta
+2023,10,1,152,,Jason Aldean
+2023,10,1,153,,2Pac
+2023,10,1,154,,Selena Gomez
+2023,10,1,155,,Daddy Yankee
+2023,10,1,156,,PinkPantheress
+2023,10,1,157,,PARTYNEXTDOOR
+2023,10,1,158,,Jon Pardi
+2023,10,1,159,,Justin Timberlake
+2023,10,1,160,,Luke Bryan
+2023,10,1,161,,Miguel
+2023,10,1,162,,Becky G
+2023,10,1,163,,Ozuna
+2023,10,1,164,,Paramore
+2023,10,1,165,,Dominic Fike
+2023,10,1,166,,Jordan Davis
+2023,10,1,167,,Maluma
+2023,10,1,168,,Elton John
+2023,10,1,169,,Migos
+2023,10,1,170,,Creedence Clearwater Revival
+2023,10,1,171,,OneRepublic
+2023,10,1,172,,Pitbull
+2023,10,1,173,,Young Dolph
+2023,10,1,174,,One Direction
+2023,10,1,175,,That Mexican OT
+2023,10,1,176,,Bon Iver
+2023,10,1,177,,Sam Smith
+2023,10,1,178,,Romeo Santos
+2023,10,1,179,,Jhayco
+2023,10,1,180,,Jhené Aiko
+2023,10,1,181,,AC/DC
+2023,10,1,182,,P!nk
+2023,10,1,183,,Russ
+2023,10,1,184,,Grupo Firme
+2023,10,1,185,,Tyga
+2023,10,1,186,,Twenty One Pilots
+2023,10,1,187,,Panic! At The Disco
+2023,10,1,188,,Kane Brown
+2023,10,1,189,,Sexyy Red
+2023,10,1,190,,Foo Fighters
+2023,10,1,191,,Lefty Sm
+2023,10,1,192,,The Rolling Stones
+2023,10,1,193,,Jonas Brothers
+2023,10,1,194,,Grupo Marca Registrada
+2023,10,1,195,,Latto
+2023,10,1,196,,Conan Gray
+2023,10,1,197,,George Strait
+2023,10,1,198,,Diplo
+2023,10,1,199,,Sabrina Carpenter
+2023,10,1,200,,Machine Gun Kelly
+2023,11,1,1,,Taylor Swift
+2023,11,1,2,,Drake
+2023,11,1,3,,Bad Bunny
+2023,11,1,4,,Zach Bryan
+2023,11,1,5,,Morgan Wallen
+2023,11,1,6,,Travis Scott
+2023,11,1,7,,Kanye West
+2023,11,1,8,,The Weeknd
+2023,11,1,9,,21 Savage
+2023,11,1,10,,Peso Pluma
+2023,11,1,11,,SZA
+2023,11,1,12,,$uicideboy$
+2023,11,1,13,,Future
+2023,11,1,14,,Brent Faiyaz
+2023,11,1,15,,Kendrick Lamar
+2023,11,1,16,,J. Cole
+2023,11,1,17,,Metro Boomin
+2023,11,1,18,,Junior H
+2023,11,1,19,,Juice WRLD
+2023,11,1,20,,Lana Del Rey
+2023,11,1,21,,Olivia Rodrigo
+2023,11,1,22,,Post Malone
+2023,11,1,23,,Doja Cat
+2023,11,1,24,,Lil Baby
+2023,11,1,25,,Noah Kahan
+2023,11,1,26,,Fuerza Regida
+2023,11,1,27,,YoungBoy Never Broke Again
+2023,11,1,28,,Rod Wave
+2023,11,1,29,,Lil Uzi Vert
+2023,11,1,30,,Rihanna
+2023,11,1,31,,Eminem
+2023,11,1,32,,Yeat
+2023,11,1,33,,KAROL G
+2023,11,1,34,,Billie Eilish
+2023,11,1,35,,Luke Combs
+2023,11,1,36,,"Tyler, The Creator"
+2023,11,1,37,,XXXTENTACION
+2023,11,1,38,,Playboi Carti
+2023,11,1,39,,Gunna
+2023,11,1,40,,Lil Wayne
+2023,11,1,41,,Frank Ocean
+2023,11,1,42,,Mac Miller
+2023,11,1,43,,Ariana Grande
+2023,11,1,44,,Lil Durk
+2023,11,1,45,,Nicki Minaj
+2023,11,1,46,,Mitski
+2023,11,1,47,,Bruno Mars
+2023,11,1,48,,Justin Bieber
+2023,11,1,49,,Kodak Black
+2023,11,1,50,,Lil Tecca
+2023,11,1,51,,Natanael Cano
+2023,11,1,52,,Polo G
+2023,11,1,53,,Steve Lacy
+2023,11,1,54,,Hozier
+2023,11,1,55,,Feid
+2023,11,1,56,,Grupo Frontera
+2023,11,1,57,,Chris Stapleton
+2023,11,1,58,,Michael Jackson
+2023,11,1,59,,Lil Peep
+2023,11,1,60,,Young Thug
+2023,11,1,61,,Tyler Childers
+2023,11,1,62,,Beyoncé
+2023,11,1,63,,Trippie Redd
+2023,11,1,64,,Harry Styles
+2023,11,1,65,,Chris Brown
+2023,11,1,66,,blink-182
+2023,11,1,67,,Ed Sheeran
+2023,11,1,68,,A Boogie Wit da Hoodie
+2023,11,1,69,,Carin Leon
+2023,11,1,70,,Kali Uchis
+2023,11,1,71,,Ken Carson
+2023,11,1,72,,Lady Gaga
+2023,11,1,73,,Fleetwood Mac
+2023,11,1,74,,Arctic Monkeys
+2023,11,1,75,,A$AP Rocky
+2023,11,1,76,,The Neighbourhood
+2023,11,1,77,,Rauw Alejandro
+2023,11,1,78,,The Beatles
+2023,11,1,79,,NLE Choppa
+2023,11,1,80,,Eslabon Armado
+2023,11,1,81,,Key Glock
+2023,11,1,82,,Linkin Park
+2023,11,1,83,,TV Girl
+2023,11,1,84,,Imagine Dragons
+2023,11,1,85,,Tory Lanez
+2023,11,1,86,,Jelly Roll
+2023,11,1,87,,Coldplay
+2023,11,1,88,,Offset
+2023,11,1,89,,Gabito Ballesteros
+2023,11,1,90,,Marshmello
+2023,11,1,91,,Katy Perry
+2023,11,1,92,,Khalid
+2023,11,1,93,,Odetari
+2023,11,1,94,,Baby Keem
+2023,11,1,95,,Daniel Caesar
+2023,11,1,96,,Laufey
+2023,11,1,97,,Miley Cyrus
+2023,11,1,98,,Adele
+2023,11,1,99,,Mac DeMarco
+2023,11,1,100,,NF
+2023,11,1,101,,Summer Walker
+2023,11,1,102,,Kid Cudi
+2023,11,1,103,,Deftones
+2023,11,1,104,,JAY-Z
+2023,11,1,105,,Nirvana
+2023,11,1,106,,Tate McRae
+2023,11,1,107,,LUCKI
+2023,11,1,108,,Bryson Tiller
+2023,11,1,109,,Childish Gambino
+2023,11,1,110,,Maroon 5
+2023,11,1,111,,Dua Lipa
+2023,11,1,112,,Anuel AA
+2023,11,1,113,,Luis R Conriquez
+2023,11,1,114,,Fall Out Boy
+2023,11,1,115,,The Kid LAROI
+2023,11,1,116,,Sexyy Red
+2023,11,1,117,,Lin-Manuel Miranda
+2023,11,1,118,,Ivan Cornejo
+2023,11,1,119,,Kacey Musgraves
+2023,11,1,120,,Halsey
+2023,11,1,121,,Joji
+2023,11,1,122,,J Balvin
+2023,11,1,123,,BTS
+2023,11,1,124,,Don Toliver
+2023,11,1,125,,Moneybagg Yo
+2023,11,1,126,,Red Hot Chili Peppers
+2023,11,1,127,,Jack Harlow
+2023,11,1,128,,Queen
+2023,11,1,129,,PARTYNEXTDOOR
+2023,11,1,130,,Lil Yachty
+2023,11,1,131,,Melanie Martinez
+2023,11,1,132,,The Lumineers
+2023,11,1,133,,Cardi B
+2023,11,1,134,,Cigarettes After Sex
+2023,11,1,135,,King Von
+2023,11,1,136,,Radiohead
+2023,11,1,137,,Shakira
+2023,11,1,138,,Metallica
+2023,11,1,139,,Pop Smoke
+2023,11,1,140,,Green Day
+2023,11,1,141,,Ice Spice
+2023,11,1,142,,Cody Johnson
+2023,11,1,143,,David Guetta
+2023,11,1,144,,DaBaby
+2023,11,1,145,,Tame Impala
+2023,11,1,146,,Lil Tjay
+2023,11,1,147,,Sleepy Hallow
+2023,11,1,148,,Daddy Yankee
+2023,11,1,149,,Britney Spears
+2023,11,1,150,,Calvin Harris
+2023,11,1,151,,Young Miko
+2023,11,1,152,,USHER
+2023,11,1,153,,Migos
+2023,11,1,154,,Jon Pardi
+2023,11,1,155,,Bailey Zimmerman
+2023,11,1,156,,Megan Thee Stallion
+2023,11,1,157,,Jason Aldean
+2023,11,1,158,,HARDY
+2023,11,1,159,,BigXthaPlug
+2023,11,1,160,,Sam Smith
+2023,11,1,161,,Elton John
+2023,11,1,162,,Myke Towers
+2023,11,1,163,,Paramore
+2023,11,1,164,,Pitbull
+2023,11,1,165,,Luke Bryan
+2023,11,1,166,,Frank Sinatra
+2023,11,1,167,,Maluma
+2023,11,1,168,,2Pac
+2023,11,1,169,,Chief Keef
+2023,11,1,170,,Miguel
+2023,11,1,171,,Creedence Clearwater Revival
+2023,11,1,172,,Jhené Aiko
+2023,11,1,173,,Selena Gomez
+2023,11,1,174,,Young Dolph
+2023,11,1,175,,Jung Kook
+2023,11,1,176,,Ozuna
+2023,11,1,177,,The Rolling Stones
+2023,11,1,178,,Romeo Santos
+2023,11,1,179,,Troye Sivan
+2023,11,1,180,,Gucci Mane
+2023,11,1,181,,NewJeans
+2023,11,1,182,,OneRepublic
+2023,11,1,183,,Conan Gray
+2023,11,1,184,,Jordan Davis
+2023,11,1,185,,PinkPantheress
+2023,11,1,186,,Mariah Carey
+2023,11,1,187,,Panic! At The Disco
+2023,11,1,188,,AC/DC
+2023,11,1,189,,BabyTron
+2023,11,1,190,,Chino Pacas
+2023,11,1,191,,Twenty One Pilots
+2023,11,1,192,,Russ
+2023,11,1,193,,Sabrina Carpenter
+2023,11,1,194,,50 Cent
+2023,11,1,195,,One Direction
+2023,11,1,196,,System Of A Down
+2023,11,1,197,,Grupo Firme
+2023,11,1,198,,Justin Timberlake
+2023,11,1,199,,Foo Fighters
+2023,11,1,200,,Dominic Fike
